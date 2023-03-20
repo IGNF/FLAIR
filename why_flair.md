@@ -1,3 +1,7 @@
+---
+title: Why FLAIR?
+---
+
 ## Global context
 
 Our planet can support life thanks to the numerous and complex interactions between the elements that make up the biosphere. Its internal dynamics converge to maintain **stable balances**, essential to the richness of life. These balances are destroyed by **human activities**, whether for primary needs - increase and pressure of the population through its vital needs - or secondary needs - improvement of services and quality of material and immaterial life.
