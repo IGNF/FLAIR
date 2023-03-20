@@ -63,3 +63,5 @@ Ces défis permettent tout d’abord de soutenir la recherche scientifique en **
 Face aux défis environnementaux passés et actuels, toutes les échelles de gouvernance tentent de trouver des solutions. Celles ci doivent s'appuyer sur des outils de suivi des territoires, fins et réactifs. C'est tout l'objectif de la base CosIA qui cherche à assurer le suivie de l'artificialisation des sols. Elle a besoin pour cela de l'intelligence collective qu'elle agrège par la création des défis FLAIR.
 
 Vous pouvez donc participer à cette dynamique grâce à vos efforts de promotion, de participation ou de soutien en général.
+
+[Retour à la page d'accueil](./)
