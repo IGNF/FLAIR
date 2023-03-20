@@ -1,8 +1,8 @@
 ---
-layout: page
+title: FLAIR-Challenges
 ---
 
-# FLAIR-Challenges
+# FLAIR Challenges
 *AI Challenges on Remote Sensing*
 
 Welcome to the IGN AI Challenges ! 
