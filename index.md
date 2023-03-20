@@ -1,13 +1,15 @@
 ---
-title: FLAIR-Challenges
+title: FLAIR Challenges
 ---
 
-# FLAIR Challenges
+# Challenges FLAIR 
 *AI Challenges on Remote Sensing*
+
+[Version française](./index_fr.html)
 
 Welcome to the IGN AI Challenges ! 
 
-The French National Institute of Geographical and Forest Information presents its AI Challenge and benchmark dataset, the FLAIR (for French Land cover from Aerospace ImageRy) challenges.
+The French National Institute of Geographical and Forest Information presents its AI Challenge and benchmark dataset, the FLAIR (for French Land cover from Aerospace ImageRy) challenges. [Click here to know more about the why of these challenges.](./why_flair.html) 
 
 ## Context
 
