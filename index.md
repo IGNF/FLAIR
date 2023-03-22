@@ -9,7 +9,8 @@ title: FLAIR Challenges
 <a style="font-size: 11pt" href="./index_fr.html"><b>French version</b></a>
 <br>
 
-The French National Institute of Geographical and Forest Information (IGN) presents its AI challenges and benchmark datasets FLAIR (for French Land cover from Aerospace ImageRy). [Learn more about the context of these challenges.](./why_flair.html) 
+The French National Institute of Geographical and Forest Information (IGN) presents its AI challenges and benchmark datasets FLAIR (for French Land cover from Aerospace ImageRy). 
+[Learn more about the context of these challenges.](./why_flair.html) 
 
 <hr><p align="center"><img src="img/visuel_FLAIR_bandeau.jpg" alt="" width="100%" /></p>
 <hr>
@@ -20,7 +21,7 @@ You can reach us at : <a href = "mailto:ai-challenge@ign.fr?subject=FLAIR - AI c
 
 <img src="img/logo_ign_sfpt.png" alt="" width="30%" />
 
-The challenge took place on Codalab from the November, 21st 2022 to March, 21st 2023. See the results <a style="font-size: 10pt" href="https://codalab.lisn.upsaclay.fr/competitions/8769"><b>here.</b></a><br/>
+The challenge took place on Codalab from November, 21st 2022 to March, 21st 2023. See the results <a style="font-size: 10pt" href="https://codalab.lisn.upsaclay.fr/competitions/8769"><b>here.</b></a><br/>
 
 FLAIR #1 <b>datapaper  &#128209;</b>  : https://arxiv.org/pdf/2211.12979.pdf <br>
 FLAIR #1 <b>repository &#128193;</b> : https://github.com/IGNF/FLAIR-1-AI-Challenge<br>
