@@ -6,8 +6,7 @@ title: FLAIR Challenges
 <p align="center"><img src="img/flair_logo.jpg" alt="" width="40%" /></p>
 
 
-<a style="font-size: 11pt" href="./index_fr.html"><b>French version</b></a> / <a style="font-size: 11pt" href="./index.html"><b>English version</b></a>
-
+<a style="font-size: 11pt" href="./index_fr.html"><b>French version</b></a>
 <br>
 
 The French National Institute of Geographical and Forest Information (IGN) presents its AI challenges and benchmark datasets FLAIR (for French Land cover from Aerospace ImageRy). [Learn more about the context of these challenges.](./why_flair.html) 
