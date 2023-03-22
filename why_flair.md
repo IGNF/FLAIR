@@ -10,14 +10,14 @@ Scientific studies and international organizations are constantly warning of thi
 </font></div>
 
 ## European actions
-<div style="background-color:#2732c4; padding: 1px; color: white">
+<div style="background-color:#2732c4; padding: 1px; color: black">
 In order to promote <b>large-scale policies</b> to meet the challenges of ecological disruption, the European Union set up an Earth observation program in 1998: <b>the Copernicus program</b>. It aims to strengthen ground measurement tools with satellite sensors launched in 2014, including the star duo Sentinel-2A and Sentinel-2B. Their wide fields of coverage allow us to measure, understand and predict the <b>state of the environment</b> on land, at sea and in the atmosphere.
 
 This program provides quality data from these sensors, as well as analysis tools, turnkey services and funding to disseminate Earth Observation techniques to member states and the international community. They thus contribute to the understanding of the **artificialization process**.
 </font></div>
 
 ## European roadmap
-<div style="background-color:#2732c4; padding: 1px; color: white">
+<div style="background-color:#2732c4; padding: 1px; color: black">
 Convinced that providing sustainable growth to its citizens requires a major transformation of the economy and future policies, the European Union published in 2011 a roadmap to rethink <b>the use of resources</b>.
 
 It aims to instill a **logic of sustainability** in markets and transform the economy so that it chooses the materials and resources needed for a project according to their environmental impact and manages the recycling of residual waste at the end of the project. It proposes actions to **preserve and restore ecosystems**, in particular through soil decontamination.
