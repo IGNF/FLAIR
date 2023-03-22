@@ -6,7 +6,7 @@ title: Challenge Flair
 <p align="center"><img src="img/flair_logo.jpg" alt="" width="40%" /></p>
 
 
-<a style="font-size: 11pt" href="./index.html"><b>English version</b></a> / <a style="font-size: 11pt" href="./index_fr.html"><b>French version</b></a> 
+<a style="font-size: 11pt" href="./index.html"><b>English version</b></a>
 
 <br>
 
