@@ -122,6 +122,21 @@ Une architecture U-Net avec un encodeur ResNet34 pré-entraîné de la librairie
 </table>
 
 
+### Citation
+
+Veuillez inclure la citation suivante si vous utilisez des données du dataset FLAIR #1:
+
+```
+@article{garioud2022flair1,
+  doi = {10.13140/RG.2.2.30183.73128/1},
+  url = {https://arxiv.org/pdf/2211.12979.pdf},
+  author = {Garioud, Anatol and Peillet, Stéphane and Bookjans, Eva and Giordano, Sébastien and Wattrelos, Boris},
+  title = {FLAIR #1: semantic segmentation and domain adaptation dataset},
+  publisher = {arXiv},
+  year = {2022}
+}
+
+```
 
 <br><br>
 
