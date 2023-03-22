@@ -2,17 +2,13 @@
 title: FLAIR Challenges
 ---
 
-# Challenges FLAIR 
-<p align="center"><img src="img/flair_logo.jpg" alt="" width="20%" /></p>
+# Welcome to IGN's FLAIR datasets page!
+<p align="center"><img src="img/flair_logo.jpg" alt="" width="40%" /></p>
 
-*Artificial Intelligence challenges organised around geo-data and deep learning*
 
 <a href="./index_fr.html"><img src="img/french.png" width="3%" alt="alt text" title="Version française"></a>
 
-
-Welcome to the IGN AI Challenges ! 
-
-The French National Institute of Geographical and Forest Information (IGN) presents its AI Challenge and benchmark datasets, the FLAIR (for French Land cover from Aerospace ImageRy) challenges. [Learn more about the context of these challenges.](./why_flair.html) 
+The French National Institute of Geographical and Forest Information (IGN) presents its AI challenges and benchmark datasets FLAIR (for French Land cover from Aerospace ImageRy). [Learn more about the context of these challenges.](./why_flair.html) 
 
 <hr><p align="center"><img src="img/visuel_FLAIR_bandeau.jpg" alt="" width="100%" /></p>
 <hr>
@@ -57,12 +53,40 @@ A U-Net architecture with a pre-trained ResNet34 encoder from the pytorch segmen
 
 ### Datasets
 
-|Data          |Volume  | Link   |
-|--------------|--------|--------|
-|Aerial images |        |        |
-|Labels        |        |        |
-|Toy dataset   |        |        |
-|Metadata      |        |        |
+
+<table>
+  <tr>
+    <th>Data</th>
+    <th>Volume</th>
+    <th>Type</th>
+    <th>Link</th>
+  </tr>
+  <tr>
+    <td>Aerial images</td>
+    <td>xx Go</td>
+    <td>.zip</td>
+    <td><a style="font-size: 12pt" href=""><b>download</b></a>
+  </tr>
+  <tr>
+    <td>Aerial metadata</td>
+    <td>xx Mo</td>
+    <td>.json</td>
+    <td><a style="font-size: 12pt" href=""><b>download</b></a>
+  </tr>
+  <tr>
+    <td>Labels</td>
+    <td>xx Go</td>
+    <td>.zip</td>
+    <td><a style="font-size: 12pt" href=""><b>download</b></a>
+  </tr>
+  <tr>
+    <td>Toy dataset</td>
+    <td>xx Go</td>
+    <td>.zip</td>
+    <td><a style="font-size: 12pt" href=""><b>download</b></a>
+  </tr>
+</table>
+
 
 
 <br><br>
