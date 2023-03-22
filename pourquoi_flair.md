@@ -12,7 +12,7 @@ Les études scientifiques et les organismes internationaux ne cessent d'alerter 
 
 
 ## Actions européennes
-<div style="background-color:#2732c4; padding: 1px; color: black">
+<div style="background-color:#83768c; padding: 1px; color: black">
 Pour impulser des <b>politiques d'envergure</b> face aux défis de la rupture écologique, l'Union Européenne a dès 1998 mis en place un programme d'observation de la Terre : le programme <b>Copernicus</b>. Il vise à renforcer les outils de mesure au sol avec des capteurs satellites lancés dès 2014 dont le duo star Sentinel-2A et Sentinel-2B. Leurs champs larges permettent de mesurer, de comprendre et de prévoir <b>l'état de l'environnement</b> sur terre, en mer et dans l'atmosphère.
 
 Ce programme met pour cela à disposition des <b>données de qualité</b> issues de ces capteurs, mais aussi des outils d'analyse, des services clefs en main et des financements permettant de diffuser les techniques d<b>Observation de la Terre</b> dans les états membres et la communauté internationale. Ils participent ainsi à la compréhension du processus d'<b>artificialisation</b>.
@@ -20,7 +20,7 @@ Ce programme met pour cela à disposition des <b>données de qualité</b> issues
 
 
  ## Feuille de route européenne
-<div style="background-color:#2732c4; padding: 1px; color: black">
+<div style="background-color:#83768c; padding: 1px; color: black">
 Convaincue que procurer une croissance durable à ces citoyens nécessite une transformation majeure de l'économie et des politiques à venir, l'Union Européenne a publié en 2011 une <a href="https://eur-lex.europa.eu/legal-content/FR/TXT/PDF/?"><b>feuille de route</b></a> pour repenser l'<b>utilisation des ressources</b>.
 
 
