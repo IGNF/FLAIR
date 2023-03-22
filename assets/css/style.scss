@@ -3,11 +3,14 @@
 
 @import "jekyll-theme-midnight";
 
-body{
-    margin-left: -100px;
-   
+.wrapper {
+    max-width:80%;
+    margin:0 auto;
+    position:relative;
+    padding: 0 20px;
+  }
+  
+p{
+    font-size: 20px;
 }
 
-p{
-     font-size: 24px;
-}
