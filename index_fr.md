@@ -68,7 +68,7 @@ Le dataset couvre un total d'environ 800 km², avec des patches sélectionnés s
 <table>
     <tr>
         <td style="text-align: center"><img src="img/ortho.png" 
-            alt="Michael Jordan" title="Michael Jordan" /></td>
+            alt="ORTHO HR" title="Michael Jordan" /></td>
         <td style="text-align: center"><img src="img/labels.png" alt="James Worthy" 
             title="Labels" /></td>
     </tr>
