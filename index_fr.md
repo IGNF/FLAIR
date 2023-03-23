@@ -19,12 +19,14 @@ You can reach us at : <a href = "mailto:ai-challenge@ign.fr?subject=FLAIR - AI c
 
 ## FLAIR #1 : segmentation sémantique et adaptation de domaine
 
-<img src="img/logo_ign_sfpt.png" alt="" width="30%" />
+Challenge organisé par l'IGN avec le soutient de la <a href="https://www.sfpt.fr/"><b>SFPT.</b></a>
+<br><br>
 
 Ce challenge s'est déroulé du 21 Novembre 2022 au 21 Mars 2023. Vous pouvez consulter les résultats <a style="font-size: 10pt" href="https://codalab.lisn.upsaclay.fr/competitions/8769"><b>ici.</b></a><br/>
 
 FLAIR #1 <b> datapaper  &#128209;</b>  : https://arxiv.org/pdf/2211.12979.pdf <br>
-FLAIR #1 <b> dépôt github &#128193;</b> : https://github.com/IGNF/FLAIR-1-AI-Challenge<br>
+FLAIR #1 <b> dépôt github &#128193;</b> : https://github.com/IGNF/FLAIR-1-AI-Challenge<br><br><br>
+
 
 ### Description
 
@@ -148,8 +150,9 @@ Une architecture U-Net avec un encodeur ResNet34 pré-entraîné de la librairie
 
 ## FLAIR #2 : Texture et temps à partir d'imagerie optique multimodal pour la segmentation sémantique 
 
-<img src="img/logo_ign_cnes.png" alt="" width="30%" />
+Challenge organisé par l'IGN avec le soutient du <a href="https://cnes.fr/en"><b>CNES.</b></a>
 
+<br>
 <b>Prochainement !</b> 
 
 <!---
