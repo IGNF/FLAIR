@@ -14,7 +14,6 @@ The French National Institute of Geographical and Forest Information (IGN) prese
 
 <hr><p align="center"><img src="img/visuel_FLAIR_bandeau.jpg" alt="" width="100%" /></p>
 <hr>
-You can reach us at : <a href = "mailto:ai-challenge@ign.fr?subject=FLAIR - AI challenge @IGN">ai-challenge@ign.fr</a>
 <br><br>
 
 
