@@ -6,7 +6,7 @@ title: Challenge Flair
 <p align="center"><img src="img/flair_logo.jpg" alt="" width="40%" /></p>
 
 
-<a style="font-size: 11pt" href="./index.html"><b>English version</b></a>
+<a style="font-size: 11pt" href="./index.html"><b>English version</b></a> / <a style="font-size: 11pt" href="./index_fr.html"><b>French version</b></a> 
 
 <br>
 
@@ -68,12 +68,12 @@ Le dataset couvre un total d'environ 800 km², avec des patches sélectionnés s
 <table>
     <tr>
         <td style="text-align: center"><img src="img/ortho.png" 
-            alt="ORTHO HR" title="Michael Jordan" /></td>
+            alt="Michael Jordan" title="Michael Jordan" /></td>
         <td style="text-align: center"><img src="img/labels.png" alt="James Worthy" 
             title="Labels" /></td>
     </tr>
     <tr>
-        <td style="text-align: center">ORTHO HR&#174;</td>
+        <td style="text-align: center">Image aérienne ORTHO HR&#174;</td>
         <td style="text-align: center">Annotations</td>
     </tr>
 </table>
@@ -95,48 +95,53 @@ Une architecture U-Net avec un encodeur ResNet34 pré-entraîné de la librairie
     <th>Type</th>
     <th>Lien</th>
   </tr>
+  <tr><td colspan="4" height = 10px></td>
   <tr>
-    <td>Images aériennes</td>
-    <td>xx Go</td>
+    <td>Images aériennes - entraînement</td>
+    <td>50.7 Go</td>
     <td>.zip</td>
     <td><a style="font-size: 10pt" href=""><b>download</b></a>
   </tr>
   <tr>
+    <td>Images aériennes - test</td>
+    <td>13.4 Go</td>
+    <td>.zip</td>
+    <td><a style="font-size: 10pt" href=""><b>download</b></a>
+  </tr>
+  <tr>
+    <td>Annotations - entraînement</td>
+    <td>485 Mo</td>
+    <td>.zip</td>
+    <td><a style="font-size: 10pt" href=""><b>download</b></a>
+  </tr>
+  <tr>
+    <td>Annotations - test</td>
+    <td>124 Mo</td>
+    <td>.zip</td>
+    <td><a style="font-size: 10pt" href=""><b>download</b></a>
+  </tr>
+  <tr><td colspan="4" height = 10px></td>
+  <tr>
     <td>Métadonnées aériennes</td>
-    <td>xx Mo</td>
+    <td>16.1 Mo</td>
     <td>.json</td>
     <td><a style="font-size: 10pt" href=""><b>download</b></a>
   </tr>
   <tr>
-    <td>Annotations</td>
-    <td>xx Go</td>
-    <td>.zip</td>
+    <td>Shapefile zones</td>
+    <td>392 Ko</td>
+    <td>.gpkg</td>
     <td><a style="font-size: 10pt" href=""><b>download</b></a>
   </tr>
   <tr>
-    <td>Jeu de données réduit</td>
-    <td>xx Mo</td>
+    <td>Jeu de données réduit (entraînement et test)</td>
+    <td>215 Mo</td>
     <td>.zip</td>
     <td><a style="font-size: 10pt" href=""><b>download</b></a>
   </tr>
 </table>
 
 
-### Citation
-
-Veuillez inclure la citation suivante si vous utilisez des données du dataset FLAIR #1:
-
-```
-@article{garioud2022flair1,
-  doi = {10.13140/RG.2.2.30183.73128/1},
-  url = {https://arxiv.org/pdf/2211.12979.pdf},
-  author = {Garioud, Anatol and Peillet, Stéphane and Bookjans, Eva and Giordano, Sébastien and Wattrelos, Boris},
-  title = {FLAIR #1: semantic segmentation and domain adaptation dataset},
-  publisher = {arXiv},
-  year = {2022}
-}
-
-```
 
 <br><br>
 
