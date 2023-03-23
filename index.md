@@ -136,8 +136,9 @@ A U-Net architecture with a pre-trained ResNet34 encoder from the pytorch segmen
     <td>.gpkg</td>
     <td><a style="font-size: 10pt" href=""><b>download</b></a>
   </tr>
+  <tr><td colspan="4" height=10px style="outline: "></td>
   <tr>
-    <td>Toy dataset (train and test)</td>
+    <td>Toy dataset (subset of train and test)</td>
     <td>215 Mo</td>
     <td>.zip</td>
     <td><a style="font-size: 10pt" href=""><b>download</b></a>
