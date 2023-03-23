@@ -133,8 +133,9 @@ Une architecture U-Net avec un encodeur ResNet34 pré-entraîné de la librairie
     <td>.gpkg</td>
     <td><a style="font-size: 10pt" href=""><b>download</b></a>
   </tr>
+  <tr><td colspan="4" height = 10px></td>
   <tr>
-    <td>Jeu de données réduit (entraînement et test)</td>
+    <td>Jeu de données exemple (entraînement et test réduits)</td>
     <td>215 Mo</td>
     <td>.zip</td>
     <td><a style="font-size: 10pt" href=""><b>download</b></a>
