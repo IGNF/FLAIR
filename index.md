@@ -17,6 +17,7 @@ The French National Institute of Geographical and Forest Information (IGN) prese
 You can reach us at : <a href = "mailto:ai-challenge@ign.fr?subject=FLAIR - AI challenge @IGN">ai-challenge@ign.fr</a>
 <br><br>
 
+
 ## FLAIR #1 : semantic segmentation and domain adaptation
 
 <img src="img/logo_ign_sfpt.png" alt="" width="30%" />
@@ -69,12 +70,12 @@ The dataset covers a total of approximatly 800 km², with patches that have been
 <table>
     <tr>
         <td style="text-align: center"><img src="img/ortho.png" 
-            alt="ORHTO HR" title="Michael Jordan" /></td>
+            alt="Aerial image ORHTO HR" title="Michael Jordan" /></td>
         <td style="text-align: center"><img src="img/labels.png" alt="James Worthy" 
             title="Labels" /></td>
     </tr>
     <tr>
-        <td style="text-align: center">ORTHO HR&#174;</td>
+        <td style="text-align: center">Aerial image ORHTO HR&#174;</td>
         <td style="text-align: center">Labels</td>
     </tr>
 </table>
@@ -90,35 +91,55 @@ A U-Net architecture with a pre-trained ResNet34 encoder from the pytorch segmen
 
 ### Datasets
 
-
 <table>
   <tr>
     <th>Data</th>
-    <th>Volume</th>
+    <th>Size</th>
     <th>Type</th>
     <th>Link</th>
-  </tr>
+ </tr>
+ <tr><td colspan="4" height = 10px></td>
+ </tr>
   <tr>
-    <td>Aerial images</td>
-    <td>xx Go</td>
+    <td>Aerial images - train</td>
+    <td>50.7 Go</td>
+    <td>.zip</td>
+    <td><a style="font-size: 10pt" href=""><b>download</b></a>
+  </tr>
+   <tr>
+    <td>Aerial images - test</td>
+    <td>13.4 Go</td>
     <td>.zip</td>
     <td><a style="font-size: 10pt" href=""><b>download</b></a>
   </tr>
   <tr>
+    <td>Labels - train</td>
+    <td>485 Mo</td>
+    <td>.zip</td>
+    <td><a style="font-size: 10pt" href=""><b>download</b></a>
+  </tr>
+  <tr style="cellspacing: 10px">
+    <td>Labels - test</td>
+    <td>124 Mo</td>
+    <td>.zip</td>
+    <td><a style="font-size: 10pt" href=""><b>download</b></a>
+  </tr>
+  <tr><td colspan="4" height=10px style="outline: "></td>
+  <tr>
     <td>Aerial metadata</td>
-    <td>xx Mo</td>
+    <td>16.1 Mo</td>
     <td>.json</td>
     <td><a style="font-size: 10pt" href=""><b>download</b></a>
   </tr>
   <tr>
-    <td>Labels</td>
-    <td>xx Go</td>
-    <td>.zip</td>
+    <td>Areas shapes</td>
+    <td>392 Ko</td>
+    <td>.gpkg</td>
     <td><a style="font-size: 10pt" href=""><b>download</b></a>
   </tr>
   <tr>
-    <td>Toy dataset</td>
-    <td>xx Go</td>
+    <td>Toy dataset (train and test)</td>
+    <td>215 Mo</td>
     <td>.zip</td>
     <td><a style="font-size: 10pt" href=""><b>download</b></a>
   </tr>
@@ -137,7 +158,6 @@ Please include a citation to the following paper if you use the FLAIR #1 dataset
   publisher = {arXiv},
   year = {2022}
 }
-
 ```
 
 <br><br>
