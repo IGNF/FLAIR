@@ -19,12 +19,14 @@ The French National Institute of Geographical and Forest Information (IGN) prese
 
 ## FLAIR #1 : semantic segmentation and domain adaptation
 
-<img src="img/logo_ign_sfpt.png" alt="" width="30%" />
+Challenge organized by IGN with the support of the <a href="https://www.sfpt.fr/"><b>SFPT.</b></a>
+<br><br>
 
-The challenge took place on Codalab from November, 21st 2022 to March, 21st 2023. See the results <a style="font-size: 10pt" href="https://codalab.lisn.upsaclay.fr/competitions/8769"><b>here.</b></a><br/>
+
+The challenge took place on Codalab from November, 21st 2022 to March, 21st 2023. See the results <a href="https://codalab.lisn.upsaclay.fr/competitions/8769"><b>here.</b></a><br/>
 
 FLAIR #1 <b>datapaper  &#128209;</b>  : https://arxiv.org/pdf/2211.12979.pdf <br>
-FLAIR #1 <b>repository &#128193;</b> : https://github.com/IGNF/FLAIR-1-AI-Challenge<br>
+FLAIR #1 <b>repository &#128193;</b> : https://github.com/IGNF/FLAIR-1-AI-Challenge<br><br><br>
 
 ### Description
 
@@ -164,8 +166,9 @@ Please include a citation to the following paper if you use the FLAIR #1 dataset
 
 ## FLAIR #2 : texture and time from multimodal optical imagery for segmentic segmentation 
 
-<img src="img/logo_ign_cnes.png" alt="" width="30%" />
+Challenge organized by IGN with the support of the <a href="https://cnes.fr/en"><b>CNES.</b></a>
 
+<br>
 <b>Coming soon !</b> 
 
 <!---
