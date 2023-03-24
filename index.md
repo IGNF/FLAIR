@@ -53,7 +53,7 @@ The FLAIR-one dataset consists of 77,412 high resolution patches (512x512 at 0.2
   <tr><td bgcolor='#55ff00'></td><td>herbaceous vegetation</td><td>10</td></tr>
   <tr><td bgcolor='#fff30d'></td><td>agricultural land</td><td>11</td></tr>
   <tr><td bgcolor='#e4df7c'></td><td>plowed land</td><td>12</td></tr>
-  <tr><td bgcolor='#3de6eb'></td><td>swimming_pool</td><td>13</td></tr>
+  <tr><td bgcolor='#3de6eb'></td><td>swimming pool</td><td>13</td></tr>
   <tr><td bgcolor='#ffffff'></td><td>snow</td><td>14</td></tr>
   <tr><td bgcolor='#8ab3a0'></td><td>clear cut</td><td>15</td></tr>
   <tr><td bgcolor='#6b714f'></td><td>mixed</td><td>16</td></tr>
