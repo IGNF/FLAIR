@@ -17,7 +17,7 @@ The French National Institute of Geographical and Forest Information (IGN) prese
 <br><br>
 
 
-## FLAIR #1 : semantic segmentation and domain adaptation &#127757;🌱🏠🌳🛩️
+## FLAIR #1 : semantic segmentation and domain adaptation &#127757;🌱🏠🌳➡️🛩️
 
 Challenge organized by IGN with the support of the <a href="https://www.sfpt.fr/"><b>SFPT.</b></a>
 <br><br>
@@ -164,7 +164,7 @@ Please include a citation to the following paper if you use the FLAIR #1 dataset
 
 <br><br>
 
-## FLAIR #2 : texture and time from multimodal optical imagery for segmentic segmentation &#127757;🌱🏠🌳🛩️🛰️
+## FLAIR #2 : texture and time from multimodal optical imagery for segmentic segmentation &#127757;🌱🏠🌳➡️🛩️🛰️
  
 Challenge organized by IGN with the support of the <a href="https://cnes.fr/en"><b>CNES.</b></a>
 
