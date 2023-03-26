@@ -36,34 +36,57 @@ Les images aériennes de télédétection à l'échelle d'un pays sont nécessai
 
 Le dataset FLAIR#1 est composé de 77,412 patches de 512x512 (résolution spatiale de 0.2m) avec une sémantique à 19 classes. Spécifiquement pour le challenge et les baselines associées et en raison d'une fréquence par classe déséquilibrée, la sémantique a été modifiée à 13 classes (>12 -> 13). Rapportez-vous au datapaper pour plus de précisions. 
 
+
+
+
 <center>
-<table style="width:50%">
+<table style="width:60%">
 <thead>
-  <tr><th width=20%></th><th>Classe</th><th width=15%>Valeur</th></tr>
+  <tr><th width=20%></th><th>Classe</th><th width=15%>Valeur</th><th>Freq.-entraînement (%)</th><th>Freq.-test (%)</th></tr>
 </thead>
 <tbody>
-  <tr><td bgcolor='#db0e9a'></td><td>bâtiment</td><td>1</td></tr>
-  <tr><td bgcolor='#938e7b'></td><td>zone perméable</td><td>2</td></tr>
-  <tr><td bgcolor='#f80c00'></td><td>zone imperméable</td><td>3</td></tr>
-  <tr><td bgcolor='#a97101'></td><td>sol nu</td><td>4</td></tr>
-  <tr><td bgcolor='#1553ae'></td><td>eau</td><td>5</td></tr>
-  <tr><td bgcolor='#194a26'></td><td>conifères</td><td>6</td></tr>
-  <tr><td bgcolor='#46e483'></td><td>feuillus</td><td>7</td></tr>
-  <tr><td bgcolor='#f3a60d'></td><td>brousaille</td><td>8</td></tr>
-  <tr><td bgcolor='#660082'></td><td>vigne</td><td>9</td></tr>
-  <tr><td bgcolor='#55ff00'></td><td>pelouse</td><td>10</td></tr>
-  <tr><td bgcolor='#fff30d'></td><td>culture</td><td>11</td></tr>
-  <tr><td bgcolor='#e4df7c'></td><td>terre labourée</td><td>12</td></tr>
-  <tr><td bgcolor='#3de6eb'></td><td>piscine</td><td>13</td></tr>
-  <tr><td bgcolor='#ffffff'></td><td>neige</td><td>14</td></tr>
-  <tr><td bgcolor='#8ab3a0'></td><td>coupe</td><td>15</td></tr>
-  <tr><td bgcolor='#6b714f'></td><td>mixte</td><td>16</td></tr>
-  <tr><td bgcolor='#c5dc42'></td><td>ligneux</td><td>17</td></tr>
-  <tr><td bgcolor='#9999ff'></td><td>serres</td><td>18</td></tr>
-  <tr><td bgcolor='#000000'></td><td>autre</td><td>19</td></tr>
+  <tr><td bgcolor='#db0e9a'></td><td>bâtiment</td><td style='text-align: center'>1</td><td style='text-align: center'>8.14</td><td style='text-align: center'>8.6</td></tr>
+  
+  <tr><td bgcolor='#938e7b'></td><td>zone perméable</td><td style='text-align: center'>2</td><td style='text-align: center'>8.25</td><td style='text-align: center'>7.34</td></tr>
+  
+  <tr><td bgcolor='#f80c00'></td><td>zone imperméable</td><td style='text-align: center'>3</td><td style='text-align: center'>13.72</td><td style='text-align: center'>14.98</td></tr>
+  
+  <tr><td bgcolor='#a97101'></td><td>sol nu</td><td style='text-align: center'>4</td><td style='text-align: center'>3.47</td><td style='text-align: center'>4.36</td></tr>
+  
+  <tr><td bgcolor='#1553ae'></td><td>eau</td><td style='text-align: center'>5</td><td style='text-align: center'>4.88</td><td style='text-align: center'>5.98</td></tr>
+  
+  <tr><td bgcolor='#194a26'></td><td>conifères</td><td style='text-align: center'>6</td><td style='text-align: center'>2.74</td><td style='text-align: center'>2.39</td></tr>
+  
+  <tr><td bgcolor='#46e483'></td><td>feuillus</td><td style='text-align: center'>7</td><td style='text-align: center'>15.38</td><td style='text-align: center'>13.91</td></tr>
+  
+  <tr><td bgcolor='#f3a60d'></td><td>brousaille</td><td style='text-align: center'>8</td><td style='text-align: center'>6.95</td><td style='text-align: center'>6.91</td></tr>
+  
+  <tr><td bgcolor='#660082'></td><td>vigne</td><td style='text-align: center'>9</td><td style='text-align: center'>3.13</td><td style='text-align: center'>3.87</td></tr>
+  
+  <tr><td bgcolor='#55ff00'></td><td>pelouse</td><td style='text-align: center'>10</td><td style='text-align: center'>17.84</td><td style='text-align: center'>22.17</td></tr>
+  
+  <tr><td bgcolor='#fff30d'></td><td>culture</td><td style='text-align: center'>11</td><td style='text-align: center'>10.98</td><td style='text-align: center'>6.95</td></tr>
+  
+  <tr><td bgcolor='#e4df7c'></td><td>terre labourée</td><td style='text-align: center'>12</td><td style='text-align: center'>3.88</td><td style='text-align: center'>2.25</td></tr>
+  
+  <tr><td bgcolor='#3de6eb'></td><td>piscine</td><td style='text-align: center'>13</td><td style='text-align: center'>0.03</td><td style='text-align: center'>0.04</td></tr>
+  
+  <tr><td bgcolor='#ffffff'></td><td>neige</td><td style='text-align: center'>14</td><td style='text-align: center'>0.15</td><td style='text-align: center'>-</td></tr>
+  
+  <tr><td bgcolor='#8ab3a0'></td><td>coupe</td><td style='text-align: center'>15</td><td style='text-align: center'>0.15</td><td style='text-align: center'>0.01</td></tr>
+  
+  <tr><td bgcolor='#6b714f'></td><td>mixte</td><td style='text-align: center'>16</td><td style='text-align: center'>0.05</td><td style='text-align: center'>-</td></tr>
+  
+  <tr><td bgcolor='#c5dc42'></td><td>ligneux</td><td style='text-align: center'>17</td><td style='text-align: center'>0.01</td><td style='text-align: center'>0.03</td></tr>
+  
+  <tr><td bgcolor='#9999ff'></td><td>serres</td><td style='text-align: center'>18</td><td style='text-align: center'>0.12</td><td style='text-align: center'>0.2</td></tr>
+  
+  <tr><td bgcolor='#000000'></td><td>autre</td><td style='text-align: center'>19</td><td style='text-align: center'>0.14</td><td style='text-align: center'>-</td></tr>
 </tbody>
 </table>
 </center>
+
+
 
 Le dataset couvre un total d'environ 800 km², avec des patches sélectionnés sur l'ensemble du territoire métropolitain afin de représenter sa diversité (domaines spatiaux). Les images aériennes incluent dans le dataset sont également acquisent à des mois et années différentes (domaines temporels). 
 
@@ -158,3 +181,5 @@ Challenge organisé par l'IGN avec le soutient du <a href="https://cnes.fr/en"><
 <!---
 FLAIR #2 repository : https://github.com/IGNF/FLAIR-2-AI-Challenge
 -->
+
+
