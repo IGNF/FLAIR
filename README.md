@@ -1,4 +1,4 @@
-# FLAIR-Challenges
+# FLAIR - Challenges
 
 ## Artificial Intelligence challenges organised around geo-data and deep learning
 
