@@ -12,10 +12,13 @@ title: Challenge Flair
 
 L'Institut national de l'information géographique et forestière (IGN) présente ses défis en matière d'IA et ses jeux de données de référence FLAIR (pour French Land Cover from Aerospace ImageRy). [En savoir plus sur le contexte de ces défis.](./pourquoi_flair.html) 
 
-<hr><p align="center"><img src="img/visuel_FLAIR_bandeau.jpg" alt="" width="100%" /></p>
+<hr><p align="center"><img src="img/flair_bandeau.jpg" alt="" width="100%" /></p>
 <hr>
 Contactez-nous à l'adresse: <a href = "mailto:ai-challenge@ign.fr?subject=FLAIR - AI challenge @IGN">ai-challenge@ign.fr</a>
+
+<p align="center"><img src="img/flair_predict.gif" alt="" width="50%" /></p>
 <br><br>
+
 
 ## FLAIR #1 : segmentation sémantique et adaptation de domaine 🌍🌱🏠🌳➡️🛩️
 
@@ -92,9 +95,9 @@ Le dataset couvre un total d'environ 800 km², avec des patches sélectionnés s
 
 <table>
     <tr>
-        <td style="text-align: center"><img src="img/ortho.png" 
-            alt="Michael Jordan" title="Michael Jordan" /></td>
-        <td style="text-align: center"><img src="img/labels.png" alt="James Worthy" 
+        <td style="text-align: center"><img src="img/flair_ortho.png" 
+            alt="Michael Jordan" title="Ortho HR" /></td>
+        <td style="text-align: center"><img src="img/flair_labels.png" alt="Labels" 
             title="Labels" /></td>
     </tr>
     <tr>
