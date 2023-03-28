@@ -10,11 +10,11 @@ title: Challenge Flair
 
 <br>
 
-L'Institut national de l'information géographique et forestière (IGN) présente ses défis en matière d'IA et ses jeux de données de référence FLAIR (pour French Land Cover from Aerospace ImageRy). [En savoir plus sur le contexte de ces défis.](./pourquoi_flair.html) 
+L'Institut national de l'information géographique et forestière (IGN) présente ses défis en matière d'IA et ses jeux de données de référence FLAIR (pour French Land Cover from Aerospace ImageRy). [En savoir plus sur le contexte de ces défis.](./pourquoi_flair.html) <br>
+Contactez-nous à l'adresse: <a href = "mailto:ai-challenge@ign.fr?subject=FLAIR - AI challenge @IGN">ai-challenge@ign.fr</a>
 
 <hr><p align="center"><img src="img/flair_bandeau.jpg" alt="" width="100%" /></p>
 <hr>
-Contactez-nous à l'adresse: <a href = "mailto:ai-challenge@ign.fr?subject=FLAIR - AI challenge @IGN">ai-challenge@ign.fr</a>
 
 <p align="center"><img src="img/flair_predict.gif" alt="" width="50%" /></p>
 <br><br>
