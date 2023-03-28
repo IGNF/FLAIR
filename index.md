@@ -14,26 +14,22 @@ The French National Institute of Geographical and Forest Information (IGN) prese
 
 <hr><p align="center"><img src="img/visuel_FLAIR_bandeau.jpg" alt="" width="100%" /></p>
 <hr>
-<br><br>
+<br/><br/>
 
 
 ## FLAIR #1 : semantic segmentation and domain adaptation 🌍🌱🏠🌳➡️🛩️
 
-Challenge organized by IGN with the support of the <a href="https://www.sfpt.fr/"><b>SFPT.</b></a>
-<br><br>
+Challenge organized by IGN with the support of the <a href="https://www.sfpt.fr/"><b>SFPT.</b></a><br>
+The challenge took place on Codalab from November, 21st 2022 to March, 21st 2023. See the results <a href="https://codalab.lisn.upsaclay.fr/competitions/8769"><b>here.</b></a><br/><
 
-
-The challenge took place on Codalab from November, 21st 2022 to March, 21st 2023. See the results <a href="https://codalab.lisn.upsaclay.fr/competitions/8769"><b>here.</b></a><br/>
-
-FLAIR #1 <b>datapaper  &#128209;</b>  : https://arxiv.org/pdf/2211.12979.pdf <br>
-FLAIR #1 <b>repository &#128193;</b> : https://github.com/IGNF/FLAIR-1-AI-Challenge<br><br><br>
+FLAIR #1 <b>datapaper  &#128209;</b>  : https://arxiv.org/pdf/2211.12979.pdf <br/>
+FLAIR #1 <b>repository &#128193;</b> : https://github.com/IGNF/FLAIR-1-AI-Challenge<br/><br/><br/>
 
 ### Description
 
 We present here a large dataset ( >20 billion pixels) of aerial imagery, topographic information and land cover (buildings, water, forest, agriculture...) annotations with the aim to further advance research on semantic segmentation , domain adaptation and transfer learning. Countrywide remote sensing aerial imagery is by necessity acquired at different times and dates and under different conditions. Likewise, at large scales, the characteristics of semantic classes can vary depending on location and become heterogenous. This opens up challenges for the spatial and temporal generalization of deep learning models! 
 
-The FLAIR-one dataset consists of 77,412 high resolution patches (512x512 at 0.2 m spatial resolution) with 19 semantic classes. For this challenge and the associated baselines, due to imbalanced class frequencies, the number of classes has been reduced to 13 (remapping >12 to 13, see the datapaper for explanation). 
-<br>
+The FLAIR-one dataset consists of 77,412 high resolution patches (512x512 at 0.2 m spatial resolution) with 19 semantic classes. For this challenge and the associated baselines, due to imbalanced class frequencies, the number of classes has been reduced to 13 (remapping >12 to 13, see the datapaper for explanation).<br/>
 
 <center>
 <table style="width:60%">
@@ -101,12 +97,12 @@ The dataset covers a total of approximatly 812 km², with patches that have been
 
 
 The test dataset consists of 15,700 patches from 10 domains not included in the train dataset. Class frequency and temporal domains of the test dataset includes a shift from the train dataset allowing to assess the domain adaptation capabilities of developped approaches.
-
+<br/><br/>
 
 ### Baseline model
 
 A U-Net architecture with a pre-trained ResNet34 encoder from the pytorch segmentation models library has been used for the baselines. The used architecture allows integration of patch-wise metadata information and employs commonly used image data augmentation techniques. Codes are available in the FLAIR #1 repository.
-
+<br/><br/>
 
 ### Datasets
 
@@ -164,6 +160,7 @@ A U-Net architecture with a pre-trained ResNet34 encoder from the pytorch segmen
     <td><a style="font-size: 10pt" href="https://storage.gra.cloud.ovh.net/v1/AUTH_366279ce616242ebb14161b7991a8461/defi-ia/flair_data_1/flair_1_toy_dataset.zip"><b>download</b></a>
   </tr>
 </table>
+<br/><br/>
 
 ### Reference
 
@@ -180,13 +177,13 @@ Please include a citation to the following paper if you use the FLAIR #1 dataset
 }
 ```
 
-<br><br>
+<br/><br/>
 
 ## FLAIR #2 : texture and time from multimodal optical imagery for segmentic segmentation 🌍🌱🏠🌳➡️🛩️🛰️
  
 Challenge organized by IGN with the support of the <a href="https://cnes.fr/en"><b>CNES.</b></a>
 
-<br>
+<br/>
 <b>Coming soon !</b> 
 
 <!---
