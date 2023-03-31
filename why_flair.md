@@ -37,7 +37,7 @@ This fight is expressed by the Climate and Resilience Law of 2021, which then se
 </font></div>
 
 
-## What about the IGN
+## What about IGN
 <div style="background-color:#d5f072; padding: 1px; color: black">
 
 The National Institute of Geographic and Forestry Information (IGN) is positioned as **a continuous observatory of the territory and its rapid changes**. It is in charge of producing the OCS GE (**OCS GE**), a large-scale land use and occupancy reference system, in order to meet the government's priority missions, and for this purpose it benefits from a Fund for the Transformation of Public Action.
