@@ -16,9 +16,7 @@ Contactez-nous à l'adresse: <a href = "mailto:ai-challenge@ign.fr?subject=FLAIR
 <hr><p align="center"><img src="img/flair_bandeau.jpg" alt="" width="100%" /></p>
 <hr>
 
-<p align="center"><img src="img/flair_predict.gif" alt="" width="50%" /></p>
 <br><br>
-
 
 ## FLAIR #1 : segmentation sémantique et adaptation de domaine 🌍🌱🏠🌳➡️🛩️
 
@@ -28,6 +26,7 @@ Ce challenge s'est déroulé du 21 Novembre 2022 au 21 Mars 2023. Vous pouvez co
 FLAIR #1 <b> datapaper  &#128209;</b>  : https://arxiv.org/pdf/2211.12979.pdf <br>
 FLAIR #1 <b> dépôt github &#128193;</b> : https://github.com/IGNF/FLAIR-1-AI-Challenge<br/><br/><br/>
 
+<p align="center"><img src="img/flair_dataset_illustration_dark.png" alt="" width="65%" /></p><br>
 
 ### Description
 
@@ -41,7 +40,7 @@ Le dataset FLAIR#1 est composé de 77,412 patches de 512x512 (résolution spatia
 
 
 <center>
-<table style="width:60%">
+<table style="width:90%">
 <thead>
   <tr><th width=20%></th><th>Classe</th><th width=15%>Valeur</th><th>Freq.-entraînement (%)</th><th>Freq.-test (%)</th></tr>
 </thead>
@@ -111,8 +110,9 @@ Le dataset de test contient 15,700 patches de 10 domaines spatiaux supplémentai
 
 Une architecture U-Net avec un encodeur ResNet34 pré-entraîné de la librairie segmentation-models-pytorch a été utilisée pour les baselines. L'architecture utilisée permet l'intégration d'informations de métadonnées à l'échelle du patch et utilise des techniques d'augmentation des données d'image couramment utilisées. Les codes sont disponibles dans le dépôt FLAIR #1.<br/><br/>
 
-### Datasets
+<p align="center"><img src="img/flair_predict.gif" alt="" width="50%" /></p><br/<br/>
 
+### Datasets
 
 <table>
   <tr>
