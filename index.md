@@ -3,8 +3,7 @@ title: FLAIR Challenges
 ---
 
 # Welcome to IGN's FLAIR datasets page!
-<p align="center"><img src="img/flair_dataset_illustration_dark.png" alt="" width="60%" /></p>
-
+<p align="center"><img src="img/flair_logo.jpg" alt="" width="40%" /></p>
 
 <a style="font-size: 11pt" href="./index_fr.html"><b>Version française</b></a>
 <br/><br/>
@@ -16,9 +15,6 @@ Contact us at: <a href = "mailto:ai-challenge@ign.fr?subject=FLAIR - AI challeng
 <hr><p align="center"><img src="img/flair_bandeau.jpg" alt="" width="100%" /></p>
 <hr>
 
-<p align="center"><img src="img/flair_predict.gif" alt="" width="50%" /></p>
-<br/><br/>
-
 
 ## FLAIR #1 : semantic segmentation and domain adaptation 🌍🌱🏠🌳➡️🛩️
 
@@ -27,6 +23,8 @@ The challenge took place on Codalab from November, 21st 2022 to March, 21st 2023
 
 FLAIR #1 <b>datapaper  &#128209;</b>  : https://arxiv.org/pdf/2211.12979.pdf <br/>
 FLAIR #1 <b>repository &#128193;</b> : https://github.com/IGNF/FLAIR-1-AI-Challenge<br/><br/><br/>
+
+<p align="center"><img src="img/flair_dataset_illustration_dark.png" alt="" width="50%" /></p>
 
 ### Description
 
@@ -105,6 +103,9 @@ The test dataset consists of 15,700 patches from 10 domains not included in the 
 ### Baseline model
 
 A U-Net architecture with a pre-trained ResNet34 encoder from the pytorch segmentation models library has been used for the baselines. The used architecture allows integration of patch-wise metadata information and employs commonly used image data augmentation techniques. Codes are available in the FLAIR #1 repository.
+<br/><br/>
+
+<p align="center"><img src="img/flair_predict.gif" alt="" width="50%" /></p>
 <br/><br/>
 
 ### Datasets
