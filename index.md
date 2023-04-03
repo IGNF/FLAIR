@@ -15,7 +15,7 @@ Contact us at: <a href = "mailto:ai-challenge@ign.fr?subject=FLAIR - AI challeng
 <hr><p align="center"><img src="img/flair_bandeau.jpg" alt="" width="100%" /></p>
 <hr>
 
-
+<br/><br/>
 ## FLAIR #1 : semantic segmentation and domain adaptation 🌍🌱🏠🌳➡️🛩️
 
 Challenge organized by IGN with the support of the <a href="https://www.sfpt.fr/"><b>SFPT.</b></a><br>
@@ -24,7 +24,7 @@ The challenge took place on Codalab from November, 21st 2022 to March, 21st 2023
 FLAIR #1 <b>datapaper  &#128209;</b>  : https://arxiv.org/pdf/2211.12979.pdf <br/>
 FLAIR #1 <b>repository &#128193;</b> : https://github.com/IGNF/FLAIR-1-AI-Challenge<br/><br/><br/>
 
-<p align="center"><img src="img/flair_dataset_illustration_dark.png" alt="" width="50%" /></p>
+<p align="center"><img src="img/flair_dataset_illustration_dark.png" alt="" width="65%" /></p>
 
 ### Description
 
@@ -33,7 +33,7 @@ We present here a large dataset ( >20 billion pixels) of aerial imagery, top
 The FLAIR-one dataset consists of 77,412 high resolution patches (512x512 at 0.2 m spatial resolution) with 19 semantic classes. For this challenge and the associated baselines, due to imbalanced class frequencies, the number of classes has been reduced to 13 (remapping >12 to 13, see the datapaper for explanation).<br/>
 
 <center>
-<table style="width:60%">
+<table style="width:90%">
 <thead>
   <tr><th width=20%></th><th>Class</th><th width=15%>Value</th><th>Freq.-train (%)</th><th>Freq.-test (%)</th></tr>
 </thead>
@@ -105,7 +105,7 @@ The test dataset consists of 15,700 patches from 10 domains not included in the 
 A U-Net architecture with a pre-trained ResNet34 encoder from the pytorch segmentation models library has been used for the baselines. The used architecture allows integration of patch-wise metadata information and employs commonly used image data augmentation techniques. Codes are available in the FLAIR #1 repository.
 <br/><br/>
 
-<p align="center"><img src="img/flair_predict.gif" alt="" width="50%" /></p>
+<p align="center"><img src="img/flair_predict.gif" alt="" width="60%" /></p>
 <br/><br/>
 
 ### Datasets
