@@ -3,7 +3,7 @@ title: FLAIR Challenges
 ---
 
 # Welcome to IGN's FLAIR datasets page!
-<p align="center"><img src="img/flair_logo.jpg" alt="" width="40%" /></p>
+<p align="center"><img src="img/flair_dataset_illustration_dark.png" alt="" width="60%" /></p>
 
 
 <a style="font-size: 11pt" href="./index_fr.html"><b>Version française</b></a>
