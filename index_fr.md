@@ -110,7 +110,7 @@ Le dataset de test contient 15,700 patches de 10 domaines spatiaux supplémentai
 
 Une architecture U-Net avec un encodeur ResNet34 pré-entraîné de la librairie segmentation-models-pytorch a été utilisée pour les baselines. L'architecture utilisée permet l'intégration d'informations de métadonnées à l'échelle du patch et utilise des techniques d'augmentation des données d'image couramment utilisées. Les codes sont disponibles dans le dépôt FLAIR #1.<br/><br/>
 
-<p align="center"><img src="img/flair_predict.gif" alt="" width="50%" /></p><br/<br/>
+<p align="center"><img src="img/flair_predict.gif" alt="" width="60%" /></p><br/<br/>
 
 ### Datasets
 
