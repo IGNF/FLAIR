@@ -3,6 +3,7 @@ title: FLAIR Challenges
 ---
 
 # Welcome to IGN's FLAIR datasets page!
+##  Artificial Intelligence challenges organised around geo-data and deep learning
 <p align="center"><img src="img/flair_logo.jpg" alt="" width="40%" /></p>
 
 <a style="font-size: 11pt" href="./index_fr.html"><b>Version française</b></a>
