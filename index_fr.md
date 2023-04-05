@@ -8,7 +8,9 @@ title: Challenge Flair
 
 L'Institut national de l'information géographique et forestière (IGN) présente ses défis en matière d'IA et ses jeux de données de référence FLAIR (pour French Land cover from Aerospace ImageRy). 
 
+<!---
 [En savoir plus sur le contexte de ces défis.](./pourquoi_flair.html) <br>
+--->
 
 <hr>
 <a style="font-size: 9pt" href="./index.html"><b>English version</b></a>
