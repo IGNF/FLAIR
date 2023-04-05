@@ -12,8 +12,10 @@ L'Institut national de l'information géographique et forestière (IGN) présent
 
 <hr>
 <a style="font-size: 9pt" href="./index.html"><b>English version</b></a>
+<br/><br/>
 
-<br><br>
+
+<br/><br/>
 ## FLAIR #1 : segmentation sémantique et adaptation de domaine 🌍🌱🏠🌳➡️🛩️
 
 Challenge organisé par l'IGN avec le soutient de la <a href="https://www.sfpt.fr/"><b>SFPT.</b></a>
