@@ -1,31 +1,33 @@
 ---
 title: Challenge Flair
 ---
+<a style="font-size: 9pt" href="./index.html"><b>English version</b></a>
+<br/><br/>
+
 # Bienvenue sur la page des datasets FLAIR de l'IGN
-
+<!---
 <p align="center"><img src="img/flair_logo.jpg" alt="" width="40%" /></p>
+--->
+<br/>
 
+<hr>
+L'Institut national de l'information géographique et forestière (IGN) présente ses défis en matière d'IA et ses jeux de données de référence FLAIR (pour French Land Cover from Aerospace ImageRy). 
 
-<a style="font-size: 11pt" href="./index.html"><b>English version</b></a>
-
-<br>
-
-L'Institut national de l'information géographique et forestière (IGN) présente ses défis en matière d'IA et ses jeux de données de référence FLAIR (pour French Land Cover from Aerospace ImageRy). [En savoir plus sur le contexte de ces défis.](./pourquoi_flair.html) <br>
-Contactez-nous à l'adresse: <a href = "mailto:ai-challenge@ign.fr?subject=FLAIR - AI challenge @IGN">ai-challenge@ign.fr</a>
+[En savoir plus sur le contexte de ces défis.](./pourquoi_flair.html) <br>
 
 <hr><p align="center"><img src="img/flair_bandeau.jpg" alt="" width="100%" /></p>
 <hr>
 
 <br><br>
-
 ## FLAIR #1 : segmentation sémantique et adaptation de domaine 🌍🌱🏠🌳➡️🛩️
 
 Challenge organisé par l'IGN avec le soutient de la <a href="https://www.sfpt.fr/"><b>SFPT.</b></a>
 Ce challenge s'est déroulé du 21 Novembre 2022 au 21 Mars 2023. Vous pouvez consulter les résultats <a style="font-size: 10pt" href="https://codalab.lisn.upsaclay.fr/competitions/8769"><b>ici.</b></a><br/><br/><br/>
 
-FLAIR #1 <b> datapaper  &#128209;</b>  : https://arxiv.org/pdf/2211.12979.pdf <br>
-FLAIR #1 <b> dépôt github &#128193;</b> : https://github.com/IGNF/FLAIR-1-AI-Challenge<br/><br/><br/>
+>FLAIR #1 <b> datapaper  &#128209;</b>  : https://arxiv.org/pdf/2211.12979.pdf <br/>
+>FLAIR #1 <b> dépôt github &#128193;</b> : https://github.com/IGNF/FLAIR-1-AI-Challenge
 
+<br/><br/>
 <p align="center"><img src="img/flair_dataset_illustration_dark.png" alt="" width="65%" /></p><br>
 
 ### Description
@@ -34,10 +36,7 @@ Avec des données acquises sur 50 départements et plus de 20 milliards de pixel
 
 Les images aériennes de télédétection à l'échelle d'un pays sont nécessairement acquises à des dates et des heures différentes et dans des conditions différentes. De même, à grande échelle, les caractéristiques des classes sémantiques peuvent varier et devenir hétérogènes. Cela soulève des challenges pour la généralisation spatiale et temporelle des modèles d'apprentissage profond !
 
-Le dataset FLAIR#1 est composé de 77,412 patches de 512x512 (résolution spatiale de 0.2m) avec une sémantique à 19 classes. Spécifiquement pour le challenge et les baselines associées et en raison d'une fréquence par classe déséquilibrée, la sémantique a été modifiée à 13 classes (>12 -> 13). Rapportez-vous au datapaper pour plus de précisions. 
-
-
-
+Le dataset FLAIR#1 est composé de 77,412 patches de 512x512 (résolution spatiale de 0.2m) avec une sémantique à 19 classes. Spécifiquement pour le challenge et les baselines associées et en raison d'une fréquence par classe déséquilibrée, la sémantique a été modifiée à 13 classes (>12 -> 13). Rapportez-vous au datapaper pour plus de précisions.<br/>
 
 <center>
 <table style="width:90%">
@@ -87,7 +86,6 @@ Le dataset FLAIR#1 est composé de 77,412 patches de 512x512 (résolution spatia
 </center>
 
 
-
 Le dataset couvre un total d'environ 800 km², avec des patches sélectionnés sur l'ensemble du territoire métropolitain afin de représenter sa diversité (domaines spatiaux). Les images aériennes incluent dans le dataset sont également acquisent à des mois et années différentes (domaines temporels). 
 
 <table>
@@ -110,7 +108,9 @@ Le dataset de test contient 15,700 patches de 10 domaines spatiaux supplémentai
 
 Une architecture U-Net avec un encodeur ResNet34 pré-entraîné de la librairie segmentation-models-pytorch a été utilisée pour les baselines. L'architecture utilisée permet l'intégration d'informations de métadonnées à l'échelle du patch et utilise des techniques d'augmentation des données d'image couramment utilisées. Les codes sont disponibles dans le dépôt FLAIR #1.<br/><br/>
 
-<p align="center"><img src="img/flair_predict.gif" alt="" width="60%" /></p><br/<br/>
+<p align="center"><img src="img/flair_predict.gif" alt="" width="60%" /></p>
+<br/<br/>
+
 
 ### Datasets
 
@@ -169,8 +169,24 @@ Une architecture U-Net avec un encodeur ResNet34 pré-entraîné de la librairie
 </table>
 <br/><br/>
 
+### Citation
 
-<br><br>
+Si vous utilisez des données de FLAIR #1, merci d'inclure la citation suivante:
+
+```
+@article{garioud2022flair1,
+  doi = {10.13140/RG.2.2.30183.73128/1},
+  url = {https://arxiv.org/pdf/2211.12979.pdf},
+  author = {Garioud, Anatol and Peillet, Stéphane and Bookjans, Eva and Giordano, Sébastien and Wattrelos, Boris},
+  title = {FLAIR #1: semantic segmentation and domain adaptation dataset},
+  publisher = {arXiv},
+  year = {2022}
+}
+```
+
+<br/><br/><br/>
+
+
 
 ## FLAIR #2 : Texture et temps à partir d'imagerie optique multimodal pour la segmentation sémantique 🌍🌱🏠🌳➡️🛩️🛰️ 
 
