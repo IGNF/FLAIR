@@ -4,5 +4,4 @@ plugins:
 markdown: GFM
 
 title: FLAIR
-description: Artificial Intelligence challenges organised around geo-data and deep learning <br>
-<p align="center"><img src="img/flair_logo.jpg" alt="" width="40%" /></p>
+description: Artificial Intelligence challenges organised around geo-data and deep learning
