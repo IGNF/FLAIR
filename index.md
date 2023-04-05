@@ -1,22 +1,19 @@
 ---
 title: FLAIR Challenges
 ---
-<a style="font-size: 9pt" href="./index_fr.html"><b>Version française</b></a>
-<br/><br/>
 
 # Welcome to IGN's FLAIR datasets page!
-<!---
-<p align="center"><img src="img/flair_logo.jpg" alt="" width="40%" /></p>
---->
-<br/>
 
-<hr>
+<p align="center"><img src="img/flair_bandeau.jpg" alt="" width="100%" /></p><br/>
+
 The French National Institute of Geographical and Forest Information (IGN) presents its AI challenges and benchmark datasets FLAIR (for French Land cover from Aerospace ImageRy). 
 
 [Learn more about the context of these challenges.](./why_flair.html)<br>
 
-<p align="center"><img src="img/flair_bandeau.jpg" alt="" width="100%" /></p>
 <hr>
+<a style="font-size: 9pt" href="./index_fr.html"><b>Version française</b></a>
+<br/><br/>
+
 
 <br/><br/>
 ## FLAIR #1 : semantic segmentation and domain adaptation 🌍🌱🏠🌳➡️🛩️
