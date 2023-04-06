@@ -40,7 +40,7 @@ Le dataset FLAIR#1 est composé de 77,412 patches de 512x512 (résolution spatia
 <center>
 <table style="width:80%">
 <thead>
-  <tr><th width=7%></th><th>Classe</th><th style='text-align: center' width=15%>Valeur</th><th style='text-align: center'>Freq.-entraînement (%)</th><th style='text-align: center'>Freq.-test (%)</th></tr>
+  <tr><th width=20%></th><th>Classe</th><th width=15%>Valeur</th><th>Freq.-entraînement (%)</th><th>Freq.-test (%)</th></tr>
 </thead>
 <tbody>
   <tr><td bgcolor='#db0e9a'></td><td>bâtiment</td><td style='text-align: center'>1</td><td style='text-align: center'>8.14</td><td style='text-align: center'>8.6</td></tr>
