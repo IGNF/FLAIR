@@ -187,7 +187,7 @@ Si vous utilisez des données de FLAIR #1, merci d'inclure la citation suivante:
 
 
 
-## FLAIR #2 : Texture et temps à partir d'imagerie optique multimodal pour la segmentation sémantique 🌍🌱🏠🌳➡️🛩️🛰️ 
+## FLAIR #2 : Texture et temporel à partir d'imagerie optique multimodal pour la segmentation sémantique 🌍🌱🏠🌳➡️🛩️🛰️ 
 
 Challenge organisé par l'IGN avec le soutient du <a href="https://cnes.fr/en"><b>CNES.</b></a>
 
