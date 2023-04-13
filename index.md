@@ -186,7 +186,7 @@ Please include a citation to the following paper if you use the FLAIR #1 dataset
 
 <br/><br/><br/>
 
-## FLAIR #2 : texture and time from multimodal optical imagery for segmentic segmentation 🌍🌱🏠🌳➡️🛩️🛰️
+## FLAIR #2 : texture and time from multimodal optical imagery for semantic segmentation 🌍🌱🏠🌳➡️🛩️🛰️
  
 Challenge organized by IGN with the support of the <a href="https://cnes.fr/en"><b>CNES.</b></a>
 
