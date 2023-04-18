@@ -27,7 +27,7 @@ Ce challenge s'est déroulé du 21 Novembre 2022 au 21 Mars 2023. Vous pouvez co
 >FLAIR #1 <b> dépôt github &#128193;</b> : https://github.com/IGNF/FLAIR-1-AI-Challenge (bientôt disponible)
 
 <br/><br/>
-<p align="center"><img src="img/flair_dataset_illustration_dark.png" alt="" width="65%" /></p><br>
+<p align="center"><img src="img/flair_dataset_illustration_dark-min.png" alt="" style="width:65%;max-width:600px;"/></p><br>
 
 ### Description
 
