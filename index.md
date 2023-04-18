@@ -27,7 +27,7 @@ The challenge took place on Codalab from November, 21st 2022 to March, 21st 2023
 >FLAIR #1 <b>repository &#128193;</b> : https://github.com/IGNF/FLAIR-1-AI-Challenge (coming soon)
 
 <br/><br/>
-<p align="center"><img src="img/flair_dataset_illustration_dark.png" alt="" style="width:65%;max-width:500px;"/></p><br>
+<p align="center"><img src="img/flair_dataset_illustration_dark-min.png" alt="" style="width:65%;max-width:600px;"/></p><br>
 
 ### Description
 
