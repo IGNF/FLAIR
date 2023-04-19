@@ -113,6 +113,7 @@ A U-Net architecture with a pre-trained ResNet34 encoder from the pytorch segmen
 
 ### Datasets
 
+<center>
 <table style="width:80%;max-width:700px;">
   <tr>
     <th>Data</th>
@@ -167,6 +168,7 @@ A U-Net architecture with a pre-trained ResNet34 encoder from the pytorch segmen
     <td><a style="font-size: 10pt" href="https://storage.gra.cloud.ovh.net/v1/AUTH_366279ce616242ebb14161b7991a8461/defi-ia/flair_data_1/flair_1_toy_dataset.zip"><b>download</b></a>
   </tr>
 </table>
+</center>
 <br/><br/>
 
 ### Reference
