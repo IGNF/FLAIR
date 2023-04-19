@@ -4,7 +4,7 @@ title: Challenge Flair
 
 # Bienvenue sur la page des datasets FLAIR de l'IGN
 
-<p align="center"><img src="img/flair_bandeau.jpg" alt="" width="100%" /></p>
+<p align="center"><img src="img/flair_bandeau.jpg" alt="" style="width:100%;max-width:1200px;" /></p>
 
 L'Institut national de l'information géographique et forestière (IGN) présente ses défis en matière d'IA et ses jeux de données de référence FLAIR (pour French Land cover from Aerospace ImageRy). 
 
@@ -38,7 +38,7 @@ Les images aériennes de télédétection à l'échelle d'un pays sont nécessai
 Le dataset FLAIR#1 est composé de 77,412 patches de 512x512 (résolution spatiale de 0.2m) avec une sémantique à 19 classes. Spécifiquement pour le challenge et les baselines associées et en raison d'une fréquence par classe déséquilibrée, la sémantique a été modifiée à 13 classes (>12 -> 13). Rapportez-vous au datapaper pour plus de précisions.<br/>
 
 <center>
-<table style="width:80%">
+<table style="width:80%;max-width:700px;">
 <thead>
   <tr><th width=7%></th><th>Classe</th><th style='text-align: center' width=15%>Valeur</th><th style='text-align: center'>Freq.-entraînement (%)</th><th style='text-align: center'>Freq.-test (%)</th></tr>
 </thead>
@@ -107,13 +107,14 @@ Le dataset de test contient 15,700 patches de 10 domaines spatiaux supplémentai
 
 Une architecture U-Net avec un encodeur ResNet34 pré-entraîné de la librairie segmentation-models-pytorch a été utilisée pour les baselines. L'architecture utilisée permet l'intégration d'informations de métadonnées à l'échelle du patch et utilise des techniques d'augmentation des données d'image couramment utilisées. Les codes sont disponibles dans le dépôt FLAIR #1.<br/><br/>
 
-<p align="center"><img src="img/flair_predict.gif" alt="" width="60%" /></p>
+<p align="center"><img src="img/flair_predict.gif" alt="" style="width:65%;max-width:900px;" /></p>
 <br/<br/>
 
 
 ### Datasets
 
-<table>
+<center>
+<table style="width:80%;max-width:700px;">
   <tr>
     <th>Données</th>
     <th>Volume</th>
@@ -166,6 +167,7 @@ Une architecture U-Net avec un encodeur ResNet34 pré-entraîné de la librairie
     <td><a style="font-size: 10pt" href="https://storage.gra.cloud.ovh.net/v1/AUTH_366279ce616242ebb14161b7991a8461/defi-ia/flair_data_1/flair_1_toy_dataset.zip"><b>download</b></a>
   </tr>
 </table>
+</center>
 <br/><br/>
 
 ### Citation
