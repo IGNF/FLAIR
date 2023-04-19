@@ -113,7 +113,7 @@ A U-Net architecture with a pre-trained ResNet34 encoder from the pytorch segmen
 
 ### Datasets
 
-<table>
+<table style="width:80%;max-width:700px;">
   <tr>
     <th>Data</th>
     <th>Size</th>
