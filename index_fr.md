@@ -24,7 +24,7 @@ Challenge organisé par l'IGN avec le soutient de la <a href="https://www.sfpt.f
 Ce challenge s'est déroulé du 21 Novembre 2022 au 21 Mars 2023. Vous pouvez consulter les résultats <a style="font-size: 10pt" href="https://codalab.lisn.upsaclay.fr/competitions/8769"><b>ici.</b></a><br/><br/><br/>
 
 >FLAIR #1 <b> datapaper  &#128209;</b>  : https://arxiv.org/pdf/2211.12979.pdf <br/>
->FLAIR #1 <b> dépôt github &#128193;</b> : https://github.com/IGNF/FLAIR-1-AI-Challenge (bientôt disponible)
+>FLAIR #1 <b> dépôt github &#128193;</b> : https://github.com/IGNF/FLAIR-1-AI-Challenge
 
 <br/><br/>
 <p align="center"><img src="img/flair_dataset_illustration_dark-min.png" alt="" style="width:65%;max-width:600px;"/></p><br>
