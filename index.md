@@ -15,7 +15,6 @@ The French National Institute of Geographical and Forest Information (IGN) prese
 <hr>
 <a style="font-size: 9pt" href="./index_fr.html"><b>Version française</b></a>
 <br/><br/>
-<a style="font-size: 9pt" href="./temp.html"><b>Version 2</b></a>
 
 <br/><br/>
 ## FLAIR #1 : semantic segmentation and domain adaptation 🌍🌱🏠🌳➡️🛩️
