@@ -1,27 +1,46 @@
 ---
-title: Challenge Flair
+title: Challenges Flair
 ---
+<a style="font-size: 9pt" href="./index.html"><b>English version</b></a>
 
 # Bienvenue sur la page des datasets FLAIR de l'IGN
 
 <p align="center"><img src="img/flair_bandeau.jpg" alt="" style="width:100%;max-width:1200px;" /></p>
 
-L'Institut national de l'information géographique et forestière (IGN) présente ses défis en matière d'IA et ses jeux de données de référence FLAIR (pour French Land cover from Aerospace ImageRy). 
-
 <!---
 [En savoir plus sur le contexte de ces défis.](./pourquoi_flair.html) <br>
 --->
 
+<center>
+<table style="width:100%;max-width:1400px;">
+<tr>
+<td width=40% style="text-align: center; padding: 40px">L'Institut national de l'information géographique et forestière (IGN) présente ses défis en matière d'IA et ses jeux de données de référence FLAIR (pour French Land cover from Aerospace ImageRy). Les jeux de données FLAIR proposent des données d'observation de la Terre provenant de différents capteurs aérospatiaux. Ces jeux de données couvrent de larges échelles et reflètent des cas réels et complexes de cartographie de l'occupation du sol.
+<br><br><code style="padding: 2px 4px; font-size: 100%; color: #c7254e;  border-radius: 0;">Explorez les jeux de données et les codes associés ! </code><br/><br/>
+<ul style="list-style-type:none;">
+<li> <a href="#FLAIR1">Défi FLAIR #1 et jeu de données d'imagerie aérienne.</a></li>
+<li> <a href="#FLAIR2">Défi FLAIR #2 et dataset multimodal optique.</a></li>
+</ul>
+<br>
+Nous nous engageons à soutenir la recherche et à favoriser l'innovation dans les domaines de l'observation de la Terre. Pour toute question concernant les données, leur accès et leur exploitation, ainsi que pour toute idée de futurs jeux de données ou suggestion de sujets, contactez nous à l'adresse suivante:<br/> <a href = "mailto:ai-challenge@ign.fr?subject=FLAIR - AI challenge @IGN">ai-challenge@ign.fr</a> 
+<br><br><br><br>
+<img style="width:40%;max-width:400px;" class="center-block" src="img/ETALAB_LICENCE_FLAIR.png"><br><br>Les jeux de données FLAIR sont sous la licence <a href="https://www.etalab.gouv.fr/wp-content/uploads/2017/04/ETALAB-Licence-Ouverte-v2.0.pdf" target="_blank"><b>Licence Ouverte 2.0</b></a> d'Etalab. Faites mention de la paternité du jeu de données en citant le datapapers associé.
+</td>
+
+<td width=60% style="text-align: center"><img src="img/FLAIR_recap_3.png" alt="" style="width:100%;max-width:1000px;" /></td>
+</tr>
+</table>
+</center>
+
 <hr>
-<a style="font-size: 9pt" href="./index.html"><b>English version</b></a>
-<br/><br/>
+
+<br><br/><br/><a id="FLAIR1"></a><br/><br/>
 
 
-<br/><br/>
+
 ## FLAIR #1 : segmentation sémantique et adaptation de domaine 🌍🌱🏠🌳➡️🛩️
 
-Challenge organisé par l'IGN avec le soutient de la <a href="https://www.sfpt.fr/"><b>SFPT.</b></a>
-Ce challenge s'est déroulé du 21 Novembre 2022 au 21 Mars 2023. Vous pouvez consulter les résultats <a style="font-size: 10pt" href="https://codalab.lisn.upsaclay.fr/competitions/8769"><b>ici.</b></a><br/><br/><br/>
+Challenge organisé par l'IGN avec le soutient de la <a href="https://www.sfpt.fr/" target="_blank"><b>SFPT.</b></a>
+Ce challenge s'est déroulé du 21 Novembre 2022 au 21 Mars 2023. Vous pouvez consulter les résultats <a style="font-size: 10pt" href="https://codalab.lisn.upsaclay.fr/competitions/8769" target="_blank"><b>ici.</b></a><br/><br/><br/>
 
 >FLAIR #1 <b> datapaper  &#128209;</b>  : https://arxiv.org/pdf/2211.12979.pdf <br/>
 >FLAIR #1 <b> dépôt github &#128193;</b> : https://github.com/IGNF/FLAIR-1-AI-Challenge
@@ -175,7 +194,7 @@ Une architecture U-Net avec un encodeur ResNet34 pré-entraîné de la librairie
 Si vous utilisez des données de FLAIR #1, merci d'inclure la citation suivante:
 
 ```
-@article{garioud2022flair1,
+@article{ign2022flair1,
   doi = {10.13140/RG.2.2.30183.73128/1},
   url = {https://arxiv.org/pdf/2211.12979.pdf},
   author = {Garioud, Anatol and Peillet, Stéphane and Bookjans, Eva and Giordano, Sébastien and Wattrelos, Boris},
@@ -191,7 +210,7 @@ Si vous utilisez des données de FLAIR #1, merci d'inclure la citation suivante:
 
 ## FLAIR #2 : Information texturale et temporelle à partir d'imagerie optique multimodal pour la segmentation sémantique 🌍🌱🏠🌳➡️🛩️🛰️ 
 
-Challenge organisé par l'IGN avec le soutient du <a href="https://cnes.fr/en"><b>CNES.</b></a>
+Challenge organisé par l'IGN avec le soutient du <a href="https://cnes.fr/en" target="_blank"><b>CNES</b></a> et de <a href="https://www.connectbycnes.fr/" target="_blank"><b>Connect by CNES</b></a> dans le cadre d'un projet Copernicus / FPCUP.
 
 <br>
 <b>Prochainement !</b> 
