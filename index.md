@@ -11,7 +11,7 @@ title: FLAIR Challenges
 --->
 <center>
 <table style="width:100%;max-width:1400px;">
-<tr style="border-bottom:0px;">
+<tr>
 <td width=40% style="text-align: center; padding: 40px">The French National Institute of Geographical and Forest Information (IGN) presents its AI challenges and benchmark datasets FLAIR (for French Land cover from Aerospace ImageRy). The FLAIR datasets include Earth Observation data from different aerospace sensors. These datasets cover large scales and reflect real world cases of land cover mapping tasks. <br><br><code style="padding: 2px 4px; font-size: 100%; color: #c7254e;  border-radius: 0;">Explore the datasets and baseline codes ! </code><br/><br/>
 <ul style="list-style-type:none;">
 <li> <a href="#FLAIR1">FLAIR #1 challenge: aerial imagery</a></li>
