@@ -37,8 +37,8 @@ We are committed to supporting research and fostering innovation in the fields o
 
 ## FLAIR #1 : semantic segmentation and domain adaptation 🌍🌱🏠🌳➡️🛩️
 
-Challenge organized by IGN with the support of the <a href="https://www.sfpt.fr/"><b>SFPT.</b></a><br>
-The challenge took place on Codalab from November, 21st 2022 to March, 21st 2023. See the results <a href="https://codalab.lisn.upsaclay.fr/competitions/8769"><b>here.</b></a><br/><br/><br/>
+Challenge organized by IGN with the support of the <a href="https://www.sfpt.fr/" target="_blank"><b>SFPT.</b></a><br>
+The challenge took place on Codalab from November, 21st 2022 to March, 21st 2023. See the results <a href="https://codalab.lisn.upsaclay.fr/competitions/8769" target="_blank"><b>here.</b></a><br/><br/><br/>
 
 >FLAIR #1 <b>datapaper  &#128209;</b>  : https://arxiv.org/pdf/2211.12979.pdf <br/>
 >FLAIR #1 <b>repository &#128193;</b> : https://github.com/IGNF/FLAIR-1-AI-Challenge
@@ -213,7 +213,7 @@ Please include a citation to the following paper if you use the FLAIR #1 dataset
 <a id="FLAIR2"></a>
 ## FLAIR #2 : textural and temporal information for semantic segmentation from multi-source optical imagery 🌍🌱🏠🌳➡️🛩️🛰️
  
-Challenge organized by IGN with the support of the <a href="https://cnes.fr/en"><b>CNES</b></a> and <a href="https://www.connectbycnes.fr/en"><b>Connect by CNES.</b></a>  
+Challenge organized by IGN with the support of the <a href="https://cnes.fr/en" target="_blank"><b>CNES</b></a> and <a href="https://www.connectbycnes.fr/en" target="_blank"><b>Connect by CNES</b></a> with the Copernicus / FPCUP projetc.  
 
 
 <br/>
