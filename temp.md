@@ -22,7 +22,7 @@ title: FLAIR Challenges
 <br>
 We are committed to supporting research and fostering innovation in the fields of Earth Observation. For any question concerning the data, their access and exploitation, as well as for any idea of future datasets or suggestion of topics, simply contact us at the address:<br/> <a href = "mailto:ai-challenge@ign.fr?subject=FLAIR - AI challenge @IGN">ai-challenge@ign.fr</a> 
 <br><br>
-The FLAIR datasets are under the <a href="https://www.etalab.gouv.fr/wp-content/uploads/2018/11/open-licence.pdf"><b>Open Licence 2.0</b></a> of Etalab.<br>Remember to cite the associated datapaper to each dataset.<br><br><br><img style="width:25%;max-width:400px;" class="center-block" src="img/ETALAB_LICENCE_FLAIR.png">
+The FLAIR datasets are under the <a href="https://www.etalab.gouv.fr/wp-content/uploads/2018/11/open-licence.pdf" target="_blank"><b>Open Licence 2.0</b></a> of Etalab.<br>Remember to cite the associated datapaper to each dataset.<br><br><br><img style="width:25%;max-width:400px;" class="center-block" src="img/ETALAB_LICENCE_FLAIR.png">
 </td>
 
 <td width=60% style="text-align: center"><img src="img/FLAIR_recap_3.png" alt="" style="width:100%;max-width:1200px;" /></td>
