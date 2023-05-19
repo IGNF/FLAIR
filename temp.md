@@ -25,10 +25,7 @@ For any question concerning the data, their access and exploitation, as well as 
 The FLAIR datasets are under the <a href="https://www.etalab.gouv.fr/wp-content/uploads/2018/11/open-licence.pdf"><b>Open Licence 2.0</b></a> of Etalab.<br>Remember to cite the associated datapaper to each dataset.<br><br><br><img style="width:25%;max-width:400px;" class="center-block" src="img/ETALAB_LICENCE_FLAIR.png">
 </td>
 
-
-
-
-<td style="text-align: center"><img src="img/FLAIR_recap_3.png" alt="" style="width:100%;max-width:1000px;" /></td>
+<td style="text-align: center"><img src="img/FLAIR_recap_3.png" alt="" style="width:100%;max-width:1400px;" /></td>
 </tr>
 </table>
 
