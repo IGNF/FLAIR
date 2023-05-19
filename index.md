@@ -1,16 +1,14 @@
 ---
 title: FLAIR Challenges
 ---
-<a style="font-size: 11pt" href="./index_fr.html"><b>Version française</b></a><br><br>
+<a style="font-size: 11pt" href="./index_fr.html"><b>Version française</b></a>
 
 # Welcome to IGN's FLAIR datasets page!
 
 <p align="center"><img src="img/flair_bandeau.jpg" alt="" style="width:100%;max-width:1200px;" /></p>
-
 <!---
 [Learn more about the context of these challenges.](./why_flair.html)<br>
 --->
-
 <center>
 <table style="width:100%;max-width:1400px;">
 <tr>
