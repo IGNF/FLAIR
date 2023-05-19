@@ -193,7 +193,7 @@ A U-Net architecture with a pre-trained ResNet34 encoder from the pytorch segmen
 Please include a citation to the following paper if you use the FLAIR #1 dataset: 
 
 ```
-@article{garioud2022flair1,
+@article{ign2022flair1,
   doi = {10.13140/RG.2.2.30183.73128/1},
   url = {https://arxiv.org/pdf/2211.12979.pdf},
   author = {Garioud, Anatol and Peillet, Stéphane and Bookjans, Eva and Giordano, Sébastien and Wattrelos, Boris},
