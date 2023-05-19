@@ -2,33 +2,26 @@
 title: FLAIR Challenges
 ---
 
-# Welcome to IGN's FLAIR datasets page!
-
-
-<p align="center"><img src="img/flair_bandeau.jpg" alt="" style="width:100%;max-width:1200px;" /></p><br/>
-
 <a style="font-size: 12pt" href="./index_fr.html"><b>Version française</b></a><br><br>
 
+# Welcome to IGN's FLAIR datasets page!
 
-<center>The French National Institute of Geographical and Forest Information (IGN) presents its AI challenges and benchmark datasets FLAIR (for French Land cover from Aerospace ImageRy).</center><br><br>
+<p align="center"><img src="img/flair_bandeau.jpg" alt="" style="width:100%;max-width:1200px;" /></p><br/>
 
 <!---
 [Learn more about the context of these challenges.](./why_flair.html)<br>
 --->
 
-
-
-
 <table style="width:100%;max-width:2000px;">
 <tr>
-<td style="text-align: center; padding: 40px">The FLAIR datasets include Earth Observation data from different aerospace sensors. These datasets cover large scales and reflect real world cases of land cover mapping tasks. <br><br><code style="padding: 2px 4px; font-size: 100%; color: #c7254e;  border-radius: 0;">Explore the datasets ! </code>
+<td style="text-align: center; padding: 40px">The French National Institute of Geographical and Forest Information (IGN) presents its AI challenges and benchmark datasets FLAIR (for French Land cover from Aerospace ImageRy). The FLAIR datasets include Earth Observation data from different aerospace sensors. These datasets cover large scales and reflect real world cases of land cover mapping tasks. <br><br><code style="padding: 2px 4px; font-size: 100%; color: #c7254e;  border-radius: 0;">Explore the datasets ! </code>
 <ul style="list-style-type:none;">
-<li> ➡️ &emsp;<a href="#FLAIR1">The FLAIR #1 dataset and associated challenge.</a></li>
-<li> ➡️ &emsp;<a href="#FLAIR2">The FLAIR #2 dataset and associated challenge.</a></li>
+<li> <a href="#FLAIR1">The FLAIR #1 dataset and associated challenge.</a></li>
+<li> <a href="#FLAIR2">The FLAIR #2 dataset and associated challenge.</a></li>
 </ul>
-<br><br><
-For any question concerning the data, their access and exploitation, as well as for any idea of future datasets or suggestion of topics, simply contact us at the address <a href = "mailto:ai-challenge@ign.fr?subject=FLAIR - AI challenge @IGN">ai-challenge@ign.fr</a> 
-<br><br><br>
+<br><br>
+For any question concerning the data, their access and exploitation, as well as for any idea of future datasets or suggestion of topics, simply contact us at the address<br/> <a href = "mailto:ai-challenge@ign.fr?subject=FLAIR - AI challenge @IGN">ai-challenge@ign.fr</a> 
+<br><br>
 The FLAIR datasets are under the <a href="https://www.etalab.gouv.fr/wp-content/uploads/2018/11/open-licence.pdf"><b>Open Licence 2.0</b></a> of Etalab.<br>Remember to cite the associated datapaper to each dataset.<br><br><br><img style="width:25%;max-width:400px;" class="center-block" src="img/ETALAB_LICENCE_FLAIR.png">
 </td>
 
@@ -40,16 +33,12 @@ The FLAIR datasets are under the <a href="https://www.etalab.gouv.fr/wp-content/
 </table>
 
 
-<br>
-<hr>
-
-
-<br/><br/><br/>
-
-
+<br><br/><br/><br/><br/>
 
 
 <a id="FLAIR1"></a>
+
+
 ## FLAIR #1 : semantic segmentation and domain adaptation 🌍🌱🏠🌳➡️🛩️
 
 Challenge organized by IGN with the support of the <a href="https://www.sfpt.fr/"><b>SFPT.</b></a><br>
