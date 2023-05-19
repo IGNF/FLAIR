@@ -1,5 +1,5 @@
 ---
-title: Challenges Flair
+title: Défis Flair
 ---
 <a style="font-size: 9pt" href="./index.html"><b>English version</b></a>
 
