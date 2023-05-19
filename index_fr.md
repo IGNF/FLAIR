@@ -1,7 +1,7 @@
 ---
 title: Défis Flair
 ---
-<a style="font-size: 9pt" href="./index.html"><b>English version</b></a>
+<a style="font-size: 9.5pt" href="./index.html"><b>English version</b></a>
 
 # Bienvenue sur la page des datasets FLAIR de l'IGN
 
