@@ -18,8 +18,8 @@ title: Défis Flair
 <div style="padding: 5px; border: 1px solid red; margin-bottom: 8px;">    
 <code style="padding: 2px 4px; font-size: 100%; color: #c7254e;  border-radius: 0;">Explorez les jeux de données et les codes associés ! </code><br/><br/>
 <ul style="list-style-type:none;">
-<li> <a href="#FLAIR1">Défi FLAIR #1: imagerie aérienne</a></li>
-<li> <a href="#FLAIR2">Défi FLAIR #2: dataset multimodal optique</a></li>
+<li> <a style="font-size: 11.5pt" href="#FLAIR1">Défi FLAIR #1: imagerie aérienne</a></li>
+<li> <a style="font-size: 11.5pt" href="#FLAIR2">Défi FLAIR #2: dataset multimodal optique</a></li>
 </ul>
 </div>
 <br>
