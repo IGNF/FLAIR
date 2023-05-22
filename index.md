@@ -236,7 +236,7 @@ With this new challenge, participants will be tasked with developing innovative 
 
 The FLAIR #2 dataset encompasses 20,384,841,728 annotated pixels at a spatial resolution of 0.20 m from aerial imagery, divided into 77,762 patches of size 512x512. The FLAIR #2 dataset also includes an extensive collection of satellite data, with a total of 51,244 acquisitions of Copernicus Sentinel-2 satellite images. For each area, a comprehensive one-year record of acquisitions has been gathered offering valuable insights into the spatio-temporal dynamics and spectral characteristics of the land cover. Due to the significant difference in spatial resolution between aerial imagery and satellite data, the areas initially defined lack sufficient context as they consist of only a few Sentinel-2 pixels. To address this, a buffer was applied to create larger areas known as super-areas. This ensures that each patch of the dataset is associated with a sufficiently sized super-patch of Sentinel-2 data, providing a minimum level of context from the satellite.<br><br/>
 
-<p align="center"><img src="img/flair_2_spatial.png" alt="" style="width:40%;max-width:1200px;"/></p><br>
+<p align="center"><img src="img/flair_2_spatial.png" alt="" style="width:40%;max-width:800px;"/></p><br>
 
 
 
