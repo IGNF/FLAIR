@@ -13,11 +13,15 @@ title: Défis Flair
 <table style="width:100%;max-width:1400px;">
 <tr>
 <td width=40% style="text-align: center; padding: 40px">L'Institut national de l'information géographique et forestière (IGN) présente ses défis en matière d'IA et ses jeux de données de référence FLAIR (pour French Land cover from Aerospace ImageRy). Les jeux de données FLAIR mettent à disposition des données d'observation de la Terre provenant de différents capteurs aérospatiaux. Ces jeux de données couvrent de larges échelles et reflètent des cas réels et complexes de cartographie de l'occupation du sol.
-<br><br><code style="padding: 2px 4px; font-size: 100%; color: #c7254e;  border-radius: 0;">Explorez les jeux de données et les codes associés ! </code><br/><br/>
+<br><br>
+  
+<div style="padding: 5px; border: 1px solid red; margin-bottom: 8px;">    
+<code style="padding: 2px 4px; font-size: 100%; color: #c7254e;  border-radius: 0;">Explorez les jeux de données et les codes associés ! </code><br/><br/>
 <ul style="list-style-type:none;">
 <li> <a href="#FLAIR1">Défi FLAIR #1: imagerie aérienne</a></li>
 <li> <a href="#FLAIR2">Défi FLAIR #2: dataset multimodal optique</a></li>
 </ul>
+</div>
 <br>
 Nous nous engageons à soutenir la recherche et à favoriser l'innovation dans les domaines de l'observation de la Terre. Pour toute question concernant les données, leur accès et leur exploitation, ainsi que pour toute idée de futurs jeux de données ou suggestion de sujets, contactez nous à l'adresse suivante:<br/> <a href = "mailto:ai-challenge@ign.fr?subject=FLAIR - AI challenge @IGN">ai-challenge@ign.fr</a> 
 <br><br>
