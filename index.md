@@ -212,7 +212,8 @@ Please include a citation to the following paper if you use the FLAIR #1 dataset
 
 ## FLAIR #2 : textural and temporal information for semantic segmentation from multi-source optical imagery 🌍🌱🏠🌳➡️🛩️🛰️
  
-Challenge organized by IGN with the support of the <a href="https://cnes.fr/en" target="_blank"><b>CNES</b></a> and <a href="https://www.connectbycnes.fr/en" target="_blank"><b>Connect by CNES</b></a> with the Copernicus / FPCUP projetc.  
+Challenge organized by IGN with the support of the <a href="https://cnes.fr/en" target="_blank"><b>CNES</b></a> and <a href="https://www.connectbycnes.fr/en" target="_blank"><b>Connect by CNES</b></a> with the Copernicus / FPCUP projetc.<br>
+<img style="width:100%;max-width:1000px;" src="https://drive.google.com/uc?export=view&amp;id=1AsEPakQwUrBKreV3qOPQq9SjUfRRJkIc" alt="Drawing"/>
 <br/><br/><br/>
 
 
