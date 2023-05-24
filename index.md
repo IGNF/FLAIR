@@ -179,6 +179,12 @@ A U-Net architecture with a pre-trained ResNet34 encoder from the pytorch segmen
 
 Please include a citation to the following paper if you use the FLAIR #1 dataset: 
 
+Plain text:
+```
+Anatol Garioud, Stéphane Peillet, Eva Bookjans, Sébastien Giordano, and Boris Wattrelos. 2022. FLAIR #1: semantic segmentation and domain adaptation dataset. (2022). DOI:https://doi.org/10.13140/RG.2.2.30183.73128/1
+```
+
+BibTex:
 ```
 @article{ign2022flair1,
   doi = {10.13140/RG.2.2.30183.73128/1},
