@@ -352,7 +352,7 @@ We propose the U-T&T model, a two-branch architecture that combines spatial and 
   <tr><td colspan="4" height=10px style="outline: "></td>
   <tr>
     <td>Toy dataset (subset of train and test)</td><td>215 Mo</td><td>.zip</td>
-    <td>-</td>
+    <td><a style="font-size: 10pt" href="https://storage.gra.cloud.ovh.net/v1/AUTH_366279ce616242ebb14161b7991a8461/defi-ia/flair_data_2/flair_2_toy_dataset.zip"><b>download</b></a></td>
   </tr>
 </table>
 </center>
