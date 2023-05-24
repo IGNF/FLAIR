@@ -223,7 +223,9 @@ Si vous utilisez des données de FLAIR #1, merci d'inclure la citation suivante:
 
 ## FLAIR #2 : Information texturale et temporelle à partir d'imagerie optique multimodal pour la segmentation sémantique 🌍🌱🏠🌳➡️🛩️🛰️ 
 
-Challenge organisé par l'IGN avec le soutient du <a href="https://cnes.fr/en" target="_blank"><b>CNES</b></a> et de <a href="https://www.connectbycnes.fr/" target="_blank"><b>Connect by CNES</b></a> dans le cadre d'un projet Copernicus / FPCUP.<br/><br/><br/>
+Challenge organisé par l'IGN avec le soutient du <a href="https://cnes.fr/en" target="_blank"><b>CNES</b></a> et de <a href="https://www.connectbycnes.fr/" target="_blank"><b>Connect by CNES</b></a> dans le cadre d'un projet Copernicus / FPCUP.<br>
+<img style="width:100%;max-width:1000px;" src="https://drive.google.com/uc?export=view&amp;id=1AsEPakQwUrBKreV3qOPQq9SjUfRRJkIc" alt="Drawing"/>
+<br/><br/><br/>
 
 >FLAIR #2 <b>datapaper  &#128209;</b>  :  <br/>
 >FLAIR #2 <b>repository &#128193;</b> : https://github.com/IGNF/FLAIR-2-AI-Challenge
