@@ -206,16 +206,12 @@ Si vous utilisez des données de FLAIR #1, merci d'inclure la citation suivante:
 }
 ```
 
+
+
+
+
+
 <br><br/><br/><a id="FLAIR2"></a><br/><br/>
-
-
-
-
-
-
-
-
-
 
 
 
