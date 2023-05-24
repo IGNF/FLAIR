@@ -232,7 +232,7 @@ Challenge organisé par l'IGN avec le soutient du <a href="https://cnes.fr/en" t
 <img style="width:100%;max-width:1000px;" src="https://drive.google.com/uc?export=view&amp;id=1AsEPakQwUrBKreV3qOPQq9SjUfRRJkIc" alt="Drawing"/>
 <br/><br/><br/>
 
->FLAIR #2 <b>datapaper  &#128209;</b>  :  <br/>
+>FLAIR #2 <b>datapaper  &#128209;</b>  : soon <br/>
 >FLAIR #2 <b>repository &#128193;</b> : https://github.com/IGNF/FLAIR-2-AI-Challenge
 
 
