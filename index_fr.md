@@ -198,7 +198,9 @@ Si vous utilisez des données de FLAIR #1, merci d'inclure la citation suivante:
 
 Texte brut:
 ```
-Anatol Garioud, Stéphane Peillet, Eva Bookjans, Sébastien Giordano, et Boris Wattrelos. 2022. FLAIR #1: semantic segmentation and domain adaptation dataset. (2022). DOI:https://doi.org/10.13140/RG.2.2.30183.73128/1
+Anatol Garioud, Stéphane Peillet, Eva Bookjans, Sébastien Giordano, et Boris Wattrelos. 2022. 
+FLAIR #1: semantic segmentation and domain adaptation dataset. (2022). 
+DOI:https://doi.org/10.13140/RG.2.2.30183.73128/1
 ```
 
 BibTex:
