@@ -376,7 +376,21 @@ Nous proposons le modèle U-T&T, une architecture à deux branches qui combine l
 
 Si vous utilisez des données de FLAIR #2, merci d'inclure la citation suivante:
 
+Texte brut:
+```
+Anatol Garioud, Apolline DE Wit, Marc Poupée, Marion Valette, Sébastien Giordano, and Boris Wattrelos. 2023. 
+FLAIR #2: textural and temporal information for semantic segmentation from multi-source optical imagery. (2023). 
+DOI:https://doi.org/10.13140/RG.2.2.30938.93128/2
+```
+
+BibTex:
 ```
 @article{ign2023flair2,
+  doi = {10.13140/RG.2.2.30938.93128/2},
+  url = {https://arxiv.org/pdf/2305.14467.pdf},
+  author = {Garioud, Anatol and {DE Wit}, Apolline and Poupée, Marc and Valette, Marion and Giordano, Sébastien and Wattrelos, Boris},
+  title = {FLAIR #2: textural and temporal information for semantic segmentation from multi-source optical imagery},
+  publisher = {arXiv},
+  year = {2023}
 }
 ```
