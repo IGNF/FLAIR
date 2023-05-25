@@ -225,7 +225,7 @@ Challenge organized by IGN with the support of the <a href="https://cnes.fr/en" 
 <br/><br/><br/>
 
 
->FLAIR #2 <b>datapaper  &#128209;</b>  : soon <br/>
+>FLAIR #2 <b>datapaper  &#128209;</b>  : https://arxiv.org/pdf/2305.14467.pdf <br/>
 >FLAIR #2 <b>repository &#128193;</b> : https://github.com/IGNF/FLAIR-2-AI-Challenge
 
 
