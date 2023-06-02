@@ -221,7 +221,7 @@ BibTex:
 
 
 
-<br><br/><br/><a id="FLAIR2"></a><br/><br/>
+<br><br/><br/><a id="FLAIR2"></a><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 
 
@@ -347,7 +347,7 @@ Pour l'instant sur inscription au défi ! <br>
     <td>-</td>
   </tr>
   <tr style="cellspacing: 10px">
-    <td>Annotations - entraînement</td><td>108 Mo</td><td>.zip</td>
+    <td>Annotations - test</td><td>108 Mo</td><td>.zip</td>
     <td>-</td>
   </tr>
   <tr><td colspan="4" height=10px style="outline: "></td>
