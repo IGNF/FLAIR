@@ -390,7 +390,7 @@ BibTex:
 @article{ign2023flair2,
   doi = {10.13140/RG.2.2.30938.93128/2},
   url = {https://arxiv.org/pdf/2305.14467.pdf},
-  author = {Garioud, Anatol and {DE Wit}, Apolline and Poupée, Marc and Valette, Marion and Giordano, Sébastien and Wattrelos, Boris},
+  author = {Garioud, Anatol and {De Wit}, Apolline and Poupée, Marc and Valette, Marion and Giordano, Sébastien and Wattrelos, Boris},
   title = {FLAIR #2: textural and temporal information for semantic segmentation from multi-source optical imagery},
   publisher = {arXiv},
   year = {2023}
