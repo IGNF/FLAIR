@@ -147,45 +147,45 @@ Une architecture U-Net avec un encodeur ResNet34 pré-entraîné de la librairie
     <td>Images aériennes - entraînement</td>
     <td>50.7 Go</td>
     <td>.zip</td>
-    <td><a style="font-size: 10pt" href="https://storage.gra.cloud.ovh.net/v1/AUTH_366279ce616242ebb14161b7991a8461/defi-ia/flair_data_1/flair_aerial_train.zip"><b>download</b></a>
+    <td><a style="font-size: 10pt" href="https://storage.gra.cloud.ovh.net/v1/AUTH_366279ce616242ebb14161b7991a8461/defi-ia/flair_data_1/flair_aerial_train.zip"><b>téléchargement</b></a>
   </tr>
   <tr>
     <td>Images aériennes - test</td>
     <td>13.4 Go</td>
     <td>.zip</td>
-    <td><a style="font-size: 10pt" href="https://storage.gra.cloud.ovh.net/v1/AUTH_366279ce616242ebb14161b7991a8461/defi-ia/flair_data_1/flair_1_aerial_test.zip"><b>download</b></a>
+    <td><a style="font-size: 10pt" href="https://storage.gra.cloud.ovh.net/v1/AUTH_366279ce616242ebb14161b7991a8461/defi-ia/flair_data_1/flair_1_aerial_test.zip"><b>téléchargement</b></a>
   </tr>
   <tr>
     <td>Annotations - entraînement</td>
     <td>485 Mo</td>
     <td>.zip</td>
-    <td><a style="font-size: 10pt" href="https://storage.gra.cloud.ovh.net/v1/AUTH_366279ce616242ebb14161b7991a8461/defi-ia/flair_data_1/flair_labels_train.zip"><b>download</b></a>
+    <td><a style="font-size: 10pt" href="https://storage.gra.cloud.ovh.net/v1/AUTH_366279ce616242ebb14161b7991a8461/defi-ia/flair_data_1/flair_labels_train.zip"><b>téléchargement</b></a>
   </tr>
   <tr>
     <td>Annotations - test</td>
     <td>124 Mo</td>
     <td>.zip</td>
-    <td><a style="font-size: 10pt" href="https://storage.gra.cloud.ovh.net/v1/AUTH_366279ce616242ebb14161b7991a8461/defi-ia/flair_data_1/flair_1_labels_test.zip"><b>download</b></a>
+    <td><a style="font-size: 10pt" href="https://storage.gra.cloud.ovh.net/v1/AUTH_366279ce616242ebb14161b7991a8461/defi-ia/flair_data_1/flair_1_labels_test.zip"><b>téléchargement</b></a>
   </tr>
   <tr><td colspan="4" height = 10px></td>
   <tr>
     <td>Métadonnées aériennes</td>
     <td>16.1 Mo</td>
     <td>.json</td>
-    <td><a style="font-size: 10pt" href="https://storage.gra.cloud.ovh.net/v1/AUTH_366279ce616242ebb14161b7991a8461/defi-ia/flair_data_1/flair-1_metadata_aerial.zip"><b>download</b></a>
+    <td><a style="font-size: 10pt" href="https://storage.gra.cloud.ovh.net/v1/AUTH_366279ce616242ebb14161b7991a8461/defi-ia/flair_data_1/flair-1_metadata_aerial.zip"><b>téléchargement</b></a>
   </tr>
   <tr>
     <td>Shapefile zones</td>
     <td>392 Ko</td>
     <td>.gpkg</td>
-    <td><a style="font-size: 10pt" href="https://storage.gra.cloud.ovh.net/v1/AUTH_366279ce616242ebb14161b7991a8461/defi-ia/flair_data_1/flair_1_shapes.gpkg"><b>download</b></a>
+    <td><a style="font-size: 10pt" href="https://storage.gra.cloud.ovh.net/v1/AUTH_366279ce616242ebb14161b7991a8461/defi-ia/flair_data_1/flair_1_shapes.gpkg"><b>téléchargement</b></a>
   </tr>
   <tr><td colspan="4" height = 10px></td>
   <tr>
     <td>Jeu de données exemple (entraînement et test réduits)</td>
     <td>215 Mo</td>
     <td>.zip</td>
-    <td><a style="font-size: 10pt" href="https://storage.gra.cloud.ovh.net/v1/AUTH_366279ce616242ebb14161b7991a8461/defi-ia/flair_data_1/flair_1_toy_dataset.zip"><b>download</b></a>
+    <td><a style="font-size: 10pt" href="https://storage.gra.cloud.ovh.net/v1/AUTH_366279ce616242ebb14161b7991a8461/defi-ia/flair_data_1/flair_1_toy_dataset.zip"><b>téléchargement</b></a>
   </tr>
 </table>
 </center>
