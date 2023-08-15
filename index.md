@@ -9,37 +9,57 @@ title: FLAIR Challenges
 <!---
 [Learn more about the context of these challenges.](./why_flair.html)<br>
 --->
+
+
+
 <center>
 <table style="width:100%;max-width:1400px;">
-<tr>
-<td width=40% style="text-align: center; padding: 40px">The French National Institute of Geographical and Forest Information (IGN) presents its AI challenges and benchmark datasets FLAIR (for French Land cover from Aerospace ImageRy). The FLAIR datasets include Earth Observation data from different aerospace sensors. These datasets cover large scales and reflect real world cases of land cover mapping tasks. <br><br>
-  
-<div style="padding: 5px; border: 1px solid red; margin-bottom: 8px;">  
-<code style="padding: 2px 4px; font-size: 100%; color: #c7254e;  border-radius: 0;">Explore the datasets and baseline codes ! </code><br/><br/>
+<thead>
+  <tr>
+    <th></th>
+    <th colspan="2" style="text-align: center; padding: 2% 8% 2% 8%">The French National Institute of Geographical and Forest Information (IGN) presents its AI challenges and benchmark datasets FLAIR (for French Land cover from Aerospace ImageRy). The FLAIR datasets include Earth Observation data from different aerospace sensors. These datasets cover large scales and reflect real world cases of land cover mapping tasks.</th>
+    <th></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td></td>
+    <td colspan="2" style="text-align: center; padding: 2% 8% 2% 8%">We are committed to supporting research and fostering innovation in the fields of Earth Observation. For any question concerning the data, their access and exploitation, as well as for any idea of future datasets or suggestion of topics, simply contact us at the address: ai-challenge@ign.fr</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td colspan="2" style="text-align: center; padding: 2% 4% 2% 4%"><div style="padding: 5px; border: 1px solid red; margin-bottom: 8px;">  
+<code style="padding: 2px 4px; font-size: 100%; color: #c7254e;  border-radius: 0;">Explore the datasets and baseline codes :</code><br/>
 <ul style="list-style-type:none;">
-<li> <a style="font-size: 11.5pt" href="#FLAIR1">FLAIR #1 challenge: aerial imagery</a></li>
-<li> <a style="font-size: 11.5pt" href="#FLAIR2">FLAIR #2 challenge: multimodal optical dataset</a></li>
-</ul>
-</div>
-  
-<br>
-We are committed to supporting research and fostering innovation in the fields of Earth Observation. For any question concerning the data, their access and exploitation, as well as for any idea of future datasets or suggestion of topics, simply contact us at the address:<br/> <a href = "mailto:ai-challenge@ign.fr?subject=FLAIR - AI challenge @IGN">ai-challenge@ign.fr</a> 
-<br><br>
-<img style="width:40%;max-width:400px;" class="center-block" src="img/ETALAB_LICENCE_FLAIR.png"><br><br>The FLAIR datasets are under the <a href="https://www.etalab.gouv.fr/wp-content/uploads/2018/11/open-licence.pdf" target="_blank"><b>Open Licence 2.0</b></a> of Etalab. Remember to cite the associated datapaper to each dataset.
-</td>
-
-<td width=60% style="text-align: center"><img src="img/FLAIR_recap_3.png" alt="" style="width:100%;max-width:1000px;" /></td>
-</tr>
+<li> <a style="font-size: 11.5pt" href="#FLAIR1">FLAIR #1 : semantic segmentation of aerial imagery</a></li>
+<li> <a style="font-size: 11.5pt" href="#FLAIR2">FLAIR #2 : optical multi-source dataset and semantic segmentation</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td colspan="2" style="text-align: center; padding: 2% 8% 2% 8%">The FLAIR datasets are under the <a href="https://www.etalab.gouv.fr/wp-content/uploads/2018/11/open-licence.pdf" target="_blank"><b>Open Licence 2.0</b></a> of Etalab.<br>Remember to cite the associated datapaper to each dataset. <br><br>
+    <img style="width:100%;max-width:200px;" class="center-block" src="img/ETALAB_LICENCE_FLAIR.png"><br></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td colspan="4" style="text-align: center;"><img src="img/FLAIR_recap_3.png" alt="" style="width:100%;max-width:800px;" /></td>
+  </tr>
+  <tr>
+    <td colspan="4" style="text-align: center;"><img src="img/flair_dataset_illustration_dark-min.png" alt="" style="width:100%;max-width:800px;"/></td>
+  </tr>
+</tbody>
 </table>
 </center>
 
-<hr>
 
-<br><br/><br/><a id="FLAIR1"></a><br/><br/><br/><br/><br/><br/>
+<hr>
+<br><br/><br/><br/><br/><br/><br/><br/><br/><a id="FLAIR1"></a>
 
 
 
 ## FLAIR #1 : semantic segmentation and domain adaptation 🌍🌱🏠🌳➡️🛩️
+
 
 Challenge organized by IGN with the support of the <a href="https://www.sfpt.fr/" target="_blank"><b>SFPT.</b></a><br>
 The challenge took place on Codalab from November, 21st 2022 to March, 21st 2023. See the results <a href="https://codalab.lisn.upsaclay.fr/competitions/8769" target="_blank"><b>here.</b></a><br/><br/><br/>
@@ -48,9 +68,10 @@ The challenge took place on Codalab from November, 21st 2022 to March, 21st 2023
 >FLAIR #1 <b>repository &#128193;</b> : https://github.com/IGNF/FLAIR-1-AI-Challenge
 
 <br/><br/>
-<p align="center"><img src="img/flair_dataset_illustration_dark-min.png" alt="" style="width:65%;max-width:600px;"/></p><br>
 
-### Description
+
+
+<details><summary><font size=3.5>▶️ Dataset description</font> <em>(click to expand)</em></summary> 
 
 We present here a large dataset ( >20 billion pixels) of aerial imagery, topographic information and land cover (buildings, water, forest, agriculture...) annotations with the aim to further advance research on semantic segmentation , domain adaptation and transfer learning. Countrywide remote sensing aerial imagery is by necessity acquired at different times and dates and under different conditions. Likewise, at large scales, the characteristics of semantic classes can vary depending on location and become heterogenous. This opens up challenges for the spatial and temporal generalization of deep learning models! 
 
@@ -122,17 +143,27 @@ The dataset covers a total of approximatly 812 km², with patches that have been
 
 
 The test dataset consists of 15,700 patches from 10 domains not included in the train dataset. Class frequency and temporal domains of the test dataset includes a shift from the train dataset allowing to assess the domain adaptation capabilities of developped approaches.
-<br/><br/>
+<br><br>
+</details>
+<br>
 
-### Baseline model
+
+<details><summary><font size=3.5>▶️ Baseline model: U-Net</font>  <em>(click to expand)</em></summary> 
 
 A U-Net architecture with a pre-trained ResNet34 encoder from the pytorch segmentation models library has been used for the baselines. The used architecture allows integration of patch-wise metadata information and employs commonly used image data augmentation techniques. Codes are available in the FLAIR #1 repository.
 <br/><br/>
 
-<p align="center"><img src="img/flair_predict.gif" alt="" style="width:65%;max-width:900px;" /></p>
+<p align="center"><img src="img/flair_predict.gif" alt="" style="width:100%;max-width:850px;" /></p>
 <br/><br/>
+</details>
+<br>
 
-### Datasets
+
+
+
+
+<details><summary><font size=3.5>▶️ Dowload the dataset</font> <em>(click to expand)</em></summary> 
+
 
 <center>
 <table style="width:80%;max-width:700px;">
@@ -174,7 +205,9 @@ A U-Net architecture with a pre-trained ResNet34 encoder from the pytorch segmen
 </table>
 </center>
 <br/><br/>
+</details>
 
+<br><br>
 ### Reference
 
 Please include a citation to the following paper if you use the FLAIR #1 dataset: 
@@ -198,6 +231,7 @@ BibTex:
 }
 ```
 
+</details>
 
 
 
@@ -210,12 +244,7 @@ BibTex:
 
 
 
-
-
-
-
-
-<br><br/><br/><a id="FLAIR2"></a><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><a id="FLAIR2"></a>
 
 
 ## FLAIR #2 : textural and temporal information for semantic segmentation from multi-source optical imagery 🌍🌱🏠🌳➡️🛩️🛰️
@@ -231,17 +260,19 @@ Challenge organized by IGN with the support of the <a href="https://cnes.fr/en" 
 
 <br/><br/>
 
-### Context
+
+<details><summary><font size=3.5>▶️ Context of the challenge</font><em> (Click to expand)</em></summary> 
 
 With this new challenge, participants will be tasked with developing innovative solutions that can effectively harness the textural information from single date aerial imagery and temporal/spectral information from Sentinel-2 satellite time series to enhance semantic segmentation, domain adaptation, and transfer learning. Your solutions should address the challenges of reconciling differing acquisition times, spatial resolutions, accommodating varying conditions, and handling the heterogeneity of semantic classes across different locations.
 
 
 <br/><br/>
-<p align="center"><img src="img/flair_2_frise.png" alt="" style="width:80%;max-width:1200px;"/></p><br>
+<p align="center"><img src="img/flair_2_frise.png" alt="" style="width:100%;max-width:1000px;"/></p><br>
 
+</details>
+<br>
 
-
-### Dataset
+<details><summary><font size=3.5>▶️ Dataset description</font> <em> (Click to expand)</em></summary> 
 
 The FLAIR #2 dataset encompasses 20,384,841,728 annotated pixels at a spatial resolution of 0.20 m from aerial imagery, divided into 77,762 patches of size 512x512. The FLAIR #2 dataset also includes an extensive collection of satellite data, with a total of 51,244 acquisitions of Copernicus Sentinel-2 satellite images. For each area, a comprehensive one-year record of acquisitions has been gathered offering valuable insights into the spatio-temporal dynamics and spectral characteristics of the land cover. Due to the significant difference in spatial resolution between aerial imagery and satellite data, the areas initially defined lack sufficient context as they consist of only a few Sentinel-2 pixels. To address this, a buffer was applied to create larger areas known as super-areas. This ensures that each patch of the dataset is associated with a sufficiently sized super-patch of Sentinel-2 data, providing a minimum level of context from the satellite.<br><br/>
 
@@ -300,17 +331,18 @@ The dataset covers 50 spatial domains, encompassing 916 areas spanning 817 km².
 </table>
 </center>
 
+<br><br>
+</details>
 <br>
 
-### Baseline model
+<details><summary><font size=3.5>▶️ Baseline model: U-T&T</font> <em> (Click to expand)</em></summary> 
 
 We propose the U-T&T model, a two-branch architecture that combines spatial and temporal information from very high-resolution aerial images and high-resolution satellite images into a single output. The U-Net architecture is employed for the spatial/texture branch, using a ResNet34 backbone model pre-trained on ImageNet. For the spatio-temporal branch, the U-TAE architecture incorporates a Temporal self-Attention Encoder (TAE) to explore the spatial and temporal characteristics of the Sentinel-2 time series data, applying attention masks at different resolutions during decoding. This model allows for the fusion of learned information from both sources, enhancing the representation of mono-date and time series data.
-
-
 <br><br>
+</details>
+<br>
 
-
-### Dataset
+<details><summary><font size=3.5>▶️ Download the dataset</font> <em>(Click to expand)</em></summary> 
 
 For now upon registration to the challenge!<br>
 
@@ -368,7 +400,8 @@ For now upon registration to the challenge!<br>
 </center>
 <br/><br/>
 
-
+</details>
+<br><br>
 
 ### Reference
 
@@ -393,3 +426,6 @@ BibTex:
   year = {2023}
 }
 ```
+
+
+
