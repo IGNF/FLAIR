@@ -17,19 +17,19 @@ title: FLAIR Challenges
 <thead>
   <tr>
     <th></th>
-    <th colspan="2" style="text-align: center; padding: 2% 10% 2% 10%">The French National Institute of Geographical and Forest Information (IGN) presents its AI challenges and benchmark datasets FLAIR (for French Land cover from Aerospace ImageRy). The FLAIR datasets include Earth Observation data from different aerospace sensors. These datasets cover large scales and reflect real world cases of land cover mapping tasks.</th>
+    <th colspan="2" style="text-align: center; padding: 2% 8% 2% 8%">The French National Institute of Geographical and Forest Information (IGN) presents its AI challenges and benchmark datasets FLAIR (for French Land cover from Aerospace ImageRy). The FLAIR datasets include Earth Observation data from different aerospace sensors. These datasets cover large scales and reflect real world cases of land cover mapping tasks.</th>
     <th></th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td></td>
-    <td colspan="2" style="text-align: center; padding: 20px 100px 20px 100px">We are committed to supporting research and fostering innovation in the fields of Earth Observation. For any question concerning the data, their access and exploitation, as well as for any idea of future datasets or suggestion of topics, simply contact us at the address: ai-challenge@ign.fr</td>
+    <td colspan="2" style="text-align: center; padding: 2% 8% 2% 8%">We are committed to supporting research and fostering innovation in the fields of Earth Observation. For any question concerning the data, their access and exploitation, as well as for any idea of future datasets or suggestion of topics, simply contact us at the address: ai-challenge@ign.fr</td>
     <td></td>
   </tr>
   <tr>
     <td></td>
-    <td colspan="2" style="text-align: center; padding: 20px 50px 20px 50px"><div style="padding: 5px; border: 1px solid red; margin-bottom: 8px;">  
+    <td colspan="2" style="text-align: center; padding: 2% 4% 2% 4%"><div style="padding: 5px; border: 1px solid red; margin-bottom: 8px;">  
 <code style="padding: 2px 4px; font-size: 100%; color: #c7254e;  border-radius: 0;">Explore the datasets and baseline codes :</code><br/>
 <ul style="list-style-type:none;">
 <li> <a style="font-size: 11.5pt" href="#FLAIR1">FLAIR #1 : semantic segmentation of aerial imagery</a></li>
@@ -38,7 +38,7 @@ title: FLAIR Challenges
   </tr>
   <tr>
     <td></td>
-    <td colspan="2" style="text-align: center; padding: 20px 100px 20px 100px">The FLAIR datasets are under the <a href="https://www.etalab.gouv.fr/wp-content/uploads/2018/11/open-licence.pdf" target="_blank"><b>Open Licence 2.0</b></a> of Etalab.<br>Remember to cite the associated datapaper to each dataset. <br><br>
+    <td colspan="2" style="text-align: center; padding: 2% 8% 2% 8%">The FLAIR datasets are under the <a href="https://www.etalab.gouv.fr/wp-content/uploads/2018/11/open-licence.pdf" target="_blank"><b>Open Licence 2.0</b></a> of Etalab.<br>Remember to cite the associated datapaper to each dataset. <br><br>
     <img style="width:100%;max-width:200px;" class="center-block" src="img/ETALAB_LICENCE_FLAIR.png"><br></td>
     <td></td>
   </tr>
