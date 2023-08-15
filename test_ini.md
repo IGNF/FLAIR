@@ -17,7 +17,7 @@ title: FLAIR Challenges
 <thead>
   <tr>
     <th></th>
-    <th colspan="2" style="text-align: center; padding: 20px 100px 20px 100px">The French National Institute of Geographical and Forest Information (IGN) presents its AI challenges and benchmark datasets FLAIR (for French Land cover from Aerospace ImageRy). The FLAIR datasets include Earth Observation data from different aerospace sensors. These datasets cover large scales and reflect real world cases of land cover mapping tasks.</th>
+    <th colspan="2" style="text-align: center; padding: 2% 10% 2% 10%">The French National Institute of Geographical and Forest Information (IGN) presents its AI challenges and benchmark datasets FLAIR (for French Land cover from Aerospace ImageRy). The FLAIR datasets include Earth Observation data from different aerospace sensors. These datasets cover large scales and reflect real world cases of land cover mapping tasks.</th>
     <th></th>
   </tr>
 </thead>
@@ -153,7 +153,7 @@ The test dataset consists of 15,700 patches from 10 domains not included in the 
 A U-Net architecture with a pre-trained ResNet34 encoder from the pytorch segmentation models library has been used for the baselines. The used architecture allows integration of patch-wise metadata information and employs commonly used image data augmentation techniques. Codes are available in the FLAIR #1 repository.
 <br/><br/>
 
-<p align="center"><img src="img/flair_predict.gif" alt="" style="width:65%;max-width:900px;" /></p>
+<p align="center"><img src="img/flair_predict.gif" alt="" style="width:100%;max-width:850px;" /></p>
 <br/><br/>
 </details>
 <br>
@@ -267,7 +267,7 @@ With this new challenge, participants will be tasked with developing innovative 
 
 
 <br/><br/>
-<p align="center"><img src="img/flair_2_frise.png" alt="" style="width:80%;max-width:1200px;"/></p><br>
+<p align="center"><img src="img/flair_2_frise.png" alt="" style="width:100%;max-width:1000px;"/></p><br>
 
 </details>
 <br>
