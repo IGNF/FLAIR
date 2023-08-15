@@ -71,7 +71,7 @@ The challenge took place on Codalab from November, 21st 2022 to March, 21st 2023
 
 
 
-<details><summary><font size=5>▶️ Dataset description</font> <em>(click to expand)</em></summary> 
+<details><summary><font size=5>▶📌 Dataset description</font> <em>(click to expand)</em></summary> 
 
 We present here a large dataset ( >20 billion pixels) of aerial imagery, topographic information and land cover (buildings, water, forest, agriculture...) annotations with the aim to further advance research on semantic segmentation , domain adaptation and transfer learning. Countrywide remote sensing aerial imagery is by necessity acquired at different times and dates and under different conditions. Likewise, at large scales, the characteristics of semantic classes can vary depending on location and become heterogenous. This opens up challenges for the spatial and temporal generalization of deep learning models! 
 
@@ -148,7 +148,7 @@ The test dataset consists of 15,700 patches from 10 domains not included in the 
 <br>
 
 
-<details><summary><font size=5>▶️ Baseline model: U-Net</font>  <em>(click to expand)</em></summary> 
+<details><summary><font size=5>📌 Baseline model: U-Net</font>  <em>(click to expand)</em></summary> 
 
 A U-Net architecture with a pre-trained ResNet34 encoder from the pytorch segmentation models library has been used for the baselines. The used architecture allows integration of patch-wise metadata information and employs commonly used image data augmentation techniques. Codes are available in the FLAIR #1 repository.
 <br/><br/>
@@ -162,7 +162,7 @@ A U-Net architecture with a pre-trained ResNet34 encoder from the pytorch segmen
 
 
 
-<details><summary><font size=5>▶️ Dowload the dataset</font> <em>(click to expand)</em></summary> 
+<details><summary><font size=5>📌 Dowload the dataset</font> <em>(click to expand)</em></summary> 
 
 
 <center>
