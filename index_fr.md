@@ -3,43 +3,63 @@ title: Défis Flair
 ---
 🇬🇧 <a style="font-size: 11pt" href="./index.html"><b>English version</b></a>
 
-# Bienvenue sur la page des datasets FLAIR de l'IGN
+# Bienvenue sur la page des datasets FLAIR de l'IGN!
 
 <p align="center"><img src="img/flair_bandeau.jpg" alt="" style="width:100%;max-width:1200px;" /></p>
 <!---
-[En savoir plus sur le contexte de ces défis.](./pourquoi_flair.html) <br>
+[Learn more about the context of these challenges.](./why_flair.html)<br>
 --->
+
+
+
 <center>
 <table style="width:100%;max-width:1400px;">
-<tr>
-<td width=40% style="text-align: center; padding: 40px">L'Institut national de l'information géographique et forestière (IGN) présente ses défis en matière d'IA et ses jeux de données de référence FLAIR (pour French Land cover from Aerospace ImageRy). Les jeux de données FLAIR mettent à disposition des données d'observation de la Terre provenant de différents capteurs aérospatiaux. Ces jeux de données couvrent de larges échelles et reflètent des cas réels et complexes de cartographie de l'occupation du sol.
-<br><br>
-  
-<div style="padding: 5px; border: 1px solid red; margin-bottom: 8px;">    
-<code style="padding: 2px 4px; font-size: 100%; color: #c7254e;  border-radius: 0;">Explorez les jeux de données et les codes associés ! </code><br/><br/>
+<thead>
+  <tr>
+    <th></th>
+    <th colspan="2" style="text-align: center; padding: 2% 8% 2% 8%">L'Institut national de l'information géographique et forestière (IGN) présente ses défis en matière d'IA et ses jeux de données de référence FLAIR (pour French Land cover from Aerospace ImageRy). Les jeux de données FLAIR mettent à disposition des données d'observation de la Terre provenant de différents capteurs aérospatiaux. Ces jeux de données couvrent de larges échelles et reflètent des cas réels et complexes de cartographie de l'occupation du sol.</th>
+    <th></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td></td>
+    <td colspan="2" style="text-align: center; padding: 2% 8% 2% 8%">Nous nous engageons à soutenir la recherche et à favoriser l'innovation dans les domaines de l'observation de la Terre. Pour toute question concernant les données, leur accès et leur exploitation, ainsi que pour toute idée de futurs jeux de données ou suggestion de sujets, contactez nous à l'adresse suivante:<br/> <a href = "mailto:ai-challenge@ign.fr?subject=FLAIR - AI challenge @IGN">ai-challenge@ign.fr</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td colspan="2" style="text-align: center; padding: 2% 4% 2% 4%"><div style="padding: 5px; border: 1px solid red; margin-bottom: 8px;">  
+<code style="padding: 2px 4px; font-size: 100%; color: #c7254e;  border-radius: 0;">Explorez les jeux de données et les codes associés :</code><br/>
 <ul style="list-style-type:none;">
-<li> <a style="font-size: 11.5pt" href="#FLAIR1">Défi FLAIR #1: imagerie aérienne</a></li>
-<li> <a style="font-size: 11.5pt" href="#FLAIR2">Défi FLAIR #2: dataset multimodal optique</a></li>
-</ul>
-</div>
-<br>
-Nous nous engageons à soutenir la recherche et à favoriser l'innovation dans les domaines de l'observation de la Terre. Pour toute question concernant les données, leur accès et leur exploitation, ainsi que pour toute idée de futurs jeux de données ou suggestion de sujets, contactez nous à l'adresse suivante:<br/> <a href = "mailto:ai-challenge@ign.fr?subject=FLAIR - AI challenge @IGN">ai-challenge@ign.fr</a> 
-<br><br>
-<img style="width:40%;max-width:400px;" class="center-block" src="img/ETALAB_LICENCE_FLAIR.png"><br><br>Les jeux de données FLAIR sont sous la licence <a href="https://www.etalab.gouv.fr/wp-content/uploads/2017/04/ETALAB-Licence-Ouverte-v2.0.pdf" target="_blank"><b>Licence Ouverte 2.0</b></a> d'Etalab. Faites mention de la paternité du jeu de données en citant le datapapers associé.
-</td>
-
-<td width=60% style="text-align: center"><img src="img/FLAIR_recap_3.png" alt="" style="width:100%;max-width:1000px;" /></td>
-</tr>
+<li> <a style="font-size: 11.5pt" href="#FLAIR1">FLAIR #1 : segmentation sémantique d'imagerie aérienne</a></li>
+<li> <a style="font-size: 11.5pt" href="#FLAIR2">FLAIR #2 : dataset multimodal optique et segmentation sémantique</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td colspan="2" style="text-align: center; padding: 2% 8% 2% 8%">Les jeux de données FLAIR sont sous la licence <a href="https://www.etalab.gouv.fr/wp-content/uploads/2018/11/open-licence.pdf" target="_blank"><b>Licence Ouverte 2.0</b></a> d'Etalab.<br>Faites mention de la paternité du jeu de données en citant le datapapers associé.<br><br>
+    <img style="width:100%;max-width:200px;" class="center-block" src="img/ETALAB_LICENCE_FLAIR.png"><br></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td colspan="4" style="text-align: center;"><img src="img/FLAIR_recap_3.png" alt="" style="width:100%;max-width:800px;" /></td>
+  </tr>
+  <tr>
+    <td colspan="4" style="text-align: center;"><img src="img/flair_dataset_illustration_dark-min.png" alt="" style="width:100%;max-width:800px;"/></td>
+  </tr>
+</tbody>
 </table>
 </center>
 
-<hr>
 
-<br><br/><br/><a id="FLAIR1"></a><br/><br/>
+<hr>
+<br><br/><br/><br/><br/><br/><br/><br/><br/><a id="FLAIR1"></a>
 
 
 
 ## FLAIR #1 : segmentation sémantique et adaptation de domaine 🌍🌱🏠🌳➡️🛩️
+
 
 Challenge organisé par l'IGN avec le soutient de la <a href="https://www.sfpt.fr/" target="_blank"><b>SFPT.</b></a>
 Ce challenge s'est déroulé du 21 Novembre 2022 au 21 Mars 2023. Vous pouvez consulter les résultats <a style="font-size: 10pt" href="https://codalab.lisn.upsaclay.fr/competitions/8769" target="_blank"><b>ici.</b></a><br/><br/><br/>
@@ -48,9 +68,10 @@ Ce challenge s'est déroulé du 21 Novembre 2022 au 21 Mars 2023. Vous pouvez co
 >FLAIR #1 <b> dépôt github &#128193;</b> : https://github.com/IGNF/FLAIR-1-AI-Challenge
 
 <br/><br/>
-<p align="center"><img src="img/flair_dataset_illustration_dark-min.png" alt="" style="width:65%;max-width:600px;"/></p><br>
 
-### Description
+
+
+<details><summary><font size=3.5>▶️ Description du dataset</font> <em>(cliquer pour agrandir)</em></summary> 
 
 Avec des données acquises sur 50 départements et plus de 20 milliards de pixels annotés, ce jeu de données représente la diversité du territoire métropolitain, ses climats, ses écosystèmes et ses sols, dans le but de produire une cartographie à grande échelle. Différentes bases de données IGN (BD Ortho, RGE Alti) ainsi que des annotations produites manuellement par des experts photo-interprètes ont été assemblées pour permettre l’entraînement de modèles IA.
 
@@ -106,14 +127,15 @@ Le dataset FLAIR#1 est composé de 77,412 patches de 512x512 (résolution spatia
 </center>
 
 
-Le dataset couvre un total d'environ 800 km², avec des patches sélectionnés sur l'ensemble du territoire métropolitain afin de représenter sa diversité (domaines spatiaux). Les images aériennes incluent dans le dataset sont également acquisent à des mois et années différentes (domaines temporels). 
+Le dataset couvre un total d'environ 812 km², avec des patches sélectionnés sur l'ensemble du territoire métropolitain afin de représenter sa diversité (domaines spatiaux). Les images aériennes incluent dans le dataset sont également acquisent à des mois et années différentes (domaines temporels). 
+
 
 <table>
     <tr>
         <td style="text-align: center"><img src="img/flair_ortho.png" 
-            alt="Michael Jordan" title="Ortho HR" /></td>
+            alt="Image aérienne ORTHO HR" title="ORTHO HR" /></td>
         <td style="text-align: center"><img src="img/flair_labels.png" alt="Labels" 
-            title="Labels" /></td>
+            title="Annotations" /></td>
     </tr>
     <tr>
         <td style="text-align: center">Image aérienne ORTHO HR&#174;</td>
@@ -121,18 +143,27 @@ Le dataset couvre un total d'environ 800 km², avec des patches sélectionnés s
     </tr>
 </table>
 
+
 Le dataset de test contient 15,700 patches de 10 domaines spatiaux supplémentaires. La fréquence des classes et les domaines temporels sont également distinct du dataset d'entraînement, permettant d'analyser les capacités de généralisation et d'adaptation de domaines des méthodes développées.<br/><br/>
+</details>
+<br>
 
 
-### Modèle de référence (baseline)
+<details><summary><font size=3.5>▶️ Modèle de référence (baseline): U-Net</font>  <em>(cliquer pour agrandir)</em></summary> 
 
 Une architecture U-Net avec un encodeur ResNet34 pré-entraîné de la librairie segmentation-models-pytorch a été utilisée pour les baselines. L'architecture utilisée permet l'intégration d'informations de métadonnées à l'échelle du patch et utilise des techniques d'augmentation des données d'image couramment utilisées. Les codes sont disponibles dans le dépôt FLAIR #1.<br/><br/>
 
-<p align="center"><img src="img/flair_predict.gif" alt="" style="width:65%;max-width:900px;" /></p>
-<br/<br/>
+<p align="center"><img src="img/flair_predict.gif" alt="" style="width:100%;max-width:850px;" /></p>
+<br/><br/>
+</details>
+<br>
 
 
-### Datasets
+
+
+
+<details><summary><font size=3.5>▶️ Téléchargement du dataset</font> <em>(cliquer pour agrandir)</em></summary> 
+
 
 <center>
 <table style="width:80%;max-width:700px;">
@@ -190,15 +221,18 @@ Une architecture U-Net avec un encodeur ResNet34 pré-entraîné de la librairie
 </table>
 </center>
 <br/><br/>
+</details>
+
+<br><br>
+
 
 ### Citation
 
 Si vous utilisez des données de FLAIR #1, merci d'inclure la citation suivante:
 
-
 Texte brut:
 ```
-Anatol Garioud, Stéphane Peillet, Eva Bookjans, Sébastien Giordano, et Boris Wattrelos. 2022. 
+Anatol Garioud, Stéphane Peillet, Eva Bookjans, Sébastien Giordano, and Boris Wattrelos. 2022. 
 FLAIR #1: semantic segmentation and domain adaptation dataset. (2022). 
 DOI:https://doi.org/10.13140/RG.2.2.30183.73128/1
 ```
@@ -221,13 +255,17 @@ BibTex:
 
 
 
-<br><br/><br/><a id="FLAIR2"></a><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 
 
 
-## FLAIR #2 : Information texturale et temporelle à partir d'imagerie optique multimodal pour la segmentation sémantique 🌍🌱🏠🌳➡️🛩️🛰️ 
 
+
+<br><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><a id="FLAIR2"></a>
+
+
+## FLAIR #2 : Information texturale et temporelle à partir d'imagerie optique multimodal pour la segmentation sémantique 🌍🌱🏠🌳➡️🛩️🛰️
+ 
 Challenge organisé par l'IGN avec le soutient du <a href="https://cnes.fr/en" target="_blank"><b>CNES</b></a> et de <a href="https://www.connectbycnes.fr/" target="_blank"><b>Connect by CNES</b></a> dans le cadre d'un projet Copernicus / FPCUP.<br>
 <img style="width:100%;max-width:1000px;" src="https://drive.google.com/uc?export=view&amp;id=1AsEPakQwUrBKreV3qOPQq9SjUfRRJkIc" alt="Drawing"/>
 <br/><br/><br/>
@@ -238,22 +276,23 @@ Challenge organisé par l'IGN avec le soutient du <a href="https://cnes.fr/en" t
 
 <br/><br/>
 
-### Contexte
+
+<details><summary><font size=3.5>▶️ Contexte du challenge</font><em> (cliquer pour agrandir)</em></summary> 
 
 Avec ce nouveau défi, les participants auront pour tâche de développer des solutions innovantes qui peuvent exploiter efficacement les informations texturales des images aériennes prises à une seule date, ainsi que les informations temporelles/spectrales provenant des séries temporelles des satellites Sentinel-2, afin d'améliorer la segmentation sémantique, l'adaptation de domaine et l'apprentissage par transfert. Vos solutions devraient relever les défis liés à la conciliation des différentes périodes d'acquisition, des résolutions spatiales différentes, de l'adaptation aux conditions d'acquisitions variables et de la gestion de l'hétérogénéité des classes sémantiques.
 
 
 <br/><br/>
-<p align="center"><img src="img/flair_2_frise.png" alt="" style="width:80%;max-width:1200px;"/></p><br>
+<p align="center"><img src="img/flair_2_frise.png" alt="" style="width:100%;max-width:1000px;"/></p><br>
 
+</details>
+<br>
 
-
-### Dataset
+<details><summary><font size=3.5>▶️ Description du dataset</font> <em> (cliquer pour agrandir)</em></summary> 
 
 Le jeu de données FLAIR #2 comprend 20,384,841,728 pixels annotés avec une résolution spatiale de 0,20 m à partir d'images aériennes, répartis en 77,762 patchs de taille 512x512. Le jeu de données FLAIR #2 inclut également une vaste collection de données satellites, avec un total de 51,244 acquisitions d'images des satellites Copernicus Sentinel-2. Pour chaque zone, les acquisitions sur un an ont été retenues, offrant des informations précieuses sur la dynamique spatio-temporelle et les caractéristiques spectrales de la couverture terrestre. En raison de la différence significative de résolution spatiale entre les images aériennes et les données satellites, les zones initialement définies manquent de contexte suffisant car elles ne sont composées que de quelques pixels Sentinel-2. Pour remédier à cela, une marge a été appliquée pour créer des zones plus grandes appelées super-zones. Cela garantit que chaque patch du jeu de données est associé à une super-zone de données Sentinel-2 de taille suffisante, offrant un niveau minimum de contexte provenant du satellite.<br><br/>
 
 <p align="center"><img src="img/flair_2_spatial.png" alt="" style="width:100%;max-width:400px;"/></p><br>
-
 
 Le jeu de données couvre 50 domaines spatial, comprenant 916 zones réparties sur 817 km². Avec 13 classes sémantiques (plus 6 non utilisées dans ce défi), ce jeu de données constitue une base solide pour faire progresser les techniques de cartographie de la couverture du sol.<br><br>
 
@@ -303,18 +342,18 @@ Le jeu de données couvre 50 domaines spatial, comprenant 916 zones réparties s
 </tbody>
 </table>
 </center>
-
+<br><br>
+</details>
 <br>
 
-### Modèle de référence (baseline)
+<details><summary><font size=3.5>▶️ Modèle de référence (baseline): U-T&T</font> <em> (cliquer pour agrandir)</em></summary> 
 
 Nous proposons le modèle U-T&T, une architecture à deux branches qui combine les informations spatiales et temporelles à partir d'images aériennes très haute résolution et d'images satellites haute résolution en une seule sortie. L'architecture U-Net est utilisée pour la branche spatiale/texture, en utilisant un modèle avec un encodeur ResNet34 pré-entraîné sur ImageNet. Pour la branche spatio-temporelle, l'architecture U-TAE intègre un Encodeur à Attention Temporelle (TAE) pour explorer les caractéristiques spatiales et temporelles des séries temporelles de Sentinel-2, en appliquant des masques d'attention à différentes résolutions lors du décodage. Ce modèle permet la fusion des informations apprises à partir des deux sources.
-
-
 <br><br>
+</details>
+<br>
 
-
-### Dataset
+<details><summary><font size=3.5>▶️ Téléchargement du dataset</font> <em>(cliquer pour agrandir)</em></summary> 
 
 Pour l'instant sur inscription au défi ! <br>
 
@@ -372,7 +411,8 @@ Pour l'instant sur inscription au défi ! <br>
 </center>
 <br/><br/>
 
-
+</details>
+<br><br>
 
 ### Citation
 
@@ -395,4 +435,6 @@ BibTex:
   publisher = {arXiv},
   year = {2023}
 }
-```
+
+
+
