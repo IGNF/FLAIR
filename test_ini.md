@@ -71,7 +71,7 @@ The challenge took place on Codalab from November, 21st 2022 to March, 21st 2023
 
 
 
-<details><summary><font size=5>▶📌 Dataset description</font> <em>(click to expand)</em></summary> 
+<details><summary><font size=3.5>▶️ Dataset description</font> <em>(click to expand)</em></summary> 
 
 We present here a large dataset ( >20 billion pixels) of aerial imagery, topographic information and land cover (buildings, water, forest, agriculture...) annotations with the aim to further advance research on semantic segmentation , domain adaptation and transfer learning. Countrywide remote sensing aerial imagery is by necessity acquired at different times and dates and under different conditions. Likewise, at large scales, the characteristics of semantic classes can vary depending on location and become heterogenous. This opens up challenges for the spatial and temporal generalization of deep learning models! 
 
@@ -148,7 +148,7 @@ The test dataset consists of 15,700 patches from 10 domains not included in the 
 <br>
 
 
-<details><summary><font size=5>📌 Baseline model: U-Net</font>  <em>(click to expand)</em></summary> 
+<details><summary><font size=3.5>▶️ Baseline model: U-Net</font>  <em>(click to expand)</em></summary> 
 
 A U-Net architecture with a pre-trained ResNet34 encoder from the pytorch segmentation models library has been used for the baselines. The used architecture allows integration of patch-wise metadata information and employs commonly used image data augmentation techniques. Codes are available in the FLAIR #1 repository.
 <br/><br/>
@@ -162,7 +162,7 @@ A U-Net architecture with a pre-trained ResNet34 encoder from the pytorch segmen
 
 
 
-<details><summary><font size=5>📌 Dowload the dataset</font> <em>(click to expand)</em></summary> 
+<details><summary><font size=3.5>▶️ Dowload the dataset</font> <em>(click to expand)</em></summary> 
 
 
 <center>
@@ -261,7 +261,7 @@ Challenge organized by IGN with the support of the <a href="https://cnes.fr/en" 
 <br/><br/>
 
 
-<details><summary><font size=5>▶️ Context of the challenge</font><em> (Click to expand)</em></summary> 
+<details><summary><font size=3.5>▶️ Context of the challenge</font><em> (Click to expand)</em></summary> 
 
 With this new challenge, participants will be tasked with developing innovative solutions that can effectively harness the textural information from single date aerial imagery and temporal/spectral information from Sentinel-2 satellite time series to enhance semantic segmentation, domain adaptation, and transfer learning. Your solutions should address the challenges of reconciling differing acquisition times, spatial resolutions, accommodating varying conditions, and handling the heterogeneity of semantic classes across different locations.
 
@@ -272,7 +272,7 @@ With this new challenge, participants will be tasked with developing innovative 
 </details>
 <br>
 
-<details><summary><font size=5>▶️ Dataset description</font> <em> (Click to expand)</em></summary> 
+<details><summary><font size=3.5>▶️ Dataset description</font> <em> (Click to expand)</em></summary> 
 
 The FLAIR #2 dataset encompasses 20,384,841,728 annotated pixels at a spatial resolution of 0.20 m from aerial imagery, divided into 77,762 patches of size 512x512. The FLAIR #2 dataset also includes an extensive collection of satellite data, with a total of 51,244 acquisitions of Copernicus Sentinel-2 satellite images. For each area, a comprehensive one-year record of acquisitions has been gathered offering valuable insights into the spatio-temporal dynamics and spectral characteristics of the land cover. Due to the significant difference in spatial resolution between aerial imagery and satellite data, the areas initially defined lack sufficient context as they consist of only a few Sentinel-2 pixels. To address this, a buffer was applied to create larger areas known as super-areas. This ensures that each patch of the dataset is associated with a sufficiently sized super-patch of Sentinel-2 data, providing a minimum level of context from the satellite.<br><br/>
 
@@ -335,14 +335,14 @@ The dataset covers 50 spatial domains, encompassing 916 areas spanning 817 km².
 </details>
 <br>
 
-<details><summary><font size=5>▶️ Baseline model: U-T&T</font> <em> (Click to expand)</em></summary> 
+<details><summary><font size=3.5>▶️ Baseline model: U-T&T</font> <em> (Click to expand)</em></summary> 
 
 We propose the U-T&T model, a two-branch architecture that combines spatial and temporal information from very high-resolution aerial images and high-resolution satellite images into a single output. The U-Net architecture is employed for the spatial/texture branch, using a ResNet34 backbone model pre-trained on ImageNet. For the spatio-temporal branch, the U-TAE architecture incorporates a Temporal self-Attention Encoder (TAE) to explore the spatial and temporal characteristics of the Sentinel-2 time series data, applying attention masks at different resolutions during decoding. This model allows for the fusion of learned information from both sources, enhancing the representation of mono-date and time series data.
 <br><br>
 </details>
 <br>
 
-<details><summary><font size=5>▶️ Download the dataset</font> <em>(Click to expand)</em></summary> 
+<details><summary><font size=3.5>▶️ Download the dataset</font> <em>(Click to expand)</em></summary> 
 
 For now upon registration to the challenge!<br>
 
