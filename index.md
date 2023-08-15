@@ -208,6 +208,8 @@ A U-Net architecture with a pre-trained ResNet34 encoder from the pytorch segmen
 </details>
 
 <br><br>
+
+
 ### Reference
 
 Please include a citation to the following paper if you use the FLAIR #1 dataset: 
@@ -231,7 +233,6 @@ BibTex:
 }
 ```
 
-</details>
 
 
 
