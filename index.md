@@ -356,24 +356,24 @@ For now upon registration to the challenge!<br>
  </tr>
   <tr>
     <td>Aerial images - train</td><td>50.7 Go</td><td>.zip</td>
-    <td>-</td>
+    <td><a style="font-size: 10pt" href="https://storage.gra.cloud.ovh.net/v1/AUTH_366279ce616242ebb14161b7991a8461/defi-ia/flair_data_2/flair_aerial_train.zip"><b>download</b></a>
   </tr>
    <tr>
     <td>Aerial images - test</td><td>13.4 Go</td><td>.zip</td>
-    <td>-</td>
+     <td><a style="font-size: 10pt" href="https://storage.gra.cloud.ovh.net/v1/AUTH_366279ce616242ebb14161b7991a8461/defi-ia/flair_data_2/flair_2_aerial_test.zip"><b>download</b></a>  
   </tr>
  </tr>
   <tr>
     <td>Sentinel-2 images - train</td><td>22.8 Go</td><td>.zip</td>
-    <td>-</td>
+    <td><a style="font-size: 10pt" href="https://storage.gra.cloud.ovh.net/v1/AUTH_366279ce616242ebb14161b7991a8461/defi-ia/flair_data_2/flair_sen_train.zip"><b>download</b></a>
   </tr>
    <tr>
     <td>Sentinel-2 images - test</td><td>6 Go</td><td>.zip</td>
-    <td>-</td>
+    <td><a style="font-size: 10pt" href="https://storage.gra.cloud.ovh.net/v1/AUTH_366279ce616242ebb14161b7991a8461/defi-ia/flair_data_2/flair_2_sen_test.zip"><b>download</b></a>
   </tr>
   <tr>
     <td>Labels - train</td><td>485 Mo</td><td>.zip</td>
-    <td>-</td>
+    <td><a style="font-size: 10pt" href="https://storage.gra.cloud.ovh.net/v1/AUTH_366279ce616242ebb14161b7991a8461/defi-ia/flair_data_2/flair_labels_train.zip"><b>download</b></a>
   </tr>
   <tr style="cellspacing: 10px">
     <td>Labels - test</td><td>108 Mo</td><td>.zip</td>
@@ -382,15 +382,15 @@ For now upon registration to the challenge!<br>
   <tr><td colspan="4" height=10px style="outline: "></td>
   <tr>
     <td>Aerial metadata</td><td>16.1 Mo</td><td>.json</td>
-    <td>-</td>
+    <td><a style="font-size: 10pt" href="https://storage.gra.cloud.ovh.net/v1/AUTH_366279ce616242ebb14161b7991a8461/defi-ia/flair_data_2/flair_2_aerial_metadata.zip"><b>download</b></a>
   </tr>
   <tr>
     <td>Aerial <-> Sentinel-2 matching dict</td><td>16.1 Mo</td><td>.json</td>
-    <td>-</td>
+    <td><a style="font-size: 10pt" href="https://storage.gra.cloud.ovh.net/v1/AUTH_366279ce616242ebb14161b7991a8461/defi-ia/flair_data_2/flair_2_centroids_sp_to_patch.zip"><b>download</b></a>
   </tr>
   <tr>
-    <td>Areas shapes</td><td>392 Ko</td><td>.gpkg</td>
-    <td>-</td>
+    <td>Satellite shapes</td><td>392 Ko</td><td>.gpkg</td>
+    <td><a style="font-size: 10pt" href="https://storage.gra.cloud.ovh.net/v1/AUTH_366279ce616242ebb14161b7991a8461/defi-ia/flair_data_2/flair_2_satellite_shapes.zip"><b>download</b></a>
   </tr>
   <tr><td colspan="4" height=10px style="outline: "></td>
   <tr>
