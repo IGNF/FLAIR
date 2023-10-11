@@ -376,7 +376,7 @@ We propose the U-T&T model, a two-branch architecture that combines spatial and 
   </tr>
   <tr style="cellspacing: 10px">
     <td>Labels - test</td><td>108 Mo</td><td>.zip</td>
-    <td>-</td>
+     <td><a style="font-size: 10pt" href="https://storage.gra.cloud.ovh.net/v1/AUTH_366279ce616242ebb14161b7991a8461/defi-ia/flair_data_2/flair_2_labels_test.zip"><b>download</b></a>
   </tr>
   <tr><td colspan="4" height=10px style="outline: "></td>
   <tr>
