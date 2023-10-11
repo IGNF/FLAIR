@@ -345,7 +345,6 @@ We propose the U-T&T model, a two-branch architecture that combines spatial and 
 
 <details><summary><font size=3.5>▶️ Download the dataset</font> <em>(click to expand)</em></summary> 
 
-For now upon registration to the challenge!<br>
 
 <center>
 <table style="width:80%;max-width:700px;">
