@@ -407,23 +407,21 @@ We propose the U-T&T model, a two-branch architecture that combines spatial and 
 
 Please include a citation to the following paper if you use the FLAIR #2 dataset: 
 
-
 Plain text:
 ```
 Anatol Garioud, Nicolas Gonthier, Loic Landrieu, Apolline De Wit, Marion Valette, Marc Poupée, Sébastien Giordano and Boris Wattrelos. 2023. 
 FLAIR: a Country-Scale Land Cover Semantic Segmentation Dataset From Multi-Source Optical Imagery. (2023). 
-DOI:https://doi.org/10.13140/RG.2.2.30938.93128/2
+DOI: https://doi.org/10.48550/arXiv.2310.13336
 ```
 
 BibTex:
 ```
-@misc{ign2023flair2,
+@inproceedings{ign2023flair2,
       title={FLAIR: a Country-Scale Land Cover Semantic Segmentation Dataset From Multi-Source Optical Imagery}, 
       author={Anatol Garioud and Nicolas Gonthier and Loic Landrieu and Apolline De Wit and Marion Valette and Marc Poupée and Sébastien Giordano and Boris Wattrelos},
       year={2023},
-      eprint={2310.13336},
-      publisher = {arXiv},
-      primaryClass={cs.CV}
+      booktitle={Advances in Neural Information Processing Systems (NeurIPS) 2023},
+      doi={https://doi.org/10.48550/arXiv.2310.13336},
 }
 ```
 
