@@ -410,20 +410,20 @@ Please include a citation to the following paper if you use the FLAIR #2 dataset
 
 Plain text:
 ```
-Anatol Garioud, Apolline De Wit, Marc Poupée, Marion Valette, Sébastien Giordano, and Boris Wattrelos. 2023. 
-FLAIR #2: textural and temporal information for semantic segmentation from multi-source optical imagery. (2023). 
+Anatol Garioud, Nicolas Gonthier, Loic Landrieu, Apolline De Wit, Marion Valette, Marc Poupée, Sébastien Giordano and Boris Wattrelos. 2023. 
+FLAIR: a Country-Scale Land Cover Semantic Segmentation Dataset From Multi-Source Optical Imagery. (2023). 
 DOI:https://doi.org/10.13140/RG.2.2.30938.93128/2
 ```
 
 BibTex:
 ```
-@article{ign2023flair2,
-  doi = {10.13140/RG.2.2.30938.93128/2},
-  url = {https://arxiv.org/pdf/2305.14467.pdf},
-  author = {Garioud, Anatol and {De Wit}, Apolline and Poupée, Marc and Valette, Marion and Giordano, Sébastien and Wattrelos, Boris},
-  title = {FLAIR #2: textural and temporal information for semantic segmentation from multi-source optical imagery},
-  publisher = {arXiv},
-  year = {2023}
+@misc{ign2023flair2,
+      title={FLAIR: a Country-Scale Land Cover Semantic Segmentation Dataset From Multi-Source Optical Imagery}, 
+      author={Anatol Garioud and Nicolas Gonthier and Loic Landrieu and Apolline De Wit and Marion Valette and Marc Poupée and Sébastien Giordano and Boris Wattrelos},
+      year={2023},
+      eprint={2310.13336},
+      publisher = {arXiv},
+      primaryClass={cs.CV}
 }
 ```
 
