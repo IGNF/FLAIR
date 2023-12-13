@@ -345,7 +345,7 @@ We propose the U-T&T model, a two-branch architecture that combines spatial and 
 
 <details><summary><font size=3.5>▶️ Download the dataset</font> <em>(click to expand)</em></summary> 
 
-
+<br><br>
 <center>
 <table style="width:80%;max-width:700px;">
   <tr>
@@ -397,7 +397,8 @@ We propose the U-T&T model, a two-branch architecture that combines spatial and 
     <td><a style="font-size: 10pt" href="https://storage.gra.cloud.ovh.net/v1/AUTH_366279ce616242ebb14161b7991a8461/defi-ia/flair_data_2/flair_2_toy_dataset.zip"><b>download</b></a></td>
   </tr>
 </table>
-</center>
+</center><br><br>
+Alternatively, get the dataset from our <a style="font-size: 10pt" href="https://huggingface.co/datasets/IGNF/FLAIR"><b>HuggingFace Page</b></a>.
 <br/><br/>
 
 </details>
