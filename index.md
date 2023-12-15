@@ -402,6 +402,11 @@ Alternatively, get the dataset from our <a style="font-size: 10pt" href="https:/
 <br/><br/>
 
 </details>
+<br>
+
+<details><summary><font size=3.5>▶️ Download pretrained models</font> <em>(click to expand)</em></summary> 
+<br> Coming soon ! If you are in a hurry, send us an email !
+</details>
 <br><br>
 
 ### Reference
@@ -411,7 +416,8 @@ Please include a citation to the following paper if you use the FLAIR #2 dataset
 Plain text:
 ```
 Anatol Garioud, Nicolas Gonthier, Loic Landrieu, Apolline De Wit, Marion Valette, Marc Poupée, Sébastien Giordano and Boris Wattrelos. 2023. 
-FLAIR: a Country-Scale Land Cover Semantic Segmentation Dataset From Multi-Source Optical Imagery. (2023). 
+FLAIR: a Country-Scale Land Cover Semantic Segmentation Dataset From Multi-Source Optical Imagery. (2023).
+In proceedings of Advances in Neural Information Processing Systems (NeurIPS) 2023.
 DOI: https://doi.org/10.48550/arXiv.2310.13336
 ```
 
