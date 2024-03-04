@@ -67,6 +67,8 @@ Ce challenge s'est déroulé du 21 Novembre 2022 au 21 Mars 2023. Vous pouvez co
 >FLAIR #1 <b> datapaper  &#128209;</b>  : https://arxiv.org/pdf/2211.12979.pdf <br/>
 >FLAIR #1 <b> dépôt github &#128193;</b> : https://github.com/IGNF/FLAIR-1-AI-Challenge
 
+><b>Modèles pré-entraînés</b> : https://huggingface.co/collections/IGNF/flair-models-landcover-semantic-segmentation-65bb67415a5dbabc819a95de
+
 <br/><br/>
 
 
