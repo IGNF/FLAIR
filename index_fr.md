@@ -273,6 +273,8 @@ Challenge organisé par l'IGN avec le soutient du <a href="https://cnes.fr/en" t
 <br/><br/><br/>
 
 >FLAIR #2 <b>datapaper  &#128209;</b>  : https://arxiv.org/pdf/2305.14467.pdf <br/>
+>FLAIR #2 <b>NeurIPS datapaper  &#128209;</b>  : https://proceedings.neurips.cc/paper_files/paper/2023/file/353ca88f722cdd0c481b999428ae113a-Paper-Datasets_and_Benchmarks.pdf <br/>
+>FLAIR #2 <b>NeurIPS poster  &#128209;</b>  : https://neurips.cc/media/PosterPDFs/NeurIPS%202023/73621.png?t=1699528363.252194 <br/>
 >FLAIR #2 <b>dépôt GitHub &#128193;</b> : https://github.com/IGNF/FLAIR-2-AI-Challenge <br/>
 >FLAIR #2 <b>page du défi &#128187;</b> : https://codalab.lisn.upsaclay.fr/competitions/13447 [terminé]
 
