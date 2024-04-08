@@ -24,7 +24,7 @@ title: FLAIR Challenges
 <tbody>
   <tr>
     <td></td>
-    <td colspan="2" style="text-align: center; padding: 2% 8% 2% 8%">We are committed to supporting research and fostering innovation in the fields of Earth Observation. For any question concerning the data, their access and exploitation, as well as for any idea of future datasets or suggestion of topics, simply contact us at the address: <a href = "mailto:ai-challenge@ign.fr?subject=FLAIR - AI challenge @IGN">ai-challenge@ign.fr</a></td>
+    <td colspan="2" style="text-align: center; padding: 2% 8% 2% 8%">We are committed to supporting research and fostering innovation in the fields of Earth Observation. For any question concerning the data, their access and exploitation, as well as for any idea of future datasets or suggestion of topics, simply contact us at the address: <a href = "mailto:flair@ign.fr?subject=FLAIR @IGN">ai-challenge@ign.fr</a></td>
     <td></td>
   </tr>
   <tr>
