@@ -24,7 +24,7 @@ title: Défis Flair
 <tbody>
   <tr>
     <td></td>
-    <td colspan="2" style="text-align: center; padding: 2% 8% 2% 8%">Nous nous engageons à soutenir la recherche et à favoriser l'innovation dans les domaines de l'observation de la Terre. Pour toute question concernant les données, leur accès et leur exploitation, ainsi que pour toute idée de futurs jeux de données ou suggestion de sujets, contactez nous à l'adresse suivante:<br/> <a href = "mailto:ai-challenge@ign.fr?subject=FLAIR - AI challenge @IGN">ai-challenge@ign.fr</a></td>
+    <td colspan="2" style="text-align: center; padding: 2% 8% 2% 8%">Nous nous engageons à soutenir la recherche et à favoriser l'innovation dans les domaines de l'observation de la Terre. Pour toute question concernant les données, leur accès et leur exploitation, ainsi que pour toute idée de futurs jeux de données ou suggestion de sujets, contactez nous à l'adresse suivante:<br/> <a href = "mailto:flair@ign.fr?subject=FLAIR @IGN">ai-challenge@ign.fr</a></td>
     <td></td>
   </tr>
   <tr>
