@@ -263,6 +263,8 @@ Challenge organized by IGN with the support of the <a href="https://cnes.fr/en" 
 >FLAIR #2 <b>repository &#128193;</b> : https://github.com/IGNF/FLAIR-2-AI-Challenge <br/>
 >FLAIR #2 <b>challenge page &#128187;</b> : https://codalab.lisn.upsaclay.fr/competitions/13447 [now closed]
 
+><b>Pre-trained models &#9889;</b> : for now upon request ! 
+
 <br/><br/>
 
 
@@ -405,11 +407,6 @@ We propose the U-T&T model, a two-branch architecture that combines spatial and 
 Alternatively, get the dataset from our <a style="font-size: 10pt" href="https://huggingface.co/datasets/IGNF/FLAIR"><b>HuggingFace Page</b></a>.
 <br/><br/>
 
-</details>
-<br>
-
-<details><summary><font size=3.5>▶️ Download pretrained models</font> <em>(click to expand)</em></summary> 
-<br> Coming soon ! If you are in a hurry, send us an email !
 </details>
 <br><br>
 
