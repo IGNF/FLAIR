@@ -250,7 +250,7 @@ BibTex:
 ## FLAIR #2 : textural and temporal information for semantic segmentation from multi-source optical imagery 🌍🌱🏠🌳➡️🛩️🛰️
  
 Challenge organized by IGN with the support of the <a href="https://cnes.fr/en" target="_blank"><b>CNES</b></a> and <a href="https://www.connectbycnes.fr/en" target="_blank"><b>Connect by CNES</b></a> with the Copernicus / FPCUP projetc.<br>
-<img style="width:100%;max-width:1000px;" src="img/flair-2_logos-hd.png" alt="Drawing"/>
+<img style="width:100%;max-width:800px;" src="img/flair-2_logos-hd.png" alt="Drawing"/>
 <br/><br/><br/>
 
 
