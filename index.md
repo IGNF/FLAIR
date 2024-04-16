@@ -17,16 +17,13 @@ title: FLAIR Challenges
 <thead>
   <tr>
     <th></th>
-    <th colspan="2" style="text-align: center; padding: 2% 8% 2% 8%">The French National Institute of Geographical and Forest Information (IGN) presents its AI challenges and benchmark datasets FLAIR (for French Land cover from Aerospace ImageRy). The FLAIR datasets include Earth Observation data from different aerospace sensors. These datasets cover large scales and reflect real world cases of land cover mapping tasks.</th>
+    <th colspan="2" style="text-align: center; padding: 2% 8% 2% 8%">The French National Institute of Geographical and Forest Information (IGN) presents its AI challenges and benchmark datasets FLAIR (for French Land cover from Aerospace ImageRy). The FLAIR datasets include Earth Observation data from different aerospace sensors. These datasets cover large scales and reflect real world cases of land cover mapping tasks.<br><br>
+We are committed to supporting research and fostering innovation in the fields of Earth Observation. For any question concerning the data, their access and exploitation, as well as for any idea of future datasets or suggestion of topics, simply contact us at the address: <a href = "mailto:flair@ign.fr?subject=FLAIR @IGN">ai-challenge@ign.fr</a></th>
     <th></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td></td>
-    <td colspan="2" style="text-align: center; padding: 2% 8% 2% 8%">We are committed to supporting research and fostering innovation in the fields of Earth Observation. For any question concerning the data, their access and exploitation, as well as for any idea of future datasets or suggestion of topics, simply contact us at the address: <a href = "mailto:flair@ign.fr?subject=FLAIR @IGN">ai-challenge@ign.fr</a></td>
-    <td></td>
-  </tr>
   <tr>
     <td></td>
     <td colspan="2" style="text-align: center; padding: 2% 4% 2% 4%"><div style="padding: 5px; border: 1px solid red; margin-bottom: 8px;">  
