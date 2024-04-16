@@ -17,16 +17,12 @@ title: Défis Flair
 <thead>
   <tr>
     <th></th>
-    <th colspan="2" style="text-align: center; padding: 2% 8% 2% 8%">L'Institut national de l'information géographique et forestière (IGN) présente ses défis en matière d'IA et ses jeux de données de référence FLAIR (pour French Land cover from Aerospace ImageRy). Les jeux de données FLAIR mettent à disposition des données d'observation de la Terre provenant de différents capteurs aérospatiaux. Ces jeux de données couvrent de larges échelles et reflètent des cas réels et complexes de cartographie de l'occupation du sol.</th>
+    <th colspan="2" style="text-align: center; padding: 2% 8% 2% 8%">L'Institut national de l'information géographique et forestière (IGN) présente ses défis en matière d'IA et ses jeux de données de référence FLAIR (pour French Land cover from Aerospace ImageRy). Les jeux de données FLAIR mettent à disposition des données d'observation de la Terre provenant de différents capteurs aérospatiaux. Ces jeux de données couvrent de larges échelles et reflètent des cas réels et complexes de cartographie de l'occupation du sol.<br><br>
+Nous nous engageons à soutenir la recherche et à favoriser l'innovation dans les domaines de l'observation de la Terre. Pour toute question concernant les données, leur accès et leur exploitation, ainsi que pour toute idée de futurs jeux de données ou suggestion de sujets, contactez nous à l'adresse suivante:<br/> <a href = "mailto:flair@ign.fr?subject=FLAIR @IGN">flair@ign.fr</a></th>
     <th></th>
   </tr>
 </thead>
 <tbody>
-  <tr>
-    <td></td>
-    <td colspan="2" style="text-align: center; padding: 2% 8% 2% 8%">Nous nous engageons à soutenir la recherche et à favoriser l'innovation dans les domaines de l'observation de la Terre. Pour toute question concernant les données, leur accès et leur exploitation, ainsi que pour toute idée de futurs jeux de données ou suggestion de sujets, contactez nous à l'adresse suivante:<br/> <a href = "mailto:flair@ign.fr?subject=FLAIR @IGN">ai-challenge@ign.fr</a></td>
-    <td></td>
-  </tr>
   <tr>
     <td></td>
     <td colspan="2" style="text-align: center; padding: 2% 4% 2% 4%"><div style="padding: 5px; border: 1px solid red; margin-bottom: 8px;">  
