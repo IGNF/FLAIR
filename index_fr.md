@@ -278,6 +278,8 @@ Challenge organisé par l'IGN avec le soutient du <a href="https://cnes.fr/en" t
 >FLAIR #2 <b>dépôt GitHub &#128193;</b> : https://github.com/IGNF/FLAIR-2-AI-Challenge <br/>
 >FLAIR #2 <b>page du défi &#128187;</b> : https://codalab.lisn.upsaclay.fr/competitions/13447 [terminé]
 
+><b>Modèles pré-entraînés</b> : pour l'instant sur demande ! 
+
 <br/><br/>
 
 
