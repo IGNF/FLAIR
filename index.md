@@ -1,7 +1,7 @@
 ---
 title: FLAIR Challenges
 ---
-🇫🇷 <a style="font-size: 11pt" href="./index_fr.html"><b>Version française</b></a>
+🇫🇷 <a style="font-size: 11pt" href="./fr.html"><b>Version française</b></a>
 
 # Welcome to IGN's FLAIR datasets page!
 
