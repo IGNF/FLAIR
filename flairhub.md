@@ -2,20 +2,17 @@
 title: FLAIR-HUB
 ---
 
-<div style="display: flex; align-items: center; justify-content: space-between; max-width: 1000px; margin: 0 auto;">
-  <div style="flex: 1;">
-    <a style="font-size: 11pt;" href="./fr.html"><b>🇫🇷 Version française</b></a>
-  </div>
-  <div style="flex: 2; text-align: center;">
-    <img src="img/flair_bandeau.jpg" alt="" style="width: 100%; max-width: 1000px;" />
-  </div>
-  <div style="flex: 1;"></div> <!-- Empty div for spacing/symmetry -->
+<div style="position: relative; text-align: center;">
+  <a href="./flairhub_fr.html" style="font-size: 11pt; position: absolute; left: 0; top: 0;"><b>🇫🇷 Version française</b></a>
+  <img src="img/flair_bandeau.jpg" alt="" style="width: 100%; max-width: 800px;" />
 </div>
 
 
 
 
 
+<center>
+  
 ### 🌍 Overview
 
 
@@ -30,13 +27,14 @@ title: FLAIR-HUB
   </tbody>
 </table>
 
+</center>
 
 <hr>
 
 
 
 <center>
-<table style="width:100%; max-width:1000px; border-collapse: separate; border-spacing: 0;">
+<table style="width:100%; max-width:1400px; border-collapse: separate; border-spacing: 0;">
   <thead>
     <tr>
       <th colspan="3" style="
