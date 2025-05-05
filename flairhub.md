@@ -61,13 +61,11 @@ title: FLAIR-HUB
 
 
 <hr><br><a id="LINKS"></a>
+
+### 🔗 Links
+
 <center>
 <table style="width:100%; max-width:700px; background-color:rgb(61, 60, 60); border: 2px solid green; border-radius: 12px; border-collapse: separate; border-spacing: 0;">
-  <thead>
-    <tr>
-      <th style="text-align: left; font-size: 1.2em; padding: 10px 20px; color: white;">🔗 Links</th>
-    </tr>
-  </thead>
   <tbody style="color: white; font-size: 1.05em;">
     <tr><td style="border: none; padding: 4px 20px;">📄 <a href="https://arxiv.org/pdf/2211.12979.pdf" target="_blank" style="color: lightgreen;">Data Paper</a> – Learn more about the dataset in the official publication</td></tr>
     <tr><td style="border: none; padding: 4px 20px;">📁 <a href="https://huggingface.co/datasets/IGNF/FLAIR-HUB" target="_blank" style="color: lightgreen;">Download Toy Dataset</a> – Includes all modalities in lightweight form</td></tr>
