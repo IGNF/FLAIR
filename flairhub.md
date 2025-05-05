@@ -239,7 +239,7 @@ FLAIR-HUB includes two complementary supervision sources: AERIAL_LABEL-COSIA, a 
 The baseline model, FLAIR-UPerFuse, is a modular architecture designed for multi-modal and multi-temporal remote sensing segmentation. It integrates spatial features via a Swin Transformer, temporal dynamics through a UTAE encoder, and combines them using a dedicated fusion module. A UPerNet decoder processes the fused features to generate segmentation outputs. The architecture dynamically adapts to the input configuration—handling mono- or multi-temporal data—and includes auxiliary branches to improve supervision and modality-specific learning. Training is guided by a composite loss function that balances main and auxiliary objectives across tasks and modalities.
 
 
-<br><p align="center"><img src="img/FLAIR-HUB_arch_dark.png" alt="" style="width:100%;max-width:800px;" /></p><br>
+<br><p align="center"><img src="img/FLAIR-HUB_arch_dark.png" alt="" style="width:100%;max-width:1000px;" /></p><br>
 
 
 
