@@ -4,7 +4,7 @@ title: FLAIR-HUB
 🇫🇷 <a style="font-size: 11pt" href="./fr.html"><b>Version française</b></a>
 
 
-<p align="center"><img src="img/flair_bandeau.jpg" alt="" style="width:100%;max-width:1800px;" /></p>
+<p align="center"><img src="img/flair_bandeau.jpg" alt="" style="width:100%;max-width:1000px;" /></p>
 
 
 
@@ -12,7 +12,7 @@ title: FLAIR-HUB
 ### 🌍 Overview
 
 <center>
-<table style="width:100%; max-width:1000px; border: 2px solid green; border-radius: 12px; background-color: rgb(214, 212, 212); border-collapse: separate; border-spacing: 0;">
+<table style="width:100%; max-width:600px; border: 2px solid green; border-radius: 12px; background-color: rgb(214, 212, 212); border-collapse: separate; border-spacing: 0;">
   <tbody style="color: #1e1e1e; font-size: 1.05em;">
     <tr><td style="border: none; padding: 4px 25px;">→&nbsp;🔗&nbsp;<a href="#LINKS" style="color: blue;">Links</a></td></tr>
     <tr><td style="border: none; padding: 4px 25px;">→&nbsp;🎯&nbsp;<a href="#FIGURES" style="color: blue;">Key Figures</a></td></tr>
@@ -29,7 +29,7 @@ title: FLAIR-HUB
 
 
 <center>
-<table style="width:100%; max-width:1000px; border-collapse: separate; border-spacing: 0;">
+<table style="width:100%; max-width:600px; border-collapse: separate; border-spacing: 0;">
   <thead>
     <tr>
       <th colspan="3" style="
@@ -48,14 +48,14 @@ title: FLAIR-HUB
 </table>
 </center>
 
-<p align="center"><img src="img/FLAIR-HUB_overview_dark.png" alt="" style="width:100%;max-width:1200px;" /></p>
+<p align="center"><img src="img/FLAIR-HUB_overview_dark.png" alt="" style="width:100%;max-width:600px;" /></p>
 
 
 
 
 <hr><br><a id="LINKS"></a>
 <center>
-<table style="width:100%; max-width:1200px; background-color:rgb(61, 60, 60); border: 2px solid green; border-radius: 12px; border-collapse: separate; border-spacing: 0;">
+<table style="width:100%; max-width:700px; background-color:rgb(61, 60, 60); border: 2px solid green; border-radius: 12px; border-collapse: separate; border-spacing: 0;">
   <thead>
     <tr>
       <th style="text-align: left; font-size: 1.2em; padding: 10px 20px; color: white;">🔗 Links</th>
@@ -138,7 +138,7 @@ DOI: https://doi.org/10.13140/RG.2.2.30183.73128/1
 <br>
 
 <center>
-<table style="width:95%;max-width:1000px;">
+<table style="width:95%;max-width:600px;">
   <thead>
     <tr>
       <th>Modality</th>
@@ -201,7 +201,7 @@ DOI: https://doi.org/10.13140/RG.2.2.30183.73128/1
 </center>
 
 
-<br><p align="center"><img src="img/FLAIR-INC_patches_1_VERTICAL.png" alt="" style="width:100%;max-width:1200px;" /></p>
+<br><p align="center"><img src="img/FLAIR-INC_patches_1_VERTICAL.png" alt="" style="width:100%;max-width:600px;" /></p>
 
 
 
@@ -232,7 +232,7 @@ FLAIR-HUB includes two complementary supervision sources: AERIAL_LABEL-COSIA, a 
 The baseline model, FLAIR-UPerFuse, is a modular architecture designed for multi-modal and multi-temporal remote sensing segmentation. It integrates spatial features via a Swin Transformer, temporal dynamics through a UTAE encoder, and combines them using a dedicated fusion module. A UPerNet decoder processes the fused features to generate segmentation outputs. The architecture dynamically adapts to the input configuration—handling mono- or multi-temporal data—and includes auxiliary branches to improve supervision and modality-specific learning. Training is guided by a composite loss function that balances main and auxiliary objectives across tasks and modalities.
 
 
-<br><p align="center"><img src="img/FLAIR-HUB_arch_dark.png" alt="" style="width:100%;max-width:1000px;" /></p><br>
+<br><p align="center"><img src="img/FLAIR-HUB_arch_dark.png" alt="" style="width:100%;max-width:600px;" /></p><br>
 
 
 
