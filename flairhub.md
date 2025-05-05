@@ -4,9 +4,9 @@ title: FLAIR-HUB
 
 <div style="position: relative; text-align: center;">
   <a href="./flairhub_fr.html" style="font-size: 11pt; position: absolute; left: 0; top: 0;"><b>🇫🇷 Version française</b></a>
-  <img src="img/flair_bandeau.jpg" alt="" style="width: 100%; max-width: 800px;" />
+  <img src="img/flair_bandeau.jpg" alt="" style="width: 100%; max-width: 1200px;" />
 </div>
-
+<br>
 
 
 
@@ -18,12 +18,12 @@ title: FLAIR-HUB
 
 <table style="width:100%; max-width:400px; border: 2px solid green; border-radius: 12px; background-color: rgb(214, 212, 212); border-collapse: separate; border-spacing: 0;">
   <tbody style="color: #1e1e1e; font-size: 1.05em;">
-    <tr><td style="border: none; padding: 4px 25px;">→&nbsp;🔗&nbsp;<a href="#LINKS" style="color: blue;">Links</a></td></tr>
-    <tr><td style="border: none; padding: 4px 25px;">→&nbsp;🎯&nbsp;<a href="#FIGURES" style="color: blue;">Key Figures</a></td></tr>
-    <tr><td style="border: none; padding: 4px 25px;">→&nbsp;🗂️&nbsp;<a href="#MODALITIES" style="color: blue;">Modalities</a></td></tr>
-    <tr><td style="border: none; padding: 4px 25px;">→&nbsp;🏷️&nbsp;<a href="#SUPERVISION" style="color: blue;">Supervision</a></td></tr>
-    <tr><td style="border: none; padding: 4px 25px;">→&nbsp;🧱&nbsp;<a href="#ARCHI" style="color: blue;">Baseline Architecture</a></td></tr>
-    <tr><td style="border: none; padding: 4px 25px;">→&nbsp;🧭&nbsp;<a href="#FLAIRs" style="color: blue;">FLAIR challenges recap</a></td></tr>    
+    <tr><td style="border: none; padding: 4px 25px;">→&nbsp;🔗&nbsp;<a href="#LINKS" style="color: blue;"><b>Links</b></a></td></tr>
+    <tr><td style="border: none; padding: 4px 25px;">→&nbsp;🎯&nbsp;<a href="#FIGURES" style="color: blue;"><b>Key Figures</b></a></td></tr>
+    <tr><td style="border: none; padding: 4px 25px;">→&nbsp;🗂️&nbsp;<a href="#MODALITIES" style="color: blue;"><b>Modalities</b></a></td></tr>
+    <tr><td style="border: none; padding: 4px 25px;">→&nbsp;🏷️&nbsp;<a href="#SUPERVISION" style="color: blue;"><b>Supervision</b></a></td></tr>
+    <tr><td style="border: none; padding: 4px 25px;">→&nbsp;🧱&nbsp;<a href="#ARCHI" style="color: blue;"><b>Baseline Architecture</b></a></td></tr>
+    <tr><td style="border: none; padding: 4px 25px;">→&nbsp;🧭&nbsp;<a href="#FLAIRs" style="color: blue;"><b>FLAIR challenges recap</b></a></td></tr>    
   </tbody>
 </table>
 
@@ -207,7 +207,7 @@ DOI: https://doi.org/10.13140/RG.2.2.30183.73128/1
 </center>
 
 
-<br><p align="center"><img src="img/FLAIR-INC_patches_1_VERTICAL.png" alt="" style="width:100%;max-width:1000px;" /></p>
+<br><p align="center"><img src="img/FLAIR-INC_patches_1_VERTICAL.png" alt="" style="width:100%;max-width:1300px;" /></p>
 
 
 
@@ -218,14 +218,14 @@ DOI: https://doi.org/10.13140/RG.2.2.30183.73128/1
 
 FLAIR-HUB includes two complementary supervision sources: AERIAL_LABEL-COSIA, a high-resolution land cover annotation derived from expert photo-interpretation of RGBI imagery, offering pixel-level precision across 19 classes; and AERIAL_LABEL-LPIS, a crop-type annotation based on farmer-declared parcels from the European Common Agricultural Policy, structured into a three-level taxonomy of up to 46 crop classes. While COSIA reflects actual land cover, LPIS captures declared land use, and the two differ in purpose, precision, and spatial alignment.
 
-
-<table style="width:100%; max-width:1000px; text-align:center;">
+<center>
+<table style="width:100%; max-width:1100px;>
   <tr>
     <td><img src="img/NOM_cosia_en.png" alt="Figure 1" width="80%"><br><small>Land-cover supervision</small></td>
     <td><img src="img/NOM_lpis_en.png" alt="Figure 2" width="87%"><br><small>Crop-type supervision</small></td>
   </tr>
 </table>
-
+</center>
 
 
 
