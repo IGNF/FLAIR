@@ -220,7 +220,7 @@ DOI: https://doi.org/10.13140/RG.2.2.30183.73128/1
 FLAIR-HUB includes two complementary supervision sources: AERIAL_LABEL-COSIA, a high-resolution land cover annotation derived from expert photo-interpretation of RGBI imagery, offering pixel-level precision across 19 classes; and AERIAL_LABEL-LPIS, a crop-type annotation based on farmer-declared parcels from the European Common Agricultural Policy, structured into a three-level taxonomy of up to 46 crop classes. While COSIA reflects actual land cover, LPIS captures declared land use, and the two differ in purpose, precision, and spatial alignment.
 
 <center>
-<table style="width:100%; max-width:1100px;>
+<table style="width:100%; max-width:1100px;">
   <tr>
     <td><img src="img/NOM_cosia_en.png" alt="Figure 1" width="80%"><br><small>Land-cover supervision</small></td>
     <td><img src="img/NOM_lpis_en.png" alt="Figure 2" width="87%"><br><small>Crop-type supervision</small></td>
