@@ -17,7 +17,7 @@ title: FLAIR-HUB
 ### 🌍 Overview
 
 
-<table style="width:100%; max-width:400px; border: 2px solid green; border-radius: 12px; background-color: rgb(214, 212, 212); border-collapse: separate; border-spacing: 0;">
+<table style="width:100%; max-width:400px; border: 2px solid green; border-radius: 12px; border-collapse: separate; border-spacing: 0;">
   <tbody style="color: #1e1e1e; font-size: 1.05em;">
     <tr><td style="border: none; padding: 4px 25px;">→&nbsp;🔗&nbsp;<a href="#LINKS" style="color: blue;"><b>Links</b></a></td></tr>
     <tr><td style="border: none; padding: 4px 25px;">→&nbsp;🎯&nbsp;<a href="#FIGURES" style="color: blue;"><b>Key Figures</b></a></td></tr>
