@@ -17,7 +17,7 @@ title: FLAIR-HUB
 ### 🌍 Overview
 
 
-<table style="width:100%; max-width:400px; border: 2px solid green; border-radius: 12px; border-collapse: separate; border-spacing: 0;">
+<table style="width:100%; max-width:400px; border: 2px solid red; border-radius: 12px; background-color:rgb(61, 60, 60); border-collapse: separate; border-spacing: 0;">
   <tbody style="color: #1e1e1e; font-size: 1.05em;">
     <tr><td style="border: none; padding: 4px 25px;">→&nbsp;🔗&nbsp;<a href="#LINKS" style="color: blue;"><b>Links</b></a></td></tr>
     <tr><td style="border: none; padding: 4px 25px;">→&nbsp;🎯&nbsp;<a href="#FIGURES" style="color: blue;"><b>Key Figures</b></a></td></tr>
@@ -220,11 +220,18 @@ FLAIR-HUB includes two complementary supervision sources: AERIAL_LABEL-COSIA, a 
 <center>
 <table style="width:100%; max-width:1100px;">
   <tr>
-    <td><img src="img/NOM_cosia_en.png" alt="Figure 1" width="80%"><br><small>Land-cover supervision</small></td>
-    <td><img src="img/NOM_lpis_en.png" alt="Figure 2" width="87%"><br><small>Crop-type supervision</small></td>
+    <td style="text-align:center;">
+      <img src="img/NOM_cosia_en.png" alt="Figure 1" width="80%">
+      <div><small>Land-cover supervision</small></div>
+    </td>
+    <td style="text-align:center;">
+      <img src="img/NOM_lpis_en.png" alt="Figure 2" width="87%">
+      <div><small>Crop-type supervision</small></div>
+    </td>
   </tr>
 </table>
 </center>
+
 
 
 
