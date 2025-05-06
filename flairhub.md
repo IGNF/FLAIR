@@ -67,12 +67,12 @@ title: FLAIR-HUB
 <center>
 <table style="width:100%; max-width:700px; background-color:rgb(61, 60, 60); border: 2px solid green; border-radius: 12px; border-collapse: separate; border-spacing: 0;">
   <tbody style="color: white; font-size: 1.05em;">
-    <tr><td style="border: none; padding: 4px 20px;">📄 <a href="https://arxiv.org/pdf/2211.12979.pdf" target="_blank" style="color: lightgreen;">Data Paper</a> – Learn more about the dataset in the official publication</td></tr>
-    <tr><td style="border: none; padding: 4px 20px;">📁 <a href="https://huggingface.co/datasets/IGNF/FLAIR-HUB" target="_blank" style="color: lightgreen;">Download Toy Dataset</a> – Includes all modalities in lightweight form</td></tr>
-    <tr><td style="border: none; padding: 4px 20px;">📁 <a href="https://huggingface.co/datasets/IGNF/FLAIR-HUB" target="_blank" style="color: lightgreen;">Download Full Dataset</a> – Access the complete FLAIR-HUB data on HuggingFace</td></tr>
-    <tr><td style="border: none; padding: 4px 20px;">🤖 <a href="https://huggingface.co/datasets/IGNF/FLAIR-HUB" target="_blank" style="color: lightgreen;">Pretrained Models</a> – Models trained on FLAIR-HUB</td></tr>
-    <tr><td style="border: none; padding: 4px 20px;">💻 <a href="https://github.com/IGNF/FLAIR-HUB" target="_blank" style="color: lightgreen;">Source Code (GitHub)</a> – Explore training, preprocessing, and benchmark scripts</td></tr>
-    <tr><td style="border: none; padding: 4px 20px;">✉️ <a href="mailto:flair@ign.fr" style="color: lightgreen;">Contact Us</a> – flair@ign.fr – Questions or collaboration inquiries welcome!</td></tr>
+    <tr><td style="border: none; padding: 4px 20px;">📄 <a href="https://arxiv.org/pdf/2211.12979.pdf" target="_blank" style="color: lightgreen;"><b>Data Paper</b></a> – Learn more about the dataset in the official publication</td></tr>
+    <tr><td style="border: none; padding: 4px 20px;">📁 <a href="https://huggingface.co/datasets/IGNF/FLAIR-HUB" target="_blank" style="color: lightgreen;"><b>Download Toy Dataset</b></a> – Includes all modalities in lightweight form</td></tr>
+    <tr><td style="border: none; padding: 4px 20px;">📁 <a href="https://huggingface.co/datasets/IGNF/FLAIR-HUB" target="_blank" style="color: lightgreen;"><b>Dbownload Full Dataset</b></a> – Access the complete FLAIR-HUB data on HuggingFace</td></tr>
+    <tr><td style="border: none; padding: 4px 20px;">🤖 <a href="https://huggingface.co/datasets/IGNF/FLAIR-HUB" target="_blank" style="color: lightgreen;"><b>Pretrained Models</b></a> – Models trained on FLAIR-HUB</td></tr>
+    <tr><td style="border: none; padding: 4px 20px;">💻 <a href="https://github.com/IGNF/FLAIR-HUB" target="_blank" style="color: lightgreen;"><b>Source Code (GitHub)</b></a> – Explore training, preprocessing, and benchmark scripts</td></tr>
+    <tr><td style="border: none; padding: 4px 20px;">✉️ <a href="mailto:flair@ign.fr" style="color: lightgreen;"><b>Contact Us</b></a> – flair@ign.fr – Questions or collaboration inquiries welcome!</td></tr>
   </tbody>
 </table>
 </center>
