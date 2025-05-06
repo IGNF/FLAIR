@@ -4,7 +4,7 @@ title: FLAIR-HUB
 ---
 
 <div style="position: relative; text-align: center;">
-  <a href="./flairhub_fr.html" style="font-size: 11pt; position: absolute; left: 0; top: 0;"><b>🇫🇷 Version française</b></a>
+  <a href="./flairhub_fr.html" style="font-size: 11pt;"><b>🇫🇷 Version française</b></a><br>
   <img src="img/flair_bandeau.jpg" alt="" style="width: 100%; max-width: 1200px;" />
 </div>
 <br>
