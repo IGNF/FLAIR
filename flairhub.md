@@ -256,7 +256,7 @@ The baseline model, FLAIR-UPerFuse, is a modular architecture designed for multi
 ### 🧭 Previous FLAIR challenges
 
 
-FLAIR#1 introduced the first large-scale challenge for land cover mapping using high-resolution aerial imagery (20 cm) and expert semantic annotations across 812 km² of diverse French landscapes. It provided over 77,000 patches labeled into 19 land cover classes (13 used for training) and focused on domain adaptation, with testing done on entirely unseen regions and acquisition dates. The dataset and challenge highlighted the difficulty of building generalizable models under strong spatial and temporal shifts. Baselines relied on U-Net architectures and established a benchmark for cross-domain semantic segmentation in remote sensing.
+FLAIR#1 introduced a large-scale challenge for land cover mapping using high-resolution aerial imagery (20 cm) and expert semantic annotations across 812 km² of diverse French landscapes. It provided over 77,000 patches labeled into 19 land cover classes (13 used for training) and focused on domain adaptation, with testing done on entirely unseen regions and acquisition dates. The dataset and challenge highlighted the difficulty of building generalizable models under strong spatial and temporal shifts. Baselines relied on U-Net architectures and established a benchmark for cross-domain semantic segmentation in remote sensing.
 
 🔗 FLAIR#1 code repo : https://github.com/IGNF/FLAIR-1 <br>
 🔗 FLAIR#1 datapaper : https://arxiv.org/pdf/2211.12979.pdf
