@@ -1,24 +1,26 @@
 ---
+layout: default
 title: FLAIR-HUB
 ---
-🇬🇧 <a style="font-size: 11pt" href="./index.html"><b>English version</b></a>
 
-<p align="center"><img src="img/flair_bandeau.jpg" alt="" style="width:100%;max-width:1800px;" /></p>
+<div style="position: relative; text-align: center;">
+  <a href="./flairhub_fr.html" style="font-size: 11pt;"><b>🇬🇧 English version</b></a><br>
+  <img src="img/flair_bandeau.jpg" alt="" style="width: 100%; max-width: 1200px;" />
+</div>
+<br>
 
-
-
-
-### 🌍 Sommaire
 
 <center>
-<table style="width:100%; max-width:1000px; border: 2px solid green; border-radius: 12px; background-color: rgb(214, 212, 212); border-collapse: separate; border-spacing: 0;">
+### 🌍 Sommaire
+
+<table style="width:100%; max-width:400px; border: 2px solid green; border-radius: 12px; background-color: rgb(61, 60, 60); border-collapse: separate; border-spacing: 0;">
   <tbody style="color: #1e1e1e; font-size: 1.05em;">
-    <tr><td style="border: none; padding: 4px 25px;">→&nbsp;🔗&nbsp;<a href="#LINKS" style="color: blue;">Liens utiles</a></td></tr>
-    <tr><td style="border: none; padding: 4px 25px;">→&nbsp;🎯&nbsp;<a href="#FIGURES" style="color: blue;">Chiffres clés</a></td></tr>
-    <tr><td style="border: none; padding: 4px 25px;">→&nbsp;🗂️&nbsp;<a href="#MODALITIES" style="color: blue;">Modalités du dataset</a></td></tr>
-    <tr><td style="border: none; padding: 4px 25px;">→&nbsp;🏷️&nbsp;<a href="#SUPERVISION" style="color: blue;">Supervision</a></td></tr>
-    <tr><td style="border: none; padding: 4px 25px;">→&nbsp;🧱&nbsp;<a href="#ARCHI" style="color: blue;">Architecture de référence</a></td></tr>
-    <tr><td style="border: none; padding: 4px 25px;">→&nbsp;🧭&nbsp;<a href="#FLAIRs" style="color: blue;">Défis FLAIR précédents</a></td></tr>    
+    <tr><td style="border: none; padding: 4px 25px;">→&nbsp;🔗&nbsp;<a href="#LINKS" style="color: blue;"><b>Liens utiles</b></a></td></tr>
+    <tr><td style="border: none; padding: 4px 25px;">→&nbsp;🎯&nbsp;<a href="#FIGURES" style="color: blue;"><b>Chiffres clés</b></a></td></tr>
+    <tr><td style="border: none; padding: 4px 25px;">→&nbsp;🗂️&nbsp;<a href="#MODALITIES" style="color: blue;"><b>Modalités du dataset</b></a></td></tr>
+    <tr><td style="border: none; padding: 4px 25px;">→&nbsp;🏷️&nbsp;<a href="#SUPERVISION" style="color: blue;"><b>Supervision</b></a></td></tr>
+    <tr><td style="border: none; padding: 4px 25px;">→&nbsp;🧱&nbsp;<a href="#ARCHI" style="color: blue;"><b>Architecture de référence</b></a></td></tr>
+    <tr><td style="border: none; padding: 4px 25px;">→&nbsp;🧭&nbsp;<a href="#FLAIRs" style="color: blue;"><b>Défis FLAIR précédents</b></a></td></tr>    
   </tbody>
 </table>
 </center>
@@ -28,12 +30,12 @@ title: FLAIR-HUB
 
 
 <center>
-<table style="width:100%; max-width:1000px; border-collapse: separate; border-spacing: 0;">
+<table style="width:100%; max-width:1400px; border-collapse: separate; border-spacing: 0;">
   <thead>
     <tr>
       <th colspan="3" style="
         text-align: center;
-        padding: 2% 10%;
+        padding: 2% 15%;
         border: none;
         background-color: transparent;
         color: inherit;
@@ -47,27 +49,24 @@ title: FLAIR-HUB
 </table>
 </center>
 
-<p align="center"><img src="img/FLAIR-HUB_overview_dark.png" alt="" style="width:100%;max-width:1200px;" /></p>
+<p align="center"><img src="img/FLAIR-HUB_overview_dark.png" alt="" style="width:100%;max-width:900px;" /></p>
 
 
 
 
 <hr><br><a id="LINKS"></a>
 
+### 🔗 Liens utiles
+
 <center>
 <table style="width:100%; max-width:1200px; background-color:rgb(61, 60, 60); border: 2px solid green; border-radius: 12px; border-collapse: separate; border-spacing: 0;">
-  <thead>
-    <tr>
-      <th style="text-align: left; font-size: 1.2em; padding: 10px 20px; color: white;">🔗 Liens utiles</th>
-    </tr>
-  </thead>
   <tbody style="color: white; font-size: 1.05em;">
-    <tr><td style="border: none; padding: 4px 20px;">📄 <a href="https://arxiv.org/pdf/2211.12979.pdf" target="_blank" style="color: lightgreen;">Data Paper</a> – Learn more about the dataset in the official publication</td></tr>
-    <tr><td style="border: none; padding: 4px 20px;">📁 <a href="https://huggingface.co/datasets/IGNF/FLAIR-HUB" target="_blank" style="color: lightgreen;">Téléchargez le jeu de données jouet</a> – Inclut toutes les modalités dans une version allégée (accès direct)</td></tr>
-    <tr><td style="border: none; padding: 4px 20px;">📁 <a href="https://huggingface.co/datasets/IGNF/FLAIR-HUB" target="_blank" style="color: lightgreen;">Téléchargez le jeu de données jouet</a> – Accédez à l'intégralité de FLAIR-HUB sur HuggingFace</td></tr>
-    <tr><td style="border: none; padding: 4px 20px;">🤖 <a href="https://huggingface.co/datasets/IGNF/FLAIR-HUB" target="_blank" style="color: lightgreen;">Modèles pré-entraînés</a> – Explorez les modèles développés sur FLAIR-HUB</td></tr>
-    <tr><td style="border: none; padding: 4px 20px;">💻 <a href="https://github.com/IGNF/FLAIR-HUB" target="_blank" style="color: lightgreen;">Code source (GitHub)</a> – Scripts d'entraînement, de prétraitement et de benchmark</td></tr>
-    <tr><td style="border: none; padding: 4px 20px;">✉️ <a href="mailto:flair@ign.fr" style="color: lightgreen;">Nous contacter</a> – flair@ign.fr – Pour toute question ou proposition de collaboration !</td></tr>
+    <tr><td style="border: none; padding: 4px 20px;">📄 <a href="https://arxiv.org/pdf/2211.12979.pdf" target="_blank" style="color: lightgreen;"><b>Data Paper</b></a> – Learn more about the dataset in the official publication</td></tr>
+    <tr><td style="border: none; padding: 4px 20px;">📁 <a href="https://huggingface.co/datasets/IGNF/FLAIR-HUB" target="_blank" style="color: lightgreen;"><b>Téléchargez le jeu de données jouet</b></a> – Inclut toutes les modalités dans une version allégée (accès direct)</td></tr>
+    <tr><td style="border: none; padding: 4px 20px;">📁 <a href="https://huggingface.co/datasets/IGNF/FLAIR-HUB" target="_blank" style="color: lightgreen;"><b>Téléchargez le jeu de données jouet</b></a> – Accédez à l'intégralité de FLAIR-HUB sur HuggingFace</td></tr>
+    <tr><td style="border: none; padding: 4px 20px;">🤖 <a href="https://huggingface.co/datasets/IGNF/FLAIR-HUB" target="_blank" style="color: lightgreen;"><b>Modèles pré-entraînés</b></a> – Explorez les modèles développés sur FLAIR-HUB</td></tr>
+    <tr><td style="border: none; padding: 4px 20px;">💻 <a href="https://github.com/IGNF/FLAIR-HUB" target="_blank" style="color: lightgreen;"><b>Code source (GitHub)</b></a> – Scripts d'entraînement, de prétraitement et de benchmark</td></tr>
+    <tr><td style="border: none; padding: 4px 20px;">✉️ <a href="mailto:flair@ign.fr" style="color: lightgreen;"><b>Nous contacter</b></a> – flair@ign.fr – Pour toute question ou proposition de collaboration !</td></tr>
   </tbody>
 </table>
 </center>
@@ -134,7 +133,7 @@ DOI: https://doi.org/10.13140/RG.2.2.30183.73128/1
 <br>
 
 <center>
-<table style="width:95%;max-width:1000px;">
+<table style="width:95%;max-width:600px;">
   <thead>
     <tr>
       <th>Modalité</th>
@@ -198,7 +197,7 @@ DOI: https://doi.org/10.13140/RG.2.2.30183.73128/1
 
 
 
-<br><p align="center"><img src="img/FLAIR-INC_patches_1_VERTICAL.png" alt="" style="width:100%;max-width:1200px;" /></p>
+<br><p align="center"><img src="img/FLAIR-INC_patches_1_VERTICAL.png" alt="" style="width:100%;max-width:1300px;" /></p>
 
 
 
@@ -210,12 +209,22 @@ DOI: https://doi.org/10.13140/RG.2.2.30183.73128/1
 FLAIR-HUB propose deux sources complémentaires de supervision : une annotation à haute résolution de l’occupation du sol, réalisée par photo-interprétation experte à partir des images aériennes RGBI. Elle offre une précision au niveau du pixel et couvre 19 classes d’occupation du sol; une annotation issue des déclarations agricoles dans le cadre de la Politique Agricole Commune (PAC). Elle est structurée en une taxonomie hiérarchique allant jusqu’à 46 classes de types de cultures. Alors que CoSIA reflète l’occupation réelle du sol visible sur les images, LPIS correspond à l’usage déclaré des terres par les agriculteurs. Par conséquent, ces deux modalités diffèrent dans leur objectif, leur précision géométrique, et leur alignement spatial.
 
 
-<table style="width:100%; text-align:center;">
+<center>
+<table style="width:100%; max-width:1100px;">
   <tr>
-    <td><img src="img/NOM_cosia_fr.png" alt="Figure 1" width="80%"><br><small>Supervision de l’occupation du sol (CoSIA)</small></td>
-    <td><img src="img/NOM_lpis_fr.png" alt="Figure 2" width="87%"><br><small>Supervision des types de culture (RPG)</small></td>
+    <td style="text-align:center;">
+      <img src="img/NOM_cosia_fr.png" alt="Figure 1" width="80%">
+      <div><small>Occupation du sol (CoSIA)</small></div>
+    </td>
+    <td style="text-align:center;">
+      <img src="img/NOM_lpis_fr.png" alt="Figure 2" width="87%">
+      <div><small>Types de culture (RPG)</small></div>
+    </td>
   </tr>
 </table>
+</center>
+
+
 
 
 
