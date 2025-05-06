@@ -7,6 +7,12 @@
 @import "fonts";
 @import "rouge-base16-dark.scss";
 
+
+[id] {
+  scroll-margin-top: 80px; /* adjust based on your header height */
+}
+
+
 body {
   padding:0px 0 20px 0px;
   margin: 0px;
