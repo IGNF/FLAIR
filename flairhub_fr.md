@@ -16,12 +16,14 @@ title: FLAIR-HUB
 
 <table style="width:100%; max-width:400px; border: 2px solid red; border-radius: 12px; background-color: rgb(61, 60, 60); border-collapse: separate; border-spacing: 0;">
   <tbody style="color: #1e1e1e; font-size: 1.05em;">
-    <tr><td style="border: none; padding: 4px 25px;">→&nbsp;🔗&nbsp;<a href="#LINKS" style="color: lightgreen;"><b>Liens utiles</b></a></td></tr>
-    <tr><td style="border: none; padding: 4px 25px;">→&nbsp;🎯&nbsp;<a href="#FIGURES" style="color: lightgreen;"><b>Chiffres clés</b></a></td></tr>
-    <tr><td style="border: none; padding: 4px 25px;">→&nbsp;🗂️&nbsp;<a href="#MODALITIES" style="color: lightgreen;"><b>Modalités du dataset</b></a></td></tr>
-    <tr><td style="border: none; padding: 4px 25px;">→&nbsp;🏷️&nbsp;<a href="#SUPERVISION" style="color: lightgreen;"><b>Supervision</b></a></td></tr>
-    <tr><td style="border: none; padding: 4px 25px;">→&nbsp;🧱&nbsp;<a href="#ARCHI" style="color: lightgreen;"><b>Architecture de référence</b></a></td></tr>
-    <tr><td style="border: none; padding: 4px 25px;">→&nbsp;🧭&nbsp;<a href="#FLAIRs" style="color: lightgreen;"><b>Défis FLAIR précédents</b></a></td></tr>    
+    <tr><td style="border: none; padding: 10px;"></td></tr>
+    <tr><td style="border: none; padding: 4px 25px;">➡&nbsp;🔗&nbsp;<a href="#LINKS" style="color: lightgreen;"><b>Liens utiles</b></a></td></tr>
+    <tr><td style="border: none; padding: 4px 25px;">➡&nbsp;🎯&nbsp;<a href="#FIGURES" style="color: lightgreen;"><b>Chiffres clés</b></a></td></tr>
+    <tr><td style="border: none; padding: 4px 25px;">➡&nbsp;🗂️&nbsp;<a href="#MODALITIES" style="color: lightgreen;"><b>Modalités du dataset</b></a></td></tr>
+    <tr><td style="border: none; padding: 4px 25px;">➡&nbsp;🏷️&nbsp;<a href="#SUPERVISION" style="color: lightgreen;"><b>Supervision</b></a></td></tr>
+    <tr><td style="border: none; padding: 4px 25px;">➡&nbsp;🧱&nbsp;<a href="#ARCHI" style="color: lightgreen;"><b>Architecture de référence</b></a></td></tr>
+    <tr><td style="border: none; padding: 4px 25px;">➡&nbsp;🧭&nbsp;<a href="#FLAIRs" style="color: lightgreen;"><b>Défis FLAIR précédents</b></a></td></tr>    
+    <tr><td style="border: none; padding: 10px;"></td></tr>
   </tbody>
 </table>
 </center>
