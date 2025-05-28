@@ -91,7 +91,7 @@ If you use FLAIR-HUB in your research, please cite:
 
 ```
 Anatol Garioud, Sébastien Giordano, Nicolas David, Nicolas Gonthier. 
-FLAIR-HUB: semantic segmentation and domain adaptation dataset. (2025). 
+FLAIR-HUB: Large-scale Multimodal Dataset for Land Cover and Crop Mapping. (2025). 
 DOI: https://doi.org/10.13140/RG.2.2.30183.73128/1
 ```
 
@@ -100,7 +100,7 @@ DOI: https://doi.org/10.13140/RG.2.2.30183.73128/1
   doi = {10.13140/RG.2.2.30183.73128/1},
   url = {https://arxiv.org/pdf/2211.12979.pdf},
   author = {Garioud, Anatol and Giordano, Sébastien and David, Nicolas and Gonthier, Nicolas},
-  title = {FLAIR #1: semantic segmentation and domain adaptation dataset},
+  title = {FLAIR-HUB: Large-scale Multimodal Dataset for Land Cover and Crop Mapping},
   publisher = {arXiv},
   year = {2025}
 }
