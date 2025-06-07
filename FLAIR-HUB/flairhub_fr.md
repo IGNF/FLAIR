@@ -5,6 +5,7 @@ title: FLAIR-HUB
 
 <div style="position: relative; text-align: center;">
   <a href="./flairhub.html" style="font-size: 11pt;"><b>🇬🇧 English version</b></a><br>
+  🔙 <a style="font-size: 11pt" href="../index.html"><b>Retour FLAIR</b></a>
   <img src="../img/flair_bandeau.jpg" alt="" style="width: 100%; max-width: 1200px;" />
 </div>
 <br>
