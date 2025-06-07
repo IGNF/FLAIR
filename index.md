@@ -93,40 +93,40 @@ title: FLAIR Challenges
 
 <div style="
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-  gap: 16px;
-  max-width: 1000px;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 14px;
   margin: 40px auto;
-  padding: 0 10px;
+  padding: 0 5%;
 ">
   <!-- Card 1 -->
-  <div style="background: transparent; border-radius: 10px; overflow: hidden; height: 200px; display: flex; align-items: center; justify-content: center;">
+  <div style="background: transparent; border-radius: 10px; overflow: hidden; height: 220px; display: flex; align-items: center; justify-content: center;">
     <img src="img/FLAIR_recap_3.png" alt="Example 1" style="max-height: 100%; max-width: 100%; object-fit: contain;">
   </div>
 
   <!-- Card 2 -->
-  <div style="background: transparent; border-radius: 10px; overflow: hidden; height: 200px; display: flex; align-items: center; justify-content: center;">
+  <div style="background: transparent; border-radius: 10px; overflow: hidden; height: 220px; display: flex; align-items: center; justify-content: center;">
     <img src="img/flair_dataset_illustration_dark-min.png" alt="Example 2" style="max-height: 100%; max-width: 100%; object-fit: contain;">
   </div>
 
   <!-- Card 3 -->
-  <div style="background: transparent; border-radius: 10px; overflow: hidden; height: 200px; display: flex; align-items: center; justify-content: center;">
+  <div style="background: transparent; border-radius: 10px; overflow: hidden; height: 220px; display: flex; align-items: center; justify-content: center;">
     <img src="img/flair_predict.gif" alt="Example 3" style="max-height: 100%; max-width: 100%; object-fit: contain;">
   </div>
 
   <!-- Card 4 -->
-  <div style="background: transparent; border-radius: 10px; overflow: hidden; height: 200px; display: flex; align-items: center; justify-content: center;">
+  <div style="background: transparent; border-radius: 10px; overflow: hidden; height: 220px; display: flex; align-items: center; justify-content: center;">
     <img src="img/FLAIR-HUB_mods.gif" alt="Example 4" style="max-height: 100%; max-width: 100%; object-fit: contain;">
   </div>
 
   <!-- Card 5 -->
-  <div style="background: transparent; border-radius: 10px; overflow: hidden; height: 200px; display: flex; align-items: center; justify-content: center;">
+  <div style="background: transparent; border-radius: 10px; overflow: hidden; height: 220px; display: flex; align-items: center; justify-content: center;">
     <img src="img/FLAIR-HUB_overview_dark.png" alt="Example 5" style="max-height: 100%; max-width: 100%; object-fit: contain;">
   </div>
 
   <!-- Card 6 -->
-  <div style="background: transparent; border-radius: 10px; overflow: hidden; height: 200px; display: flex; align-items: center; justify-content: center;">
+  <div style="background: transparent; border-radius: 10px; overflow: hidden; height: 220px; display: flex; align-items: center; justify-content: center;">
     <img src="img/FLAIR-HUB_arch_dark.png" alt="Example 6" style="max-height: 100%; max-width: 100%; object-fit: contain;">
   </div>
 </div>
+
 
