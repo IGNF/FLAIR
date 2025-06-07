@@ -2,13 +2,14 @@
 title: Défis Flair
 ---
 🇬🇧 <a style="font-size: 11pt" href="./flair_2.html"><b>English version</b></a>
+🔙 <a style="font-size: 11pt" href="../index.html"><b>Retour FLAIR</b></a>
 
 # Welcome to IGN's FLAIR datasets page!
 
 <p align="center"><img src="../img/flair_bandeau.jpg" alt="" style="width:100%;max-width:1200px;" /></p>
 
 
-
+<br>
 ## FLAIR #2 : Information texturale et temporelle à partir d'imagerie optique multimodal pour la segmentation sémantique 🌍🌱🏠🌳➡️🛩️🛰️
  
 Challenge organisé par l'IGN avec le soutient du <a href="https://cnes.fr/en" target="_blank"><b>CNES</b></a> et de <a href="https://www.connectbycnes.fr/" target="_blank"><b>Connect by CNES</b></a> dans le cadre d'un projet Copernicus / FPCUP.<br>
