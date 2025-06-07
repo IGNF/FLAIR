@@ -36,18 +36,36 @@ title: FLAIR Challenges
         </p>
         <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
           <a href="./FLAIR1/flair_1.html"
-             style="flex: 1; min-width: 250px; max-width: 300px; padding: 20px; background: #ffffff; color: #000000; border-radius: 12px; text-align: center; text-decoration: none; box-shadow: 0 2px 8px rgba(0,0,0,0.15);">
-            <h3>🛩️ FLAIR #1</h3>
+             style="flex: 1; min-width: 250px; max-width: 300px; padding: 20px;
+                    background: #1e1e1e; color: #e0ffe0; border-radius: 12px;
+                    border: 1px solid #006400;
+                    text-align: center; text-decoration: none;
+                    box-shadow: 0 2px 6px rgba(0,0,0,0.3);"
+             onmouseover="this.style.textDecoration='underline';"
+             onmouseout="this.style.textDecoration='none';">
+            <h3 style="margin: 0 0 10px; color: #90ee90;">🛩️ FLAIR #1</h3>
             <p>First challenge around aerial imagery.</p>
           </a>
           <a href="./FLAIR2/flair_2.html"
-             style="flex: 1; min-width: 250px; max-width: 300px; padding: 20px; background: #ffffff; color: #000000; border-radius: 12px; text-align: center; text-decoration: none; box-shadow: 0 2px 8px rgba(0,0,0,0.15);">
-            <h3>🛰️ FLAIR #2</h3>
+             style="flex: 1; min-width: 250px; max-width: 300px; padding: 20px;
+                    background: #1e1e1e; color: #e0ffe0; border-radius: 12px;
+                    border: 1px solid #006400;
+                    text-align: center; text-decoration: none;
+                    box-shadow: 0 2px 6px rgba(0,0,0,0.3);"
+             onmouseover="this.style.textDecoration='underline';"
+             onmouseout="this.style.textDecoration='none';">
+            <h3 style="margin: 0 0 10px; color: #90ee90;">🛰️ FLAIR #2</h3>
             <p>Second challenge with satellite time series.</p>
           </a>
           <a href="./FLAIR-HUB/flairhub.html"
-             style="flex: 1; min-width: 250px; max-width: 300px; padding: 20px; background: #ffffff; color: #000000; border-radius: 12px; text-align: center; text-decoration: none; box-shadow: 0 2px 8px rgba(0,0,0,0.15);">
-            <h3>🌍 FLAIR-HUB</h3>
+             style="flex: 1; min-width: 250px; max-width: 300px; padding: 20px;
+                    background: #1e1e1e; color: #e0ffe0; border-radius: 12px;
+                    border: 1px solid #006400;
+                    text-align: center; text-decoration: none;
+                    box-shadow: 0 2px 6px rgba(0,0,0,0.3);"
+             onmouseover="this.style.textDecoration='underline';"
+             onmouseout="this.style.textDecoration='none';">
+            <h3 style="margin: 0 0 10px; color: #90ee90;">🌍 FLAIR-HUB</h3>
             <p>Unified dataset with 6 modalities & wider coverage.</p>
           </a>
         </div>
