@@ -5,7 +5,7 @@ title: Défis Flair
 
 # Welcome to IGN's FLAIR datasets page!
 
-<p align="center"><img src="img/flair_bandeau.jpg" alt="" style="width:100%;max-width:1200px;" /></p>
+<p align="center"><img src="../img/flair_bandeau.jpg" alt="" style="width:100%;max-width:1200px;" /></p>
 
 
 
