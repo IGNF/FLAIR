@@ -28,29 +28,32 @@ title: FLAIR Challenges
       </tr>
     </thead>
     <tbody>
-      <tr>
-        <td></td>
-        <td colspan="2" style="text-align: center; padding: 2% 4%;">
-          <p style="font-size: 1.1em; margin-bottom: 20px;">
-            <code style="padding: 4px 8px; font-size: 1em; color: #c7254e; border-radius: 4px;">Explore the datasets and baseline codes:</code>
-          </p>
-          <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
-            <a href="./FLAIR1/flair_1.html" style="flex: 1; min-width: 250px; max-width: 300px; padding: 20px; background: #222; color: white; border-radius: 12px; text-align: center;">
-              <h3>🛩️ FLAIR #1</h3>
-              <p>First challenge around aerial imagery.</p>
-            </a>
-            <a href="./FLAIR2/flair_2.html" style="flex: 1; min-width: 250px; max-width: 300px; padding: 20px; background: #222; color: white; border-radius: 12px; text-align: center;">
-              <h3>🛰️ FLAIR #2</h3>
-              <p>Second challenge with satellite time series.</p>
-            </a>
-            <a href="./FLAIR-HUB/flairhub.html" style="flex: 1; min-width: 250px; max-width: 300px; padding: 20px; background: #222; color: white; border-radius: 12px; text-align: center;">
-              <h3>🌍 FLAIR-HUB</h3>
-              <p>Unified dataset with 6 modalities & wider coverage.</p>
-            </a>
-          </div>
-        </td>
-        <td></td>
-      </tr>
+    <tr>
+      <td></td>
+      <td colspan="2" style="text-align: center; padding: 2% 4%;">
+        <p style="font-size: 1.1em; margin-bottom: 20px;">
+          <code style="padding: 4px 8px; font-size: 1em; color: #c7254e; border-radius: 4px;">Explore the datasets and baseline codes:</code>
+        </p>
+        <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+          <a href="./FLAIR1/flair_1.html"
+             style="flex: 1; min-width: 250px; max-width: 300px; padding: 20px; background: #ffffff; color: #000000; border-radius: 12px; text-align: center; text-decoration: none; box-shadow: 0 2px 8px rgba(0,0,0,0.15);">
+            <h3>🛩️ FLAIR #1</h3>
+            <p>First challenge around aerial imagery.</p>
+          </a>
+          <a href="./FLAIR2/flair_2.html"
+             style="flex: 1; min-width: 250px; max-width: 300px; padding: 20px; background: #ffffff; color: #000000; border-radius: 12px; text-align: center; text-decoration: none; box-shadow: 0 2px 8px rgba(0,0,0,0.15);">
+            <h3>🛰️ FLAIR #2</h3>
+            <p>Second challenge with satellite time series.</p>
+          </a>
+          <a href="./FLAIR-HUB/flairhub.html"
+             style="flex: 1; min-width: 250px; max-width: 300px; padding: 20px; background: #ffffff; color: #000000; border-radius: 12px; text-align: center; text-decoration: none; box-shadow: 0 2px 8px rgba(0,0,0,0.15);">
+            <h3>🌍 FLAIR-HUB</h3>
+            <p>Unified dataset with 6 modalities & wider coverage.</p>
+          </a>
+        </div>
+      </td>
+      <td></td>
+    </tr>
       <tr>
         <td></td>
         <td colspan="2" style="text-align: center; padding: 3% 8%;">
