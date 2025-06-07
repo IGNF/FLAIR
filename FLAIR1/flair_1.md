@@ -5,7 +5,7 @@ title: Défis Flair
 
 # Welcome to IGN's FLAIR datasets page!
 
-<p align="center"><img src="img/flair_bandeau.jpg" alt="" style="width:100%;max-width:1200px;" /></p>
+<p align="center"><img src="../img/flair_bandeau.jpg" alt="" style="width:100%;max-width:1200px;" /></p>
 
 
 
@@ -83,9 +83,9 @@ The dataset covers a total of approximatly 812 km², with patches that have been
 
 <table>
     <tr>
-        <td style="text-align: center"><img src="img/flair_ortho.png" 
+        <td style="text-align: center"><img src="../img/flair_ortho.png" 
             alt="Aerial image ORTHO HR" title="ORHTO HR" /></td>
-        <td style="text-align: center"><img src="img/flair_labels.png" alt="Labels" 
+        <td style="text-align: center"><img src="../img/flair_labels.png" alt="Labels" 
             title="Labels" /></td>
     </tr>
     <tr>
@@ -106,7 +106,7 @@ The test dataset consists of 15,700 patches from 10 domains not included in the 
 A U-Net architecture with a pre-trained ResNet34 encoder from the pytorch segmentation models library has been used for the baselines. The used architecture allows integration of patch-wise metadata information and employs commonly used image data augmentation techniques. Codes are available in the FLAIR #1 repository.
 <br/><br/>
 
-<p align="center"><img src="img/flair_predict.gif" alt="" style="width:100%;max-width:850px;" /></p>
+<p align="center"><img src="../img/flair_predict.gif" alt="" style="width:100%;max-width:850px;" /></p>
 <br/><br/>
 </details>
 <br>
