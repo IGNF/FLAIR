@@ -1,9 +1,12 @@
 ---
 title: Défis Flair
 ---
-🇬🇧 <a style="font-size: 11pt" href="./flair_2.html"><b>English version</b></a>
-🔙 <a style="font-size: 11pt" href="../index.html"><b>Retour FLAIR</b></a>
-<br>
+<div style="display: flex; justify-content: space-between; font-size: 11pt;">
+  <a href="./flair_1_fr.html"><b>🇬🇧 English version</b></a>
+  <a href="../index.html"><b>🔙 Retour</b></a>
+</div>
+<p align="center"><img src="../img/flair_bandeau.jpg" alt="" style="width:100%;max-width:1200px;" /></p>
+<br><br>
 
 ## FLAIR #2 : Information texturale et temporelle à partir d'imagerie optique multimodal pour la segmentation sémantique 🌍🌱🏠🌳➡️🛩️🛰️
  
