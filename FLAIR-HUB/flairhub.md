@@ -6,11 +6,11 @@ title: FLAIR-HUB
 <div style="position: relative; text-align: center;">
   <a href="./flairhub_fr.html" style="font-size: 11pt;"><b>🇫🇷 Version française</b></a><br>
   🔙 <a style="font-size: 11pt" href="../index.html"><b>Back to FLAIR</b></a>
-  <img src="../img/flair_bandeau.jpg" alt="" style="width: 100%; max-width: 1200px;" />
 </div>
 <br>
 
 
+## FLAIR-HUB : Large-scale Multimodal Dataset for Land Cover and Crop Mapping
 
 
 <center>
