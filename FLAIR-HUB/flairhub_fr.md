@@ -2,15 +2,17 @@
 layout: default
 title: FLAIR-HUB
 ---
-
-<div style="position: relative; text-align: center;">
-  <a href="./flairhub.html" style="font-size: 11pt;"><b>🇬🇧 English version</b></a><br>
-  🔙 <a style="font-size: 11pt" href="../index.html"><b>Retour FLAIR</b></a>
+<div style="display: flex; justify-content: space-between; font-size: 11pt;">
+  <a href="./flair_1_fr.html"><b>🇬🇧 English version</b></a>
+  <a href="../index.html"><b>🔙 Retour</b></a>
 </div>
-<br>
+<p align="center"><img src="../img/flair_bandeau.jpg" alt="" style="width:100%;max-width:1200px;" /></p>
+<br><br>
 
+<div style="text-align: center;">
+  <h2>FLAIR-HUB :Jeu de données multimodal pour la cartographie de l’occupation des sols et des cultures</h2>
+</div>
 
-## FLAIR-HUB : Jeu de données multimodal pour la cartographie de l’occupation des sols et des cultures
 
 <center>
   
