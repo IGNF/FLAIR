@@ -3,15 +3,17 @@ layout: default
 title: FLAIR-HUB
 ---
 
-<div style="position: relative; text-align: center;">
-  <a href="./flairhub_fr.html" style="font-size: 11pt;"><b>🇫🇷 Version française</b></a><br>
-  🔙 <a style="font-size: 11pt" href="../index.html"><b>Back to FLAIR</b></a>
+<div style="display: flex; justify-content: space-between; font-size: 11pt;">
+  <a href="./flair_1_fr.html"><b>🇫🇷 Version française</b></a>
+  <a href="../index.html"><b>🔙 Back to FLAIR</b></a>
 </div>
-<br>
+<p align="center"><img src="../img/flair_bandeau.jpg" alt="" style="width:100%;max-width:1200px;" /></p>
+<br><br>
 
 
-## FLAIR-HUB : Large-scale Multimodal Dataset for Land Cover and Crop Mapping
-
+<div style="text-align: center;">
+  <h2>FLAIR-HUB : Large-scale Multimodal Dataset for Land Cover and Crop Mapping</h2>
+</div>
 
 <center>
   
