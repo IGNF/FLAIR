@@ -10,7 +10,7 @@ title: FLAIR-HUB
 <br><br>
 
 <div style="text-align: center;">
-  <h2>FLAIR-HUB :Jeu de données multimodal pour la cartographie de l’occupation des sols et des cultures</h2>
+  <h2>FLAIR-HUB : Jeu de données multimodal pour la cartographie de l’occupation des sols et des cultures</h2>
 </div>
 
 
