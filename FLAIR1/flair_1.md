@@ -5,7 +5,7 @@ title: Défis Flair
   <a href="./fr.html"><b>🇫🇷 Version française</b></a>
   <a href="../index.html"><b>🔙 Back to FLAIR</b></a>
 </div>
-<p align="center"><img src="img/flair_bandeau.jpg" alt="" style="width:100%;max-width:1200px;" /></p>
+<p align="center"><img src="../img/flair_bandeau.jpg" alt="" style="width:100%;max-width:1200px;" /></p>
 <br><br>
 
 ## FLAIR #1 : semantic segmentation and domain adaptation 🌍🌱🏠🌳➡️🛩️
