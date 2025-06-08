@@ -3,13 +3,8 @@ title: Défis Flair
 ---
 🇫🇷 <a style="font-size: 11pt" href="./fr.html"><b>Version française</b></a>
 🔙 <a style="font-size: 11pt" href="../index.html"><b>Back to FLAIR</b></a>
-
-# Welcome to IGN's FLAIR datasets page!
-
-<p align="center"><img src="../img/flair_bandeau.jpg" alt="" style="width:100%;max-width:1200px;" /></p>
-
-
 <br>
+
 ## FLAIR #1 : semantic segmentation and domain adaptation 🌍🌱🏠🌳➡️🛩️
 
 
