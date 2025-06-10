@@ -91,13 +91,13 @@ Si vous utilisez FLAIR-HUB, veuillez citer :
 ```
 Anatol Garioud, Sébastien Giordano, Nicolas David, Nicolas Gonthier. 
 FLAIR-HUB: Large-scale Multimodal Dataset for Land Cover and Crop Mapping. (2025). 
-DOI: https://doi.org/10.13140/RG.2.2.30183.73128/1
+DOI: https://doi.org/10.48550/arXiv.2506.07080
 ```
 
 ```bibtex
 @article{ign2025flairhub,
-  doi = {10.13140/RG.2.2.30183.73128/1},
-  url = {https://arxiv.org/pdf/2211.12979.pdf},
+  doi = {10.48550/arXiv.2506.07080},
+  url = {https://arxiv.org/abs/2506.07080},
   author = {Garioud, Anatol and Giordano, Sébastien and David, Nicolas and Gonthier, Nicolas},
   title = {FLAIR-HUB: Large-scale Multimodal Dataset for Land Cover and Crop Mapping},
   publisher = {arXiv},
