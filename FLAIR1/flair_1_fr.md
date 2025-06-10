@@ -3,7 +3,7 @@ title: Défis Flair
 ---
 <div style="display: flex; justify-content: space-between; font-size: 11pt;">
   <a href="./flair_1.html"><b>🇬🇧 English version</b></a>
-  <a href="../index.html"><b>🔙 Retour</b></a>
+  <a href="../index_fr.html"><b>🔙 Retour</b></a>
 </div>
 <p align="center"><img src="../img/flair_bandeau.jpg" alt="" style="width:100%;max-width:1200px;" /></p>
 <br><br>
