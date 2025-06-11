@@ -1,1 +1,16 @@
-[Click here to continue to FLAIR-HUB page](https://ignf.github.io/FLAIR/FLAIR-HUB/flairhub.html)
+---
+layout: none
+permalink: /FLAIR/flairhub/
+---
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="refresh" content="0; url=/FLAIR/FLAIR-HUB/flairhub">
+    <title>Redirecting…</title>
+  </head>
+  <body>
+    <p>If you are not redirected, <a href="/FLAIR/FLAIR-HUB/flairhub">click here</a>.</p>
+  </body>
+</html>
