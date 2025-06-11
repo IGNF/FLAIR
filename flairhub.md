@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta http-equiv="refresh" content="0; url=https://ignf.github.io/FLAIR/FLAIR-HUB/flairhub.html/>
+    <meta http-equiv="refresh" content="0; url=https://ignf.github.io/FLAIR/FLAIR-HUB/flairhub.html" />
     <title>Redirecting...</title>
   </head>
   <body>
