@@ -55,7 +55,7 @@ title: Défis Flair
              onmouseover="this.style.textDecoration='underline';"
              onmouseout="this.style.textDecoration='none';">
             <h3 style="margin: 0 0 10px; color: #90ee90;">🛰️ FLAIR #2</h3>
-            <p>Second défi avec séries temporelles satellitaires.</p>
+            <p>Second défi avec de la donnée aérienne et des séries temporelles satellitaires.</p>
           </a>
           <a href="./FLAIR-HUB/flairhub.html"
              style="flex: 1; min-width: 250px; max-width: 300px; padding: 20px;
