@@ -55,7 +55,7 @@ title: FLAIR Challenges
              onmouseover="this.style.textDecoration='underline';"
              onmouseout="this.style.textDecoration='none';">
             <h3 style="margin: 0 0 10px; color: #90ee90;">🛰️ FLAIR #2</h3>
-            <p>Second challenge with satellite time series.</p>
+            <p>Second challenge with aerial imagery and satellite time series.</p>
           </a>
           <a href="./FLAIR-HUB/flairhub.html"
              style="flex: 1; min-width: 250px; max-width: 300px; padding: 20px;
@@ -130,6 +130,7 @@ title: FLAIR Challenges
     <img src="img/FLAIR-HUB_arch_dark.png" alt="Example 6" style="max-height: 100%; max-width: 100%; object-fit: contain;">
   </div>
 </div>
+
 
 
 
