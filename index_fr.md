@@ -35,7 +35,7 @@ title: Défis Flair
           <code style="padding: 4px 8px; font-size: 1em; color: #c7254e; border-radius: 4px;">Explorez les jeux de données et les codes associés:</code>
         </p>
         <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
-          <a href="./FLAIR1/flair_1.html"
+          <a href="./FLAIR1/flair_1_fr.html"
              style="flex: 1; min-width: 250px; max-width: 300px; padding: 20px;
                     background: #1e1e1e; color: #e0ffe0; border-radius: 12px;
                     border: 1px solid #006400;
@@ -46,7 +46,7 @@ title: Défis Flair
             <h3 style="margin: 0 0 10px; color: #90ee90;">🛩️ FLAIR #1</h3>
             <p>Premier défi autour de la donnée aérienne.</p>
           </a>
-          <a href="./FLAIR2/flair_2.html"
+          <a href="./FLAIR2/flair_2_fr.html"
              style="flex: 1; min-width: 250px; max-width: 300px; padding: 20px;
                     background: #1e1e1e; color: #e0ffe0; border-radius: 12px;
                     border: 1px solid #006400;
@@ -57,7 +57,7 @@ title: Défis Flair
             <h3 style="margin: 0 0 10px; color: #90ee90;">🛰️ FLAIR #2</h3>
             <p>Second défi avec de la donnée aérienne et des séries temporelles satellitaires.</p>
           </a>
-          <a href="./FLAIR-HUB/flairhub.html"
+          <a href="./FLAIR-HUB/flairhub_fr.html"
              style="flex: 1; min-width: 250px; max-width: 300px; padding: 20px;
                     background: #1e1e1e; color: #e0ffe0; border-radius: 12px;
                     border: 1px solid #006400;
