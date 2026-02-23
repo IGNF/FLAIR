@@ -76,7 +76,7 @@ title: Défis Flair
         <td></td>
         <td colspan="2" style="text-align: center; padding: 3% 8%;">
           <p style="font-size: 1.05em; line-height: 1.6em;">
-            Les jeux de données FLAIR sont sous la licence <a href="https://www.etalab.gouv.fr/wp-content/uploads/2018/11/open-licence.pdf" target="_blank"><b>Licence Ouverte 2.0</b></a> d'Etalab.<br>Faites mention de la paternité du jeu de données en citant le datapapers associé.
+            Les jeux de données FLAIR sont sous la licence <a href="https://www.etalab.gouv.fr/wp-content/uploads/2018/11/open-licence.pdf" target="_blank"><b>Licence Ouverte 2.0</b></a> d'Etalab.<br>Faites mention de la paternité du jeu de données en citant le datapaper associé.
           </p>
           <img src="img/ETALAB_LICENCE_FLAIR.png" alt="Etalab Licence" style="width:100%; max-width:200px; margin-top: 20px;">
         </td>
