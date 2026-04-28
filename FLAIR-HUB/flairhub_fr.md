@@ -68,7 +68,8 @@ title: FLAIR-HUB
 <center>
 <table style="width:100%; max-width:1200px; background-color:rgb(61, 60, 60); border: 2px solid green; border-radius: 12px; border-collapse: separate; border-spacing: 0;">
   <tbody style="color: white; font-size: 1.05em;">
-    <tr><td style="border: none; padding: 4px 20px;">📄 <a href="https://arxiv.org/abs/2506.07080" target="_blank" style="color: lightgreen;"><b>Data Paper</b></a> – Learn more about the dataset in the official publication</td></tr>
+    <tr><td style="border: none; padding: 4px 20px;">📄 <a href="https://www.sciencedirect.com/science/article/pii/S0924271626001899" target="_blank" style="color: lightgreen;"><b>Journal Paper (ISPRS)</b></a> – Learn more about the dataset in the official publication</td></tr>
+    <tr><td style="border: none; padding: 4px 20px;">📄 <a href="https://arxiv.org/abs/2506.07080" target="_blank" style="color: lightgreen;"><b>Data Paper (arXiv)</b></a> – Learn more about the dataset in the official publication</td></tr>
     <tr><td style="border: none; padding: 4px 20px;">📁 <a href="https://storage.gra.cloud.ovh.net/v1/AUTH_366279ce616242ebb14161b7991a8461/defi-ia/flair_hub/FLAIR-HUB_TOY_DATASET.zip" target="_blank" style="color: lightgreen;"><b>Téléchargez le jeu de données jouet (~750 MB)</b></a> – Inclut toutes les modalités dans une version allégée (accès direct)</td></tr>
     <tr><td style="border: none; padding: 4px 20px;">📁 <a href="https://huggingface.co/datasets/IGNF/FLAIR-HUB" target="_blank" style="color: lightgreen;"><b>Téléchargez le jeu de données complet</b></a> – Accédez à l'intégralité de FLAIR-HUB sur HuggingFace</td></tr>
     <tr><td style="border: none; padding: 4px 20px;">🤖 <a href="https://huggingface.co/collections/IGNF/flair-models-684035e78bd5bff99199ff87" target="_blank" style="color: lightgreen;"><b>Modèles pré-entraînés</b></a> – Explorez les modèles développés sur FLAIR-HUB</td></tr>
@@ -90,18 +91,22 @@ Si vous utilisez FLAIR-HUB, veuillez citer :
 
 ```
 Anatol Garioud, Sébastien Giordano, Nicolas David, Nicolas Gonthier. 
-FLAIR-HUB: Large-scale Multimodal Dataset for Land Cover and Crop Mapping. (2025). 
-DOI: https://doi.org/10.48550/arXiv.2506.07080
+FLAIR-HUB: Large-scale Multimodal Dataset for Land Cover and Crop Mapping.
+ISPRS Journal of Photogrammetry and Remote Sensing, Volume 237, 2026.
+DOI: https://doi.org/10.1016/j.isprsjprs.2026.04.017
 ```
 
 ```bibtex
-@article{ign2025flairhub,
-  doi = {10.48550/arXiv.2506.07080},
-  url = {https://arxiv.org/abs/2506.07080},
-  author = {Garioud, Anatol and Giordano, Sébastien and David, Nicolas and Gonthier, Nicolas},
-  title = {FLAIR-HUB: Large-scale Multimodal Dataset for Land Cover and Crop Mapping},
-  publisher = {arXiv},
-  year = {2025}
+@article{GARIOUD2026271,
+title = {FLAIR-HUB: Large-scale multimodal dataset for land cover and crop mapping},
+author = {Anatol Garioud and Sébastien Giordano and Nicolas David and Nicolas Gonthier},
+journal = {ISPRS Journal of Photogrammetry and Remote Sensing},
+volume = {237},
+pages = {271-300},
+year = {2026},
+issn = {0924-2716},
+doi = {https://doi.org/10.1016/j.isprsjprs.2026.04.017},
+url = {https://www.sciencedirect.com/science/article/pii/S0924271626001899},
 }
 ```
 
